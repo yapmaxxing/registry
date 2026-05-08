@@ -1,0 +1,31 @@
+name: Sync GreasyFork scripts
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch & merge
+        run: |
+          curl -k "https://api.greasyfork.org/scripts/by-site/milkywayidle.com.json" > /tmp/a.json
+          curl -k "https://api.greasyfork.org/scripts/by-site/milkywayidlecn.com.json" > /tmp/b.json
+          node -e "
+            const a=JSON.parse(require('fs').readFileSync('/tmp/a.json'));
+            const b=JSON.parse(require('fs').readFileSync('/tmp/b.json'));
+            const seen=new Set();
+            const m=[...a,...b].filter(s=>seen.has(s.id)?false:seen.add(s.id));
+            m.sort((a,b)=>(b.daily_installs||0)-(a.daily_installs||0));
+            require('fs').writeFileSync('games/milkywayidle/scripts/greasyfork-fallback.json',JSON.stringify(m,null,2));
+          "
+      - name: Commit
+        run: |
+          git config user.name 'github-actions'
+          git config user.email 'actions@github.com'
+          git add games/milkywayidle/scripts/greasyfork-fallback.json
+          git diff --staged --quiet || git commit -m "sync: update GF scripts snapshot"
+          git push
