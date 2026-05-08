@@ -8,12 +8,15 @@ permissions:
 jobs:
   sync:
     runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     steps:
       - uses: actions/checkout@v4
       - name: Fetch & merge
         run: |
+          mkdir -p games/milkywayidle/scripts
           curl -k "https://api.greasyfork.org/scripts/by-site/milkywayidle.com.json" > /tmp/a.json
-          curl -k "https://api.greasyfork.org/scripts/by-site/milkywayidlecn.com.json" > /tmp/b.json
+          curl -k "https://api.greasyfork.org/scripts/by-site/milkywayidlecn.com.json" > /tmp/b.json || true
           node -e "
             const a=JSON.parse(require('fs').readFileSync('/tmp/a.json'));
             const b=JSON.parse(require('fs').readFileSync('/tmp/b.json'));
