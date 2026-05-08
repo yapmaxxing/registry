@@ -2,7 +2,7 @@
   {
     "id": 567386,
     "daily_installs": 22,
-    "total_installs": 1476,
+    "total_installs": 1477,
     "fan_score": "61.0",
     "good_ratings": 6,
     "ok_ratings": 0,
@@ -98,7 +98,7 @@
   {
     "id": 546655,
     "daily_installs": 13,
-    "total_installs": 1361,
+    "total_installs": 1362,
     "fan_score": "5.0",
     "good_ratings": 0,
     "ok_ratings": 0,
@@ -130,7 +130,7 @@
   {
     "id": 499963,
     "daily_installs": 11,
-    "total_installs": 5842,
+    "total_installs": 5843,
     "fan_score": "65.7",
     "good_ratings": 13,
     "ok_ratings": 4,
@@ -157,6 +157,38 @@
     "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
     "version": "0.507",
     "locale": "zh-CN",
+    "deleted": false
+  },
+  {
+    "id": 541550,
+    "daily_installs": 5,
+    "total_installs": 629,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2025-07-03T16:56:01.000Z",
+    "code_updated_at": "2025-07-03T17:34:06.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1475215,
+        "name": "yiweilongzxa",
+        "created_at": "2025-05-26T17:54:56.000Z",
+        "url": "https://greasyfork.org/users/1475215-yiweilongzxa"
+      }
+    ],
+    "name": "三采行动计算器",
+    "description": "在网站上显示一个可隐藏的操作面板，计算三采行动所需次数，支持回车切换输入框，自动替换中文句号为英文小数点，输入文字为黑色",
+    "url": "https://greasyfork.org/scripts/541550-%E4%B8%89%E9%87%87%E8%A1%8C%E5%8A%A8%E8%AE%A1%E7%AE%97%E5%99%A8",
+    "code_url": "https://update.greasyfork.org/scripts/541550/%E4%B8%89%E9%87%87%E8%A1%8C%E5%8A%A8%E8%AE%A1%E7%AE%97%E5%99%A8.user.js",
+    "code_size": 9517,
+    "license": "MIT License",
+    "version": "2.0",
+    "locale": "en",
     "deleted": false
   },
   {
@@ -224,9 +256,41 @@
     "deleted": false
   },
   {
+    "id": 562662,
+    "daily_installs": 5,
+    "total_installs": 961,
+    "fan_score": "51.0",
+    "good_ratings": 4,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2026-01-14T16:34:28.000Z",
+    "code_updated_at": "2026-05-08T20:37:21.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1512305,
+        "name": "Celasha",
+        "created_at": "2025-09-06T05:04:15.000Z",
+        "url": "https://greasyfork.org/users/1512305-celasha"
+      }
+    ],
+    "name": "Toolasha",
+    "description": "Toolasha - Enhanced tools for Milky Way Idle.",
+    "url": "https://greasyfork.org/scripts/562662-toolasha",
+    "code_url": "https://update.greasyfork.org/scripts/562662/Toolasha.user.js",
+    "code_size": 32804,
+    "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
+    "version": "2.40.7",
+    "locale": "en",
+    "deleted": false
+  },
+  {
     "id": 535181,
     "daily_installs": 4,
-    "total_installs": 1107,
+    "total_installs": 1108,
     "fan_score": "34.2",
     "good_ratings": 2,
     "ok_ratings": 0,
@@ -284,70 +348,6 @@
     "code_size": 47510,
     "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
     "version": "0.3.6",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 541550,
-    "daily_installs": 4,
-    "total_installs": 628,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2025-07-03T16:56:01.000Z",
-    "code_updated_at": "2025-07-03T17:34:06.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1475215,
-        "name": "yiweilongzxa",
-        "created_at": "2025-05-26T17:54:56.000Z",
-        "url": "https://greasyfork.org/users/1475215-yiweilongzxa"
-      }
-    ],
-    "name": "三采行动计算器",
-    "description": "在网站上显示一个可隐藏的操作面板，计算三采行动所需次数，支持回车切换输入框，自动替换中文句号为英文小数点，输入文字为黑色",
-    "url": "https://greasyfork.org/scripts/541550-%E4%B8%89%E9%87%87%E8%A1%8C%E5%8A%A8%E8%AE%A1%E7%AE%97%E5%99%A8",
-    "code_url": "https://update.greasyfork.org/scripts/541550/%E4%B8%89%E9%87%87%E8%A1%8C%E5%8A%A8%E8%AE%A1%E7%AE%97%E5%99%A8.user.js",
-    "code_size": 9517,
-    "license": "MIT License",
-    "version": "2.0",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 562662,
-    "daily_installs": 4,
-    "total_installs": 960,
-    "fan_score": "51.0",
-    "good_ratings": 4,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2026-01-14T16:34:28.000Z",
-    "code_updated_at": "2026-05-07T23:12:13.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1512305,
-        "name": "Celasha",
-        "created_at": "2025-09-06T05:04:15.000Z",
-        "url": "https://greasyfork.org/users/1512305-celasha"
-      }
-    ],
-    "name": "Toolasha",
-    "description": "Toolasha - Enhanced tools for Milky Way Idle.",
-    "url": "https://greasyfork.org/scripts/562662-toolasha",
-    "code_url": "https://update.greasyfork.org/scripts/562662/Toolasha.user.js",
-    "code_size": 32804,
-    "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
-    "version": "2.40.6",
     "locale": "en",
     "deleted": false
   },
@@ -544,38 +544,6 @@
     "deleted": false
   },
   {
-    "id": 540440,
-    "daily_installs": 1,
-    "total_installs": 461,
-    "fan_score": "56.6",
-    "good_ratings": 5,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2025-06-22T21:12:02.000Z",
-    "code_updated_at": "2025-10-15T20:06:07.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1484691,
-        "name": "byteArray567",
-        "created_at": "2025-06-16T23:34:12.000Z",
-        "url": "https://greasyfork.org/users/1484691-bytearray567"
-      }
-    ],
-    "name": "MWITools - Extended",
-    "description": "Extention for MWITools.",
-    "url": "https://greasyfork.org/scripts/540440-mwitools-extended",
-    "code_url": "https://update.greasyfork.org/scripts/540440/MWITools%20-%20Extended.user.js",
-    "code_size": 579495,
-    "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
-    "version": "23.3.9.3",
-    "locale": "en",
-    "deleted": false
-  },
-  {
     "id": 544234,
     "daily_installs": 1,
     "total_installs": 158,
@@ -636,38 +604,6 @@
     "code_size": 32636,
     "license": "MIT License",
     "version": "1.12",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 568289,
-    "daily_installs": 1,
-    "total_installs": 53,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2026-03-03T23:15:53.000Z",
-    "code_updated_at": "2026-04-28T05:34:43.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1468994,
-        "name": "frotty",
-        "created_at": "2025-05-12T06:06:47.000Z",
-        "url": "https://greasyfork.org/users/1468994-frotty"
-      }
-    ],
-    "name": "SoloSim - Milky Way Idle Solo Combat Simulator",
-    "description": "SoloSim with loadout selection — sim with equipped gear OR pick any loadout.",
-    "url": "https://greasyfork.org/scripts/568289-solosim-milky-way-idle-solo-combat-simulator",
-    "code_url": "https://update.greasyfork.org/scripts/568289/SoloSim%20-%20Milky%20Way%20Idle%20Solo%20Combat%20Simulator.user.js",
-    "code_size": 418244,
-    "license": "MIT License",
-    "version": "0.2.5",
     "locale": "en",
     "deleted": false
   },
@@ -765,6 +701,262 @@
     "license": "MIT License",
     "version": "1.0.3",
     "locale": "zh-CN",
+    "deleted": false
+  },
+  {
+    "id": 568289,
+    "daily_installs": 0,
+    "total_installs": 53,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2026-03-03T23:15:53.000Z",
+    "code_updated_at": "2026-04-28T05:34:43.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1468994,
+        "name": "frotty",
+        "created_at": "2025-05-12T06:06:47.000Z",
+        "url": "https://greasyfork.org/users/1468994-frotty"
+      }
+    ],
+    "name": "SoloSim - Milky Way Idle Solo Combat Simulator",
+    "description": "SoloSim with loadout selection — sim with equipped gear OR pick any loadout.",
+    "url": "https://greasyfork.org/scripts/568289-solosim-milky-way-idle-solo-combat-simulator",
+    "code_url": "https://update.greasyfork.org/scripts/568289/SoloSim%20-%20Milky%20Way%20Idle%20Solo%20Combat%20Simulator.user.js",
+    "code_size": 418244,
+    "license": "MIT License",
+    "version": "0.2.5",
+    "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 540440,
+    "daily_installs": 0,
+    "total_installs": 461,
+    "fan_score": "56.6",
+    "good_ratings": 5,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2025-06-22T21:12:02.000Z",
+    "code_updated_at": "2025-10-15T20:06:07.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1484691,
+        "name": "byteArray567",
+        "created_at": "2025-06-16T23:34:12.000Z",
+        "url": "https://greasyfork.org/users/1484691-bytearray567"
+      }
+    ],
+    "name": "MWITools - Extended",
+    "description": "Extention for MWITools.",
+    "url": "https://greasyfork.org/scripts/540440-mwitools-extended",
+    "code_url": "https://update.greasyfork.org/scripts/540440/MWITools%20-%20Extended.user.js",
+    "code_size": 579495,
+    "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
+    "version": "23.3.9.3",
+    "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 545920,
+    "daily_installs": 0,
+    "total_installs": 2,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2025-08-15T06:31:49.000Z",
+    "code_updated_at": "2025-08-15T09:22:07.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1475215,
+        "name": "yiweilongzxa",
+        "created_at": "2025-05-26T17:54:56.000Z",
+        "url": "https://greasyfork.org/users/1475215-yiweilongzxa"
+      }
+    ],
+    "name": "导出背包物品和计算火车木板需要量",
+    "description": "导出背包物品和计算火车木板需要数量",
+    "url": "https://greasyfork.org/scripts/545920-%E5%AF%BC%E5%87%BA%E8%83%8C%E5%8C%85%E7%89%A9%E5%93%81%E5%92%8C%E8%AE%A1%E7%AE%97%E7%81%AB%E8%BD%A6%E6%9C%A8%E6%9D%BF%E9%9C%80%E8%A6%81%E9%87%8F",
+    "code_url": "https://update.greasyfork.org/scripts/545920/%E5%AF%BC%E5%87%BA%E8%83%8C%E5%8C%85%E7%89%A9%E5%93%81%E5%92%8C%E8%AE%A1%E7%AE%97%E7%81%AB%E8%BD%A6%E6%9C%A8%E6%9D%BF%E9%9C%80%E8%A6%81%E9%87%8F.user.js",
+    "code_size": 18300,
+    "license": "MIT License",
+    "version": "2.2",
+    "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 546019,
+    "daily_installs": 0,
+    "total_installs": 1,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2025-08-16T01:56:21.000Z",
+    "code_updated_at": "2025-08-16T01:56:21.000Z",
+    "namespace": "http://www.milkywayidle.com/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1503103,
+        "name": "physon",
+        "created_at": "2025-08-09T08:06:14.000Z",
+        "url": "https://greasyfork.org/users/1503103-physon"
+      }
+    ],
+    "name": "Milky Way Idle - Chat History Font Size Increaser",
+    "description": "Change font size to 20px for Chat History",
+    "url": "https://greasyfork.org/scripts/546019-milky-way-idle-chat-history-font-size-increaser",
+    "code_url": "https://update.greasyfork.org/scripts/546019/Milky%20Way%20Idle%20-%20Chat%20History%20Font%20Size%20Increaser.user.js",
+    "code_size": 1424,
+    "license": "MIT License",
+    "version": "1.0",
+    "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 546946,
+    "daily_installs": 0,
+    "total_installs": 20,
+    "fan_score": "5.5",
+    "good_ratings": 0,
+    "ok_ratings": 1,
+    "bad_ratings": 0,
+    "created_at": "2025-08-23T16:15:25.000Z",
+    "code_updated_at": "2025-10-19T02:37:11.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 800583,
+        "name": "lerh-h",
+        "created_at": "2021-08-05T08:27:06.000Z",
+        "url": "https://greasyfork.org/users/800583-lerh-h"
+      }
+    ],
+    "name": "批量强化成本计算",
+    "description": "基于 MWITools修改的批量强化结果计算脚本",
+    "url": "https://greasyfork.org/scripts/546946-%E6%89%B9%E9%87%8F%E5%BC%BA%E5%8C%96%E6%88%90%E6%9C%AC%E8%AE%A1%E7%AE%97",
+    "code_url": "https://update.greasyfork.org/scripts/546946/%E6%89%B9%E9%87%8F%E5%BC%BA%E5%8C%96%E6%88%90%E6%9C%AC%E8%AE%A1%E7%AE%97.user.js",
+    "code_size": 430847,
+    "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
+    "version": "1.4",
+    "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 567803,
+    "daily_installs": 0,
+    "total_installs": 6,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2026-02-28T03:47:37.000Z",
+    "code_updated_at": "2026-03-07T05:20:39.000Z",
+    "namespace": "mwi_collections_extended",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1562587,
+        "name": "mists",
+        "created_at": "2026-01-20T05:13:38.000Z",
+        "url": "https://greasyfork.org/users/1562587-mists"
+      }
+    ],
+    "name": "MWI Collections Extended",
+    "description": "Smart collections browser with time efficiency sorting (Cmd+J / Ctrl+J)",
+    "url": "https://greasyfork.org/scripts/567803-mwi-collections-extended",
+    "code_url": "https://update.greasyfork.org/scripts/567803/MWI%20Collections%20Extended.user.js",
+    "code_size": 45063,
+    "license": "MIT License",
+    "version": "2.2.0",
+    "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 567804,
+    "daily_installs": 0,
+    "total_installs": 3,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2026-02-28T03:48:39.000Z",
+    "code_updated_at": "2026-02-28T03:48:39.000Z",
+    "namespace": "mwi_debug_helper",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1562587,
+        "name": "mists",
+        "created_at": "2026-01-20T05:13:38.000Z",
+        "url": "https://greasyfork.org/users/1562587-mists"
+      }
+    ],
+    "name": "MWI Debug Helper",
+    "description": "Lightweight debug helper for investigating MWI game data",
+    "url": "https://greasyfork.org/scripts/567804-mwi-debug-helper",
+    "code_url": "https://update.greasyfork.org/scripts/567804/MWI%20Debug%20Helper.user.js",
+    "code_size": 19197,
+    "license": "MIT License",
+    "version": "1.0.0",
+    "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 568568,
+    "daily_installs": 0,
+    "total_installs": 4,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2026-03-06T02:49:04.000Z",
+    "code_updated_at": "2026-03-06T03:24:10.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1468994,
+        "name": "frotty",
+        "created_at": "2025-05-12T06:06:47.000Z",
+        "url": "https://greasyfork.org/users/1468994-frotty"
+      }
+    ],
+    "name": "Milkablo 3 - MWI Labyrinth Greater Rifts Action Progress Timer",
+    "description": "Visual progress bar comparing action progress against a 2-minute timer",
+    "url": "https://greasyfork.org/scripts/568568-milkablo-3-mwi-labyrinth-greater-rifts-action-progress-timer",
+    "code_url": "https://update.greasyfork.org/scripts/568568/Milkablo%203%20-%20MWI%20Labyrinth%20Greater%20Rifts%20Action%20Progress%20Timer.user.js",
+    "code_size": 25155,
+    "license": "MIT License",
+    "version": "0.2.0",
+    "locale": "en",
     "deleted": false
   },
   {
@@ -2720,102 +2912,6 @@
     "deleted": false
   },
   {
-    "id": 545920,
-    "daily_installs": 0,
-    "total_installs": 2,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2025-08-15T06:31:49.000Z",
-    "code_updated_at": "2025-08-15T09:22:07.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1475215,
-        "name": "yiweilongzxa",
-        "created_at": "2025-05-26T17:54:56.000Z",
-        "url": "https://greasyfork.org/users/1475215-yiweilongzxa"
-      }
-    ],
-    "name": "导出背包物品和计算火车木板需要量",
-    "description": "导出背包物品和计算火车木板需要数量",
-    "url": "https://greasyfork.org/scripts/545920-%E5%AF%BC%E5%87%BA%E8%83%8C%E5%8C%85%E7%89%A9%E5%93%81%E5%92%8C%E8%AE%A1%E7%AE%97%E7%81%AB%E8%BD%A6%E6%9C%A8%E6%9D%BF%E9%9C%80%E8%A6%81%E9%87%8F",
-    "code_url": "https://update.greasyfork.org/scripts/545920/%E5%AF%BC%E5%87%BA%E8%83%8C%E5%8C%85%E7%89%A9%E5%93%81%E5%92%8C%E8%AE%A1%E7%AE%97%E7%81%AB%E8%BD%A6%E6%9C%A8%E6%9D%BF%E9%9C%80%E8%A6%81%E9%87%8F.user.js",
-    "code_size": 18300,
-    "license": "MIT License",
-    "version": "2.2",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 546019,
-    "daily_installs": 0,
-    "total_installs": 1,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2025-08-16T01:56:21.000Z",
-    "code_updated_at": "2025-08-16T01:56:21.000Z",
-    "namespace": "http://www.milkywayidle.com/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1503103,
-        "name": "physon",
-        "created_at": "2025-08-09T08:06:14.000Z",
-        "url": "https://greasyfork.org/users/1503103-physon"
-      }
-    ],
-    "name": "Milky Way Idle - Chat History Font Size Increaser",
-    "description": "Change font size to 20px for Chat History",
-    "url": "https://greasyfork.org/scripts/546019-milky-way-idle-chat-history-font-size-increaser",
-    "code_url": "https://update.greasyfork.org/scripts/546019/Milky%20Way%20Idle%20-%20Chat%20History%20Font%20Size%20Increaser.user.js",
-    "code_size": 1424,
-    "license": "MIT License",
-    "version": "1.0",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 546946,
-    "daily_installs": 0,
-    "total_installs": 20,
-    "fan_score": "5.5",
-    "good_ratings": 0,
-    "ok_ratings": 1,
-    "bad_ratings": 0,
-    "created_at": "2025-08-23T16:15:25.000Z",
-    "code_updated_at": "2025-10-19T02:37:11.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 800583,
-        "name": "lerh-h",
-        "created_at": "2021-08-05T08:27:06.000Z",
-        "url": "https://greasyfork.org/users/800583-lerh-h"
-      }
-    ],
-    "name": "批量强化成本计算",
-    "description": "基于 MWITools修改的批量强化结果计算脚本",
-    "url": "https://greasyfork.org/scripts/546946-%E6%89%B9%E9%87%8F%E5%BC%BA%E5%8C%96%E6%88%90%E6%9C%AC%E8%AE%A1%E7%AE%97",
-    "code_url": "https://update.greasyfork.org/scripts/546946/%E6%89%B9%E9%87%8F%E5%BC%BA%E5%8C%96%E6%88%90%E6%9C%AC%E8%AE%A1%E7%AE%97.user.js",
-    "code_size": 430847,
-    "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
-    "version": "1.4",
-    "locale": "en",
-    "deleted": false
-  },
-  {
     "id": 548679,
     "daily_installs": 0,
     "total_installs": 8,
@@ -3136,38 +3232,6 @@
     "deleted": false
   },
   {
-    "id": 556924,
-    "daily_installs": 0,
-    "total_installs": 50,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2025-11-25T23:15:31.000Z",
-    "code_updated_at": "2025-12-12T00:38:02.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1453768,
-        "name": "sentientmilk",
-        "created_at": "2025-04-04T02:23:09.000Z",
-        "url": "https://greasyfork.org/users/1453768-sentientmilk"
-      }
-    ],
-    "name": "Insert dungeon run time",
-    "description": "Insert dungeon run time after the key count",
-    "url": "https://greasyfork.org/scripts/556924-insert-dungeon-run-time",
-    "code_url": "https://update.greasyfork.org/scripts/556924/Insert%20dungeon%20run%20time.user.js",
-    "code_size": 10376,
-    "license": "MIT License",
-    "version": "2025-12-11-2",
-    "locale": "en",
-    "deleted": false
-  },
-  {
     "id": 557712,
     "daily_installs": 0,
     "total_installs": 47,
@@ -3420,102 +3484,6 @@
     "code_size": 34198,
     "license": "MIT License",
     "version": "1.6",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 567803,
-    "daily_installs": 0,
-    "total_installs": 6,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2026-02-28T03:47:37.000Z",
-    "code_updated_at": "2026-03-07T05:20:39.000Z",
-    "namespace": "mwi_collections_extended",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1562587,
-        "name": "mists",
-        "created_at": "2026-01-20T05:13:38.000Z",
-        "url": "https://greasyfork.org/users/1562587-mists"
-      }
-    ],
-    "name": "MWI Collections Extended",
-    "description": "Smart collections browser with time efficiency sorting (Cmd+J / Ctrl+J)",
-    "url": "https://greasyfork.org/scripts/567803-mwi-collections-extended",
-    "code_url": "https://update.greasyfork.org/scripts/567803/MWI%20Collections%20Extended.user.js",
-    "code_size": 45063,
-    "license": "MIT License",
-    "version": "2.2.0",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 567804,
-    "daily_installs": 0,
-    "total_installs": 3,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2026-02-28T03:48:39.000Z",
-    "code_updated_at": "2026-02-28T03:48:39.000Z",
-    "namespace": "mwi_debug_helper",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1562587,
-        "name": "mists",
-        "created_at": "2026-01-20T05:13:38.000Z",
-        "url": "https://greasyfork.org/users/1562587-mists"
-      }
-    ],
-    "name": "MWI Debug Helper",
-    "description": "Lightweight debug helper for investigating MWI game data",
-    "url": "https://greasyfork.org/scripts/567804-mwi-debug-helper",
-    "code_url": "https://update.greasyfork.org/scripts/567804/MWI%20Debug%20Helper.user.js",
-    "code_size": 19197,
-    "license": "MIT License",
-    "version": "1.0.0",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 568568,
-    "daily_installs": 0,
-    "total_installs": 4,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2026-03-06T02:49:04.000Z",
-    "code_updated_at": "2026-03-06T03:24:10.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1468994,
-        "name": "frotty",
-        "created_at": "2025-05-12T06:06:47.000Z",
-        "url": "https://greasyfork.org/users/1468994-frotty"
-      }
-    ],
-    "name": "Milkablo 3 - MWI Labyrinth Greater Rifts Action Progress Timer",
-    "description": "Visual progress bar comparing action progress against a 2-minute timer",
-    "url": "https://greasyfork.org/scripts/568568-milkablo-3-mwi-labyrinth-greater-rifts-action-progress-timer",
-    "code_url": "https://update.greasyfork.org/scripts/568568/Milkablo%203%20-%20MWI%20Labyrinth%20Greater%20Rifts%20Action%20Progress%20Timer.user.js",
-    "code_size": 25155,
-    "license": "MIT License",
-    "version": "0.2.0",
     "locale": "en",
     "deleted": false
   },
