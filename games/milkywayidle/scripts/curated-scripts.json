@@ -2,6 +2,7 @@
   "scripts": [
     {
       "name": "MWITools",
+      "greasyfork_id": 494467,
       "description": "Tools for MilkyWayIdle - action time, market prices, combat summary, networth",
       "author": "YangLeda",
       "owner": "YangLeda",
@@ -11,6 +12,7 @@
     },
     {
       "name": "Toolasha",
+      "greasyfork_id": 562662,
       "description": "Toolasha - Enhanced tools for Milky Way Idle.",
       "author": "Celasha",
       "owner": "Celasha",
