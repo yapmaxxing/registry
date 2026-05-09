@@ -1,18 +1,22 @@
 {
-  "repositories": [
+  "scripts": [
     {
-      "name": "MWITools by YangLeda",
+      "name": "MWITools",
+      "description": "Tools for MilkyWayIdle - action time, market prices, combat summary, networth",
+      "author": "YangLeda",
       "owner": "YangLeda",
       "repo": "Userscripts-For-MilkyWayIdle",
       "branch": "main",
-      "description": "The most popular MWI tools collection"
+      "path": "MWITools.js"
     },
     {
-      "name": "Toolasha by Celasha",
+      "name": "Toolasha",
+      "description": "Toolasha - Enhanced tools for Milky Way Idle.",
+      "author": "Celasha",
       "owner": "Celasha",
       "repo": "Toolasha",
       "branch": "releases",
-      "description": "Toolasha - Enhanced tools for Milky Way Idle."
+      "path": "dist/Toolasha.user.js"
     }
   ]
 }
