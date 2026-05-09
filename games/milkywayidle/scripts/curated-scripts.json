@@ -1,0 +1,18 @@
+{
+  "repositories": [
+    {
+      "name": "MWITools by YangLeda",
+      "owner": "YangLeda",
+      "repo": "Userscripts-For-MilkyWayIdle",
+      "branch": "main",
+      "description": "The most popular MWI tools collection"
+    },
+    {
+      "name": "Toolasha by Celasha",
+      "owner": "Celasha",
+      "repo": "Toolasha",
+      "branch": "releases",
+      "description": "Toolasha - Enhanced tools for Milky Way Idle."
+    }
+  ]
+}
