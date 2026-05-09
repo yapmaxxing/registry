@@ -1,0 +1,101 @@
+[
+  {
+    "id": "beginner-faq",
+    "title": "Beginner FAQ",
+    "description": "Frequently asked questions for new MilkyWayIdle players.",
+    "author": "augustine13",
+    "url": "https://docs.google.com/document/d/18A1FXekqxdSaQU6KM-CEGuatI5TBW4CxixmbeO8Ru3I/edit",
+    "type": "external",
+    "game": "milkywayidle",
+    "category": "beginners",
+    "tags": ["gameplay"]
+  },
+  {
+    "id": "fix-my-userscripts",
+    "title": "Fix my UserScripts",
+    "description": "Troubleshooting guide for fixing broken or misbehaving userscripts.",
+    "author": "miku",
+    "url": "https://rentry.co/fix-my-userscripts/",
+    "type": "external",
+    "game": "milkywayidle",
+    "category": "tools",
+    "tags": ["scripts"]
+  },
+  {
+    "id": "install-userscripts",
+    "title": "How to Install UserScripts",
+    "description": "Step-by-step guide for installing userscripts in MilkyWayIdle.",
+    "author": "miku",
+    "url": "https://rentry.co/mwi-install-userscripts",
+    "type": "external",
+    "game": "milkywayidle",
+    "category": "tools",
+    "tags": ["scripts"]
+  },
+  {
+    "id": "zero-to-hero",
+    "title": "Zero to Hero",
+    "description": "Comprehensive ranger progression guide from fresh account to endgame.",
+    "author": "Monoclyman",
+    "url": "https://rentry.co/mwi-ranger-z2h",
+    "type": "external",
+    "game": "milkywayidle",
+    "category": "gameplay",
+    "tags": ["ranged"]
+  },
+  {
+    "id": "bulwark-guide",
+    "title": "Bulwark Guide",
+    "description": "Melee/bulwark build guide covering skills, gear, and strategies.",
+    "author": "Bwaghaa",
+    "url": "https://docs.google.com/document/d/1dFheu7MtU5Akb6LhiYe1EqpqRn6zPp9yA8KTJqtGM14/edit",
+    "type": "external",
+    "game": "milkywayidle",
+    "category": "gameplay",
+    "tags": ["melee"]
+  },
+  {
+    "id": "magic-guide",
+    "title": "Magic Guide",
+    "description": "Magic build guide with skill priorities, gear recommendations, and tips.",
+    "author": "Zaeter",
+    "url": "https://docs.google.com/document/d/12JgNn3QLDgQtn2vnEGbX46j5Sglm2sdqIZUwCIGWNxc/edit",
+    "type": "external",
+    "game": "milkywayidle",
+    "category": "gameplay",
+    "tags": ["magic"]
+  },
+  {
+    "id": "mwi-ic-walkthrough",
+    "title": "MWI IC Walkthrough",
+    "description": "IronCow (IC) game mode walkthrough and strategy guide.",
+    "author": "Feal",
+    "url": "https://docs.google.com/document/d/1daTEF-OTRMkYwv_7qQj-ebU1hzvk8aKCXI6ZpslnBoE/edit",
+    "type": "external",
+    "game": "milkywayidle",
+    "category": "gameplay",
+    "tags": ["IronCow"]
+  },
+  {
+    "id": "ironcow-farm-guide",
+    "title": "IronCow cowbell farm guide",
+    "description": "Optimized cowbell farming strategies for IronCow mode.",
+    "author": "Bwaghaa",
+    "url": "https://docs.google.com/document/d/1ZjXKLaUSGdWjxMQX3OV6HVfLAavTJyRs2WP9izo6-KQ/edit",
+    "type": "external",
+    "game": "milkywayidle",
+    "category": "gameplay",
+    "tags": ["IronCow"]
+  },
+  {
+    "id": "mmxx-labyrinth-guide",
+    "title": "MMXX Labyrinth Guide",
+    "description": "Guide to navigating and conquering the MMXX Labyrinth.",
+    "author": "Monoclyman",
+    "url": "https://rentry.co/mwi-labs-guide",
+    "type": "external",
+    "game": "milkywayidle",
+    "category": "gameplay",
+    "tags": ["labyrinth"]
+  }
+]
