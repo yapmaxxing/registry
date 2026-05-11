@@ -1,8 +1,8 @@
 [
   {
     "id": 567386,
-    "daily_installs": 21,
-    "total_installs": 1531,
+    "daily_installs": 22,
+    "total_installs": 1532,
     "fan_score": "61.0",
     "good_ratings": 6,
     "ok_ratings": 0,
@@ -33,8 +33,8 @@
   },
   {
     "id": 499963,
-    "daily_installs": 17,
-    "total_installs": 5885,
+    "daily_installs": 18,
+    "total_installs": 5886,
     "fan_score": "65.7",
     "good_ratings": 13,
     "ok_ratings": 4,
@@ -65,8 +65,8 @@
   },
   {
     "id": 494467,
-    "daily_installs": 16,
-    "total_installs": 12105,
+    "daily_installs": 15,
+    "total_installs": 12106,
     "fan_score": "61.9",
     "good_ratings": 20,
     "ok_ratings": 9,
@@ -97,7 +97,7 @@
   },
   {
     "id": 566829,
-    "daily_installs": 16,
+    "daily_installs": 15,
     "total_installs": 1791,
     "fan_score": "20.7",
     "good_ratings": 1,
@@ -157,6 +157,38 @@
     "license": "MIT License",
     "version": "1.0.8.1",
     "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 535181,
+    "daily_installs": 6,
+    "total_installs": 1125,
+    "fan_score": "34.2",
+    "good_ratings": 2,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2025-05-07T02:42:03.000Z",
+    "code_updated_at": "2025-11-06T06:49:31.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 878920,
+        "name": "Artintel (Artintel)",
+        "created_at": "2022-02-21T09:32:34.000Z",
+        "url": "https://greasyfork.org/users/878920-artintel-artintel"
+      }
+    ],
+    "name": "MWI-Hit-Tracker",
+    "description": "战斗过程中实时显示攻击/治疗命中目标",
+    "url": "https://greasyfork.org/scripts/535181-mwi-hit-tracker",
+    "code_url": "https://update.greasyfork.org/scripts/535181/MWI-Hit-Tracker.user.js",
+    "code_size": 41558,
+    "license": "MIT License",
+    "version": "1.2.5",
+    "locale": "zh-CN",
     "deleted": false
   },
   {
@@ -226,7 +258,7 @@
   {
     "id": 562662,
     "daily_installs": 6,
-    "total_installs": 982,
+    "total_installs": 983,
     "fan_score": "51.0",
     "good_ratings": 4,
     "ok_ratings": 0,
@@ -253,38 +285,6 @@
     "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
     "version": "2.43.0",
     "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 535181,
-    "daily_installs": 5,
-    "total_installs": 1124,
-    "fan_score": "34.2",
-    "good_ratings": 2,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2025-05-07T02:42:03.000Z",
-    "code_updated_at": "2025-11-06T06:49:31.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 878920,
-        "name": "Artintel (Artintel)",
-        "created_at": "2022-02-21T09:32:34.000Z",
-        "url": "https://greasyfork.org/users/878920-artintel-artintel"
-      }
-    ],
-    "name": "MWI-Hit-Tracker",
-    "description": "战斗过程中实时显示攻击/治疗命中目标",
-    "url": "https://greasyfork.org/scripts/535181-mwi-hit-tracker",
-    "code_url": "https://update.greasyfork.org/scripts/535181/MWI-Hit-Tracker.user.js",
-    "code_size": 41558,
-    "license": "MIT License",
-    "version": "1.2.5",
-    "locale": "zh-CN",
     "deleted": false
   },
   {
@@ -765,38 +765,6 @@
     "license": "MIT License",
     "version": "1.1.1",
     "locale": "zh-CN",
-    "deleted": false
-  },
-  {
-    "id": 567056,
-    "daily_installs": 1,
-    "total_installs": 226,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2026-02-21T23:41:48.000Z",
-    "code_updated_at": "2026-05-04T00:37:28.000Z",
-    "namespace": "https://milkywayidle.com/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1545423,
-        "name": "Grag Atrim",
-        "created_at": "2025-12-07T03:27:38.000Z",
-        "url": "https://greasyfork.org/users/1545423-grag-atrim"
-      }
-    ],
-    "name": "MWI Lab Room Success Calculator",
-    "description": "Calculates labyrinth room clear probability, highlights clearable rooms, tracks XP and run history, simulates combat rooms",
-    "url": "https://greasyfork.org/scripts/567056-mwi-lab-room-success-calculator",
-    "code_url": "https://update.greasyfork.org/scripts/567056/MWI%20Lab%20Room%20Success%20Calculator.user.js",
-    "code_size": 171676,
-    "license": "MIT License",
-    "version": "3.54",
-    "locale": "en",
     "deleted": false
   },
   {
@@ -3196,6 +3164,38 @@
     "code_size": 4554,
     "license": "MIT License",
     "version": "2025-12-07",
+    "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 558938,
+    "daily_installs": 0,
+    "total_installs": 7,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2025-12-14T19:16:12.000Z",
+    "code_updated_at": "2025-12-20T03:46:11.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1468994,
+        "name": "frotty",
+        "created_at": "2025-05-12T06:06:47.000Z",
+        "url": "https://greasyfork.org/users/1468994-frotty"
+      }
+    ],
+    "name": "Scaley Way Idle",
+    "description": "Change the scale of CombatUnit divs with a draggable control panel",
+    "url": "https://greasyfork.org/scripts/558938-scaley-way-idle",
+    "code_url": "https://update.greasyfork.org/scripts/558938/Scaley%20Way%20Idle.user.js",
+    "code_size": 16449,
+    "license": null,
+    "version": "1.23",
     "locale": "en",
     "deleted": false
   },
