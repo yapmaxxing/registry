@@ -1,8 +1,8 @@
 [
   {
     "id": 567386,
-    "daily_installs": 21,
-    "total_installs": 1557,
+    "daily_installs": 22,
+    "total_installs": 1560,
     "fan_score": "61.0",
     "good_ratings": 6,
     "ok_ratings": 0,
@@ -33,8 +33,8 @@
   },
   {
     "id": 494467,
-    "daily_installs": 19,
-    "total_installs": 12132,
+    "daily_installs": 21,
+    "total_installs": 12137,
     "fan_score": "61.9",
     "good_ratings": 20,
     "ok_ratings": 9,
@@ -64,8 +64,40 @@
     "deleted": false
   },
   {
-    "id": 566829,
+    "id": 499963,
     "daily_installs": 13,
+    "total_installs": 5904,
+    "fan_score": "67.2",
+    "good_ratings": 14,
+    "ok_ratings": 4,
+    "bad_ratings": 0,
+    "created_at": "2024-07-08T00:48:21.000Z",
+    "code_updated_at": "2026-03-24T04:05:21.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1313709,
+        "name": "Truth_Light",
+        "created_at": "2024-06-07T02:52:25.000Z",
+        "url": "https://greasyfork.org/users/1313709-truth-light"
+      }
+    ],
+    "name": "[银河奶牛]食用工具",
+    "description": "开箱记录、箱子期望、离线统计、公会钉钉、食物警察、掉落追踪、强化统计、地牢计算",
+    "url": "https://greasyfork.org/scripts/499963-%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B-%E9%A3%9F%E7%94%A8%E5%B7%A5%E5%85%B7",
+    "code_url": "https://update.greasyfork.org/scripts/499963/%5B%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B%5D%E9%A3%9F%E7%94%A8%E5%B7%A5%E5%85%B7.user.js",
+    "code_size": 276683,
+    "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
+    "version": "0.507",
+    "locale": "zh-CN",
+    "deleted": false
+  },
+  {
+    "id": 566829,
+    "daily_installs": 12,
     "total_installs": 1811,
     "fan_score": "34.2",
     "good_ratings": 2,
@@ -97,7 +129,7 @@
   },
   {
     "id": 562662,
-    "daily_installs": 12,
+    "daily_installs": 9,
     "total_installs": 997,
     "fan_score": "51.0",
     "good_ratings": 4,
@@ -128,40 +160,8 @@
     "deleted": false
   },
   {
-    "id": 499963,
-    "daily_installs": 11,
-    "total_installs": 5902,
-    "fan_score": "67.2",
-    "good_ratings": 14,
-    "ok_ratings": 4,
-    "bad_ratings": 0,
-    "created_at": "2024-07-08T00:48:21.000Z",
-    "code_updated_at": "2026-03-24T04:05:21.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1313709,
-        "name": "Truth_Light",
-        "created_at": "2024-06-07T02:52:25.000Z",
-        "url": "https://greasyfork.org/users/1313709-truth-light"
-      }
-    ],
-    "name": "[银河奶牛]食用工具",
-    "description": "开箱记录、箱子期望、离线统计、公会钉钉、食物警察、掉落追踪、强化统计、地牢计算",
-    "url": "https://greasyfork.org/scripts/499963-%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B-%E9%A3%9F%E7%94%A8%E5%B7%A5%E5%85%B7",
-    "code_url": "https://update.greasyfork.org/scripts/499963/%5B%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B%5D%E9%A3%9F%E7%94%A8%E5%B7%A5%E5%85%B7.user.js",
-    "code_size": 276683,
-    "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
-    "version": "0.507",
-    "locale": "zh-CN",
-    "deleted": false
-  },
-  {
     "id": 546655,
-    "daily_installs": 10,
+    "daily_installs": 7,
     "total_installs": 1404,
     "fan_score": "5.0",
     "good_ratings": 0,
@@ -192,137 +192,9 @@
     "deleted": false
   },
   {
-    "id": 539672,
-    "daily_installs": 4,
-    "total_installs": 1026,
-    "fan_score": "5.5",
-    "good_ratings": 0,
-    "ok_ratings": 1,
-    "bad_ratings": 0,
-    "created_at": "2025-06-16T20:25:43.000Z",
-    "code_updated_at": "2025-11-14T13:59:00.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1484665,
-        "name": "yanisCC",
-        "created_at": "2025-06-16T20:11:38.000Z",
-        "url": "https://greasyfork.org/users/1484665-yaniscc"
-      }
-    ],
-    "name": "[MWI] Realtime Import Of Battle Simulation",
-    "description": "Battle simulation imports the realtime configuration of the current character.",
-    "url": "https://greasyfork.org/scripts/539672-mwi-realtime-import-of-battle-simulation",
-    "code_url": "https://update.greasyfork.org/scripts/539672/%5B%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B%5D%E6%88%98%E6%96%97%E6%A8%A1%E6%8B%9F%E5%AE%9E%E6%97%B6%E5%AF%BC%E5%85%A5.user.js",
-    "code_size": 47510,
-    "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
-    "version": "0.3.6",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 498970,
-    "daily_installs": 3,
-    "total_installs": 174,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2024-06-26T13:09:52.000Z",
-    "code_updated_at": "2024-06-26T13:09:52.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1323125,
-        "name": "Fitzmaz",
-        "created_at": "2024-06-24T10:26:21.000Z",
-        "url": "https://greasyfork.org/users/1323125-fitzmaz"
-      }
-    ],
-    "name": "MWI Market Price History Viewer",
-    "description": "This script integrates historical price charts of items directly into the market pages of MWI.",
-    "url": "https://greasyfork.org/scripts/498970-mwi-market-price-history-viewer",
-    "code_url": "https://update.greasyfork.org/scripts/498970/MWI%20Market%20Price%20History%20Viewer.user.js",
-    "code_size": 12755,
-    "license": "MIT License",
-    "version": "0.3",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 535181,
-    "daily_installs": 3,
-    "total_installs": 1128,
-    "fan_score": "34.2",
-    "good_ratings": 2,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2025-05-07T02:42:03.000Z",
-    "code_updated_at": "2025-11-06T06:49:31.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 878920,
-        "name": "Artintel (Artintel)",
-        "created_at": "2022-02-21T09:32:34.000Z",
-        "url": "https://greasyfork.org/users/878920-artintel-artintel"
-      }
-    ],
-    "name": "MWI-Hit-Tracker",
-    "description": "战斗过程中实时显示攻击/治疗命中目标",
-    "url": "https://greasyfork.org/scripts/535181-mwi-hit-tracker",
-    "code_url": "https://update.greasyfork.org/scripts/535181/MWI-Hit-Tracker.user.js",
-    "code_size": 41558,
-    "license": "MIT License",
-    "version": "1.2.5",
-    "locale": "zh-CN",
-    "deleted": false
-  },
-  {
-    "id": 538797,
-    "daily_installs": 3,
-    "total_installs": 1470,
-    "fan_score": "86.7",
-    "good_ratings": 31,
-    "ok_ratings": 1,
-    "bad_ratings": 0,
-    "created_at": "2025-06-08T09:00:47.000Z",
-    "code_updated_at": "2025-12-16T10:33:55.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1478363,
-        "name": "CYR2077",
-        "created_at": "2025-06-03T11:30:56.000Z",
-        "url": "https://greasyfork.org/users/1478363-cyr2077"
-      }
-    ],
-    "name": "[银河奶牛] 生产采集增强 / MWI Production & Gathering Enhanced",
-    "description": "计算生产、强化、房屋所需材料并一键购买；显示今日资产增量，统计30天总资产生成走势图；计算生产与炼金实时利润；按照目标材料数量进行采集；快速切换角色；自动收集市场订单；功能支持自定义开关。",
-    "url": "https://greasyfork.org/scripts/538797-%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B-%E7%94%9F%E4%BA%A7%E9%87%87%E9%9B%86%E5%A2%9E%E5%BC%BA-mwi-production-gathering-enhanced",
-    "code_url": "https://update.greasyfork.org/scripts/538797/%5B%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B%5D%20%E7%94%9F%E4%BA%A7%E9%87%87%E9%9B%86%E5%A2%9E%E5%BC%BA%20%20MWI%20Production%20%20Gathering%20Enhanced.user.js",
-    "code_size": 368830,
-    "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
-    "version": "3.6.8",
-    "locale": "zh-CN",
-    "deleted": false
-  },
-  {
     "id": 541550,
-    "daily_installs": 3,
-    "total_installs": 645,
+    "daily_installs": 4,
+    "total_installs": 646,
     "fan_score": "5.0",
     "good_ratings": 0,
     "ok_ratings": 0,
@@ -384,66 +256,98 @@
     "deleted": false
   },
   {
-    "id": 575630,
-    "daily_installs": 3,
-    "total_installs": 15,
+    "id": 498970,
+    "daily_installs": 2,
+    "total_installs": 174,
     "fan_score": "5.0",
     "good_ratings": 0,
     "ok_ratings": 0,
     "bad_ratings": 0,
-    "created_at": "2026-04-27T10:37:19.000Z",
-    "code_updated_at": "2026-05-12T10:04:01.000Z",
+    "created_at": "2024-06-26T13:09:52.000Z",
+    "code_updated_at": "2024-06-26T13:09:52.000Z",
     "namespace": "http://tampermonkey.net/",
     "support_url": null,
     "contribution_url": null,
     "contribution_amount": null,
     "users": [
       {
-        "id": 1520873,
-        "name": "諭諭",
-        "created_at": "2025-09-30T03:46:23.000Z",
-        "url": "https://greasyfork.org/users/1520873-%E8%AB%AD%E8%AB%AD"
+        "id": 1323125,
+        "name": "Fitzmaz",
+        "created_at": "2024-06-24T10:26:21.000Z",
+        "url": "https://greasyfork.org/users/1323125-fitzmaz"
       }
     ],
-    "name": "Milky Way Idle - Item Set Separator",
-    "description": "裝備配裝分組 + 資源分類 (繁中/簡中/English)",
-    "url": "https://greasyfork.org/scripts/575630-milky-way-idle-item-set-separator",
-    "code_url": "https://update.greasyfork.org/scripts/575630/Milky%20Way%20Idle%20-%20Item%20Set%20Separator.user.js",
-    "code_size": 38088,
+    "name": "MWI Market Price History Viewer",
+    "description": "This script integrates historical price charts of items directly into the market pages of MWI.",
+    "url": "https://greasyfork.org/scripts/498970-mwi-market-price-history-viewer",
+    "code_url": "https://update.greasyfork.org/scripts/498970/MWI%20Market%20Price%20History%20Viewer.user.js",
+    "code_size": 12755,
     "license": "MIT License",
-    "version": "3.2.0",
+    "version": "0.3",
     "locale": "en",
     "deleted": false
   },
   {
-    "id": 540440,
+    "id": 538797,
     "daily_installs": 2,
-    "total_installs": 463,
-    "fan_score": "56.6",
-    "good_ratings": 5,
-    "ok_ratings": 0,
+    "total_installs": 1470,
+    "fan_score": "86.7",
+    "good_ratings": 31,
+    "ok_ratings": 1,
     "bad_ratings": 0,
-    "created_at": "2025-06-22T21:12:02.000Z",
-    "code_updated_at": "2025-10-15T20:06:07.000Z",
+    "created_at": "2025-06-08T09:00:47.000Z",
+    "code_updated_at": "2025-12-16T10:33:55.000Z",
     "namespace": "http://tampermonkey.net/",
     "support_url": null,
     "contribution_url": null,
     "contribution_amount": null,
     "users": [
       {
-        "id": 1484691,
-        "name": "byteArray567",
-        "created_at": "2025-06-16T23:34:12.000Z",
-        "url": "https://greasyfork.org/users/1484691-bytearray567"
+        "id": 1478363,
+        "name": "CYR2077",
+        "created_at": "2025-06-03T11:30:56.000Z",
+        "url": "https://greasyfork.org/users/1478363-cyr2077"
       }
     ],
-    "name": "MWITools - Extended",
-    "description": "Extention for MWITools.",
-    "url": "https://greasyfork.org/scripts/540440-mwitools-extended",
-    "code_url": "https://update.greasyfork.org/scripts/540440/MWITools%20-%20Extended.user.js",
-    "code_size": 579495,
+    "name": "[银河奶牛] 生产采集增强 / MWI Production & Gathering Enhanced",
+    "description": "计算生产、强化、房屋所需材料并一键购买；显示今日资产增量，统计30天总资产生成走势图；计算生产与炼金实时利润；按照目标材料数量进行采集；快速切换角色；自动收集市场订单；功能支持自定义开关。",
+    "url": "https://greasyfork.org/scripts/538797-%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B-%E7%94%9F%E4%BA%A7%E9%87%87%E9%9B%86%E5%A2%9E%E5%BC%BA-mwi-production-gathering-enhanced",
+    "code_url": "https://update.greasyfork.org/scripts/538797/%5B%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B%5D%20%E7%94%9F%E4%BA%A7%E9%87%87%E9%9B%86%E5%A2%9E%E5%BC%BA%20%20MWI%20Production%20%20Gathering%20Enhanced.user.js",
+    "code_size": 368830,
     "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
-    "version": "23.3.9.3",
+    "version": "3.6.8",
+    "locale": "zh-CN",
+    "deleted": false
+  },
+  {
+    "id": 539672,
+    "daily_installs": 2,
+    "total_installs": 1026,
+    "fan_score": "5.5",
+    "good_ratings": 0,
+    "ok_ratings": 1,
+    "bad_ratings": 0,
+    "created_at": "2025-06-16T20:25:43.000Z",
+    "code_updated_at": "2025-11-14T13:59:00.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1484665,
+        "name": "yanisCC",
+        "created_at": "2025-06-16T20:11:38.000Z",
+        "url": "https://greasyfork.org/users/1484665-yaniscc"
+      }
+    ],
+    "name": "[MWI] Realtime Import Of Battle Simulation",
+    "description": "Battle simulation imports the realtime configuration of the current character.",
+    "url": "https://greasyfork.org/scripts/539672-mwi-realtime-import-of-battle-simulation",
+    "code_url": "https://update.greasyfork.org/scripts/539672/%5B%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B%5D%E6%88%98%E6%96%97%E6%A8%A1%E6%8B%9F%E5%AE%9E%E6%97%B6%E5%AF%BC%E5%85%A5.user.js",
+    "code_size": 47510,
+    "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
+    "version": "0.3.6",
     "locale": "en",
     "deleted": false
   },
@@ -509,6 +413,70 @@
     "license": "MIT License",
     "version": "test0.23",
     "locale": "zh-CN",
+    "deleted": false
+  },
+  {
+    "id": 535181,
+    "daily_installs": 1,
+    "total_installs": 1128,
+    "fan_score": "34.2",
+    "good_ratings": 2,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2025-05-07T02:42:03.000Z",
+    "code_updated_at": "2025-11-06T06:49:31.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 878920,
+        "name": "Artintel (Artintel)",
+        "created_at": "2022-02-21T09:32:34.000Z",
+        "url": "https://greasyfork.org/users/878920-artintel-artintel"
+      }
+    ],
+    "name": "MWI-Hit-Tracker",
+    "description": "战斗过程中实时显示攻击/治疗命中目标",
+    "url": "https://greasyfork.org/scripts/535181-mwi-hit-tracker",
+    "code_url": "https://update.greasyfork.org/scripts/535181/MWI-Hit-Tracker.user.js",
+    "code_size": 41558,
+    "license": "MIT License",
+    "version": "1.2.5",
+    "locale": "zh-CN",
+    "deleted": false
+  },
+  {
+    "id": 535371,
+    "daily_installs": 1,
+    "total_installs": 399,
+    "fan_score": "20.7",
+    "good_ratings": 1,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2025-05-08T16:07:57.000Z",
+    "code_updated_at": "2025-06-05T03:08:50.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1465493,
+        "name": "guch8017",
+        "created_at": "2025-05-04T09:31:17.000Z",
+        "url": "https://greasyfork.org/users/1465493-guch8017"
+      }
+    ],
+    "name": "MWI QQShow",
+    "description": "Fix QQ Show for magic way idle.",
+    "url": "https://greasyfork.org/scripts/535371-mwi-qqshow",
+    "code_url": "https://update.greasyfork.org/scripts/535371/MWI%20QQShow.user.js",
+    "code_size": 15349,
+    "license": "MIT License",
+    "version": "1.3",
+    "locale": "en",
     "deleted": false
   },
   {
@@ -608,38 +576,6 @@
     "deleted": false
   },
   {
-    "id": 539918,
-    "daily_installs": 1,
-    "total_installs": 116,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2025-06-18T23:55:46.000Z",
-    "code_updated_at": "2025-12-23T21:31:42.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1485499,
-        "name": "qu-gf",
-        "created_at": "2025-06-18T23:50:14.000Z",
-        "url": "https://greasyfork.org/users/1485499-qu-gf"
-      }
-    ],
-    "name": "MWI Dungeon Timer",
-    "description": "Automatically displays the time taken between dungeon runs in Milky Way Idle chat.",
-    "url": "https://greasyfork.org/scripts/539918-mwi-dungeon-timer",
-    "code_url": "https://update.greasyfork.org/scripts/539918/MWI%20Dungeon%20Timer.user.js",
-    "code_size": 18909,
-    "license": "MIT License",
-    "version": "1.22",
-    "locale": "en",
-    "deleted": false
-  },
-  {
     "id": 540058,
     "daily_installs": 1,
     "total_installs": 621,
@@ -669,6 +605,134 @@
     "license": "MIT License",
     "version": "1.12.1",
     "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 540440,
+    "daily_installs": 1,
+    "total_installs": 463,
+    "fan_score": "56.6",
+    "good_ratings": 5,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2025-06-22T21:12:02.000Z",
+    "code_updated_at": "2025-10-15T20:06:07.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1484691,
+        "name": "byteArray567",
+        "created_at": "2025-06-16T23:34:12.000Z",
+        "url": "https://greasyfork.org/users/1484691-bytearray567"
+      }
+    ],
+    "name": "MWITools - Extended",
+    "description": "Extention for MWITools.",
+    "url": "https://greasyfork.org/scripts/540440-mwitools-extended",
+    "code_url": "https://update.greasyfork.org/scripts/540440/MWITools%20-%20Extended.user.js",
+    "code_size": 579495,
+    "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
+    "version": "23.3.9.3",
+    "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 541080,
+    "daily_installs": 1,
+    "total_installs": 43,
+    "fan_score": "34.2",
+    "good_ratings": 2,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2025-06-29T01:15:25.000Z",
+    "code_updated_at": "2026-01-07T05:34:39.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 249472,
+        "name": "Opzon",
+        "created_at": "2019-02-23T23:21:53.000Z",
+        "url": "https://greasyfork.org/users/249472-opzon"
+      }
+    ],
+    "name": "Milky Party Finder Filters",
+    "description": "Adds filters to the Find Party page in Milky Way Idle. Matches MWITools language detection.",
+    "url": "https://greasyfork.org/scripts/541080-milky-party-finder-filters",
+    "code_url": "https://update.greasyfork.org/scripts/541080/Milky%20Party%20Finder%20Filters.user.js",
+    "code_size": 14120,
+    "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
+    "version": "1.3",
+    "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 541804,
+    "daily_installs": 1,
+    "total_installs": 49,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2025-07-06T10:15:40.000Z",
+    "code_updated_at": "2025-07-07T08:24:13.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1478363,
+        "name": "CYR2077",
+        "created_at": "2025-06-03T11:30:56.000Z",
+        "url": "https://greasyfork.org/users/1478363-cyr2077"
+      }
+    ],
+    "name": "[银河奶牛] 怪物娘化 / MWI-MonsterFeminization",
+    "description": "怪物娘化",
+    "url": "https://greasyfork.org/scripts/541804-%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B-%E6%80%AA%E7%89%A9%E5%A8%98%E5%8C%96-mwi-monsterfeminization",
+    "code_url": "https://update.greasyfork.org/scripts/541804/%5B%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B%5D%20%E6%80%AA%E7%89%A9%E5%A8%98%E5%8C%96%20%20MWI-MonsterFeminization.user.js",
+    "code_size": 4894,
+    "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
+    "version": "0.1.1",
+    "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 544243,
+    "daily_installs": 1,
+    "total_installs": 32,
+    "fan_score": "5.5",
+    "good_ratings": 0,
+    "ok_ratings": 1,
+    "bad_ratings": 0,
+    "created_at": "2025-08-01T02:20:13.000Z",
+    "code_updated_at": "2025-08-05T22:09:30.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1233912,
+        "name": "uyytff",
+        "created_at": "2023-12-14T18:27:56.000Z",
+        "url": "https://greasyfork.org/users/1233912-uyytff"
+      }
+    ],
+    "name": "[银河奶牛]莫库里换皮",
+    "description": "替换怪物图标为可爱的莫库里生物，并更改名字",
+    "url": "https://greasyfork.org/scripts/544243-%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B-%E8%8E%AB%E5%BA%93%E9%87%8C%E6%8D%A2%E7%9A%AE",
+    "code_url": "https://update.greasyfork.org/scripts/544243/%5B%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B%5D%E8%8E%AB%E5%BA%93%E9%87%8C%E6%8D%A2%E7%9A%AE.user.js",
+    "code_size": 21186,
+    "license": "MIT License",
+    "version": "1.1.1",
+    "locale": "zh-CN",
     "deleted": false
   },
   {
@@ -733,6 +797,38 @@
     "license": "MIT License",
     "version": "20260417.0.16.1",
     "locale": "zh-CN",
+    "deleted": false
+  },
+  {
+    "id": 507230,
+    "daily_installs": 0,
+    "total_installs": 22,
+    "fan_score": "0.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 1,
+    "created_at": "2024-09-07T02:32:45.000Z",
+    "code_updated_at": "2025-11-07T04:14:02.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1354753,
+        "name": "xiaoshui05",
+        "created_at": "2024-08-20T00:06:36.000Z",
+        "url": "https://greasyfork.org/users/1354753-xiaoshui05"
+      }
+    ],
+    "name": "MWIFavorites",
+    "description": "收藏和数量跟踪 (支持中英文双语)",
+    "url": "https://greasyfork.org/scripts/507230-mwifavorites",
+    "code_url": "https://update.greasyfork.org/scripts/507230/MWIFavorites.user.js",
+    "code_size": 132283,
+    "license": null,
+    "version": "1.1.8",
+    "locale": "en",
     "deleted": false
   },
   {
@@ -956,38 +1052,6 @@
     "code_size": 45945,
     "license": "MIT License",
     "version": "1.0.1",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 507230,
-    "daily_installs": 0,
-    "total_installs": 22,
-    "fan_score": "0.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 1,
-    "created_at": "2024-09-07T02:32:45.000Z",
-    "code_updated_at": "2025-11-07T04:14:02.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1354753,
-        "name": "xiaoshui05",
-        "created_at": "2024-08-20T00:06:36.000Z",
-        "url": "https://greasyfork.org/users/1354753-xiaoshui05"
-      }
-    ],
-    "name": "MWIFavorites",
-    "description": "收藏和数量跟踪 (支持中英文双语)",
-    "url": "https://greasyfork.org/scripts/507230-mwifavorites",
-    "code_url": "https://update.greasyfork.org/scripts/507230/MWIFavorites.user.js",
-    "code_size": 132283,
-    "license": null,
-    "version": "1.1.8",
     "locale": "en",
     "deleted": false
   },
@@ -1696,38 +1760,6 @@
     "deleted": false
   },
   {
-    "id": 535371,
-    "daily_installs": 0,
-    "total_installs": 398,
-    "fan_score": "20.7",
-    "good_ratings": 1,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2025-05-08T16:07:57.000Z",
-    "code_updated_at": "2025-06-05T03:08:50.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1465493,
-        "name": "guch8017",
-        "created_at": "2025-05-04T09:31:17.000Z",
-        "url": "https://greasyfork.org/users/1465493-guch8017"
-      }
-    ],
-    "name": "MWI QQShow",
-    "description": "Fix QQ Show for magic way idle.",
-    "url": "https://greasyfork.org/scripts/535371-mwi-qqshow",
-    "code_url": "https://update.greasyfork.org/scripts/535371/MWI%20QQShow.user.js",
-    "code_size": 15349,
-    "license": "MIT License",
-    "version": "1.3",
-    "locale": "en",
-    "deleted": false
-  },
-  {
     "id": 535455,
     "daily_installs": 0,
     "total_installs": 312,
@@ -2144,6 +2176,38 @@
     "deleted": false
   },
   {
+    "id": 539918,
+    "daily_installs": 0,
+    "total_installs": 116,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2025-06-18T23:55:46.000Z",
+    "code_updated_at": "2025-12-23T21:31:42.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1485499,
+        "name": "qu-gf",
+        "created_at": "2025-06-18T23:50:14.000Z",
+        "url": "https://greasyfork.org/users/1485499-qu-gf"
+      }
+    ],
+    "name": "MWI Dungeon Timer",
+    "description": "Automatically displays the time taken between dungeon runs in Milky Way Idle chat.",
+    "url": "https://greasyfork.org/scripts/539918-mwi-dungeon-timer",
+    "code_url": "https://update.greasyfork.org/scripts/539918/MWI%20Dungeon%20Timer.user.js",
+    "code_size": 18909,
+    "license": "MIT License",
+    "version": "1.22",
+    "locale": "en",
+    "deleted": false
+  },
+  {
     "id": 540857,
     "daily_installs": 0,
     "total_installs": 4,
@@ -2172,38 +2236,6 @@
     "code_size": 10505,
     "license": "MIT License",
     "version": "1.1.0",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 541080,
-    "daily_installs": 0,
-    "total_installs": 42,
-    "fan_score": "34.2",
-    "good_ratings": 2,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2025-06-29T01:15:25.000Z",
-    "code_updated_at": "2026-01-07T05:34:39.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 249472,
-        "name": "Opzon",
-        "created_at": "2019-02-23T23:21:53.000Z",
-        "url": "https://greasyfork.org/users/249472-opzon"
-      }
-    ],
-    "name": "Milky Party Finder Filters",
-    "description": "Adds filters to the Find Party page in Milky Way Idle. Matches MWITools language detection.",
-    "url": "https://greasyfork.org/scripts/541080-milky-party-finder-filters",
-    "code_url": "https://update.greasyfork.org/scripts/541080/Milky%20Party%20Finder%20Filters.user.js",
-    "code_size": 14120,
-    "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
-    "version": "1.3",
     "locale": "en",
     "deleted": false
   },
@@ -2268,38 +2300,6 @@
     "code_size": 11149,
     "license": "MIT License",
     "version": "1.3",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 541804,
-    "daily_installs": 0,
-    "total_installs": 48,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2025-07-06T10:15:40.000Z",
-    "code_updated_at": "2025-07-07T08:24:13.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1478363,
-        "name": "CYR2077",
-        "created_at": "2025-06-03T11:30:56.000Z",
-        "url": "https://greasyfork.org/users/1478363-cyr2077"
-      }
-    ],
-    "name": "[银河奶牛] 怪物娘化 / MWI-MonsterFeminization",
-    "description": "怪物娘化",
-    "url": "https://greasyfork.org/scripts/541804-%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B-%E6%80%AA%E7%89%A9%E5%A8%98%E5%8C%96-mwi-monsterfeminization",
-    "code_url": "https://update.greasyfork.org/scripts/541804/%5B%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B%5D%20%E6%80%AA%E7%89%A9%E5%A8%98%E5%8C%96%20%20MWI-MonsterFeminization.user.js",
-    "code_size": 4894,
-    "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
-    "version": "0.1.1",
     "locale": "en",
     "deleted": false
   },
@@ -2589,38 +2589,6 @@
     "license": "MIT License",
     "version": "4.1",
     "locale": "zh-TW",
-    "deleted": false
-  },
-  {
-    "id": 544243,
-    "daily_installs": 0,
-    "total_installs": 31,
-    "fan_score": "5.5",
-    "good_ratings": 0,
-    "ok_ratings": 1,
-    "bad_ratings": 0,
-    "created_at": "2025-08-01T02:20:13.000Z",
-    "code_updated_at": "2025-08-05T22:09:30.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1233912,
-        "name": "uyytff",
-        "created_at": "2023-12-14T18:27:56.000Z",
-        "url": "https://greasyfork.org/users/1233912-uyytff"
-      }
-    ],
-    "name": "[银河奶牛]莫库里换皮",
-    "description": "替换怪物图标为可爱的莫库里生物，并更改名字",
-    "url": "https://greasyfork.org/scripts/544243-%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B-%E8%8E%AB%E5%BA%93%E9%87%8C%E6%8D%A2%E7%9A%AE",
-    "code_url": "https://update.greasyfork.org/scripts/544243/%5B%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B%5D%E8%8E%AB%E5%BA%93%E9%87%8C%E6%8D%A2%E7%9A%AE.user.js",
-    "code_size": 21186,
-    "license": "MIT License",
-    "version": "1.1.1",
-    "locale": "zh-CN",
     "deleted": false
   },
   {
@@ -3196,6 +3164,38 @@
     "code_size": 4554,
     "license": "MIT License",
     "version": "2025-12-07",
+    "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 558938,
+    "daily_installs": 0,
+    "total_installs": 7,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2025-12-14T19:16:12.000Z",
+    "code_updated_at": "2025-12-20T03:46:11.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1468994,
+        "name": "frotty",
+        "created_at": "2025-05-12T06:06:47.000Z",
+        "url": "https://greasyfork.org/users/1468994-frotty"
+      }
+    ],
+    "name": "Scaley Way Idle",
+    "description": "Change the scale of CombatUnit divs with a draggable control panel",
+    "url": "https://greasyfork.org/scripts/558938-scaley-way-idle",
+    "code_url": "https://update.greasyfork.org/scripts/558938/Scaley%20Way%20Idle.user.js",
+    "code_size": 16449,
+    "license": null,
+    "version": "1.23",
     "locale": "en",
     "deleted": false
   },
