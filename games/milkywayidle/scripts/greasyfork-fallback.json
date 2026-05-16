@@ -65,8 +65,8 @@
   },
   {
     "id": 562662,
-    "daily_installs": 9,
-    "total_installs": 1027,
+    "daily_installs": 10,
+    "total_installs": 1028,
     "fan_score": "51.0",
     "good_ratings": 4,
     "ok_ratings": 0,
@@ -224,6 +224,38 @@
     "deleted": false
   },
   {
+    "id": 540058,
+    "daily_installs": 4,
+    "total_installs": 628,
+    "fan_score": "46.3",
+    "good_ratings": 4,
+    "ok_ratings": 1,
+    "bad_ratings": 0,
+    "created_at": "2025-06-19T20:43:43.000Z",
+    "code_updated_at": "2026-03-21T19:56:27.000Z",
+    "namespace": "https://milkyway.market/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1485883,
+        "name": "mathewcst",
+        "created_at": "2025-06-19T20:40:58.000Z",
+        "url": "https://greasyfork.org/users/1485883-mathewcst"
+      }
+    ],
+    "name": "@mwm/addon",
+    "description": "Market addon using mwi-moonitoring library for WebSocket events",
+    "url": "https://greasyfork.org/scripts/540058-mwm-addon",
+    "code_url": "https://update.greasyfork.org/scripts/540058/%40mwmaddon.user.js",
+    "code_size": 139496,
+    "license": "MIT License",
+    "version": "1.12.1",
+    "locale": "en",
+    "deleted": false
+  },
+  {
     "id": 541550,
     "daily_installs": 4,
     "total_installs": 652,
@@ -252,38 +284,6 @@
     "code_size": 9517,
     "license": "MIT License",
     "version": "2.0",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 540058,
-    "daily_installs": 3,
-    "total_installs": 628,
-    "fan_score": "46.3",
-    "good_ratings": 4,
-    "ok_ratings": 1,
-    "bad_ratings": 0,
-    "created_at": "2025-06-19T20:43:43.000Z",
-    "code_updated_at": "2026-03-21T19:56:27.000Z",
-    "namespace": "https://milkyway.market/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1485883,
-        "name": "mathewcst",
-        "created_at": "2025-06-19T20:40:58.000Z",
-        "url": "https://greasyfork.org/users/1485883-mathewcst"
-      }
-    ],
-    "name": "@mwm/addon",
-    "description": "Market addon using mwi-moonitoring library for WebSocket events",
-    "url": "https://greasyfork.org/scripts/540058-mwm-addon",
-    "code_url": "https://update.greasyfork.org/scripts/540058/%40mwmaddon.user.js",
-    "code_size": 139496,
-    "license": "MIT License",
-    "version": "1.12.1",
     "locale": "en",
     "deleted": false
   },
@@ -544,38 +544,6 @@
     "deleted": false
   },
   {
-    "id": 538797,
-    "daily_installs": 1,
-    "total_installs": 1473,
-    "fan_score": "86.7",
-    "good_ratings": 31,
-    "ok_ratings": 1,
-    "bad_ratings": 0,
-    "created_at": "2025-06-08T09:00:47.000Z",
-    "code_updated_at": "2025-12-16T10:33:55.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1478363,
-        "name": "CYR2077",
-        "created_at": "2025-06-03T11:30:56.000Z",
-        "url": "https://greasyfork.org/users/1478363-cyr2077"
-      }
-    ],
-    "name": "[银河奶牛] 生产采集增强 / MWI Production & Gathering Enhanced",
-    "description": "计算生产、强化、房屋所需材料并一键购买；显示今日资产增量，统计30天总资产生成走势图；计算生产与炼金实时利润；按照目标材料数量进行采集；快速切换角色；自动收集市场订单；功能支持自定义开关。",
-    "url": "https://greasyfork.org/scripts/538797-%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B-%E7%94%9F%E4%BA%A7%E9%87%87%E9%9B%86%E5%A2%9E%E5%BC%BA-mwi-production-gathering-enhanced",
-    "code_url": "https://update.greasyfork.org/scripts/538797/%5B%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B%5D%20%E7%94%9F%E4%BA%A7%E9%87%87%E9%9B%86%E5%A2%9E%E5%BC%BA%20%20MWI%20Production%20%20Gathering%20Enhanced.user.js",
-    "code_size": 368830,
-    "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
-    "version": "3.6.8",
-    "locale": "zh-CN",
-    "deleted": false
-  },
-  {
     "id": 538920,
     "daily_installs": 1,
     "total_installs": 52,
@@ -829,102 +797,6 @@
     "license": "MIT License",
     "version": "1.0.3",
     "locale": "zh-CN",
-    "deleted": false
-  },
-  {
-    "id": 572344,
-    "daily_installs": 0,
-    "total_installs": 138,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2026-04-03T10:10:43.000Z",
-    "code_updated_at": "2026-04-29T06:01:01.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1463754,
-        "name": "XxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxX0",
-        "created_at": "2025-04-29T20:28:23.000Z",
-        "url": "https://greasyfork.org/users/1463754-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx0"
-      }
-    ],
-    "name": "MWI Profit Panel II",
-    "description": "milkywayidle游戏利润插件，在右面板添加了根据当前市场数据计算出来的收益详情，掉落记录展示了掉落详情",
-    "url": "https://greasyfork.org/scripts/572344-mwi-profit-panel-ii",
-    "code_url": "https://update.greasyfork.org/scripts/572344/MWI%20Profit%20Panel%20II.user.js",
-    "code_size": 646544,
-    "license": "MIT License",
-    "version": "20260429.0.6.3",
-    "locale": "zh-CN",
-    "deleted": false
-  },
-  {
-    "id": 572387,
-    "daily_installs": 0,
-    "total_installs": 24,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2026-04-03T18:34:15.000Z",
-    "code_updated_at": "2026-04-03T19:17:24.000Z",
-    "namespace": "https://milkywayidle.com",
-    "support_url": "https://github.com/SeaL773/mwi-april-fools-fix/issues",
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1573589,
-        "name": "SeaL773",
-        "created_at": "2026-02-22T23:06:57.000Z",
-        "url": "https://greasyfork.org/users/1573589-seal773"
-      }
-    ],
-    "name": "MWI Fix - April Fools Philosopher's Stone Remover",
-    "description": "Remove Philosopher's Stone entries from Edible Tools chest statistics (April Fools 2026 bug)",
-    "url": "https://greasyfork.org/scripts/572387-mwi-fix-april-fools-philosopher-s-stone-remover",
-    "code_url": "https://update.greasyfork.org/scripts/572387/MWI%20Fix%20-%20April%20Fools%20Philosopher%27s%20Stone%20Remover.user.js",
-    "code_size": 9873,
-    "license": "MIT License",
-    "version": "1.1",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 548679,
-    "daily_installs": 0,
-    "total_installs": 8,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2025-09-07T08:39:02.000Z",
-    "code_updated_at": "2025-09-22T05:40:23.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1464500,
-        "name": "AlphB",
-        "created_at": "2025-05-01T17:35:46.000Z",
-        "url": "https://greasyfork.org/users/1464500-alphb"
-      }
-    ],
-    "name": "SimpleEnhancerUI",
-    "description": "删掉一些对于强化师没用的按钮",
-    "url": "https://greasyfork.org/scripts/548679-simpleenhancerui",
-    "code_url": "https://update.greasyfork.org/scripts/548679/SimpleEnhancerUI.user.js",
-    "code_size": 5965,
-    "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
-    "version": "1.7",
-    "locale": "en",
     "deleted": false
   },
   {
@@ -2304,6 +2176,38 @@
     "deleted": false
   },
   {
+    "id": 538797,
+    "daily_installs": 0,
+    "total_installs": 1473,
+    "fan_score": "86.7",
+    "good_ratings": 31,
+    "ok_ratings": 1,
+    "bad_ratings": 0,
+    "created_at": "2025-06-08T09:00:47.000Z",
+    "code_updated_at": "2025-12-16T10:33:55.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1478363,
+        "name": "CYR2077",
+        "created_at": "2025-06-03T11:30:56.000Z",
+        "url": "https://greasyfork.org/users/1478363-cyr2077"
+      }
+    ],
+    "name": "[银河奶牛] 生产采集增强 / MWI Production & Gathering Enhanced",
+    "description": "计算生产、强化、房屋所需材料并一键购买；显示今日资产增量，统计30天总资产生成走势图；计算生产与炼金实时利润；按照目标材料数量进行采集；快速切换角色；自动收集市场订单；功能支持自定义开关。",
+    "url": "https://greasyfork.org/scripts/538797-%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B-%E7%94%9F%E4%BA%A7%E9%87%87%E9%9B%86%E5%A2%9E%E5%BC%BA-mwi-production-gathering-enhanced",
+    "code_url": "https://update.greasyfork.org/scripts/538797/%5B%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B%5D%20%E7%94%9F%E4%BA%A7%E9%87%87%E9%9B%86%E5%A2%9E%E5%BC%BA%20%20MWI%20Production%20%20Gathering%20Enhanced.user.js",
+    "code_size": 368830,
+    "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
+    "version": "3.6.8",
+    "locale": "zh-CN",
+    "deleted": false
+  },
+  {
     "id": 539485,
     "daily_installs": 0,
     "total_installs": 36,
@@ -2912,6 +2816,38 @@
     "deleted": false
   },
   {
+    "id": 548679,
+    "daily_installs": 0,
+    "total_installs": 8,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2025-09-07T08:39:02.000Z",
+    "code_updated_at": "2025-09-22T05:40:23.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1464500,
+        "name": "AlphB",
+        "created_at": "2025-05-01T17:35:46.000Z",
+        "url": "https://greasyfork.org/users/1464500-alphb"
+      }
+    ],
+    "name": "SimpleEnhancerUI",
+    "description": "删掉一些对于强化师没用的按钮",
+    "url": "https://greasyfork.org/scripts/548679-simpleenhancerui",
+    "code_url": "https://update.greasyfork.org/scripts/548679/SimpleEnhancerUI.user.js",
+    "code_size": 5965,
+    "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
+    "version": "1.7",
+    "locale": "en",
+    "deleted": false
+  },
+  {
     "id": 552714,
     "daily_installs": 0,
     "total_installs": 3,
@@ -3197,6 +3133,38 @@
     "license": "MIT License",
     "version": "1.5",
     "locale": "zh-CN",
+    "deleted": false
+  },
+  {
+    "id": 556924,
+    "daily_installs": 0,
+    "total_installs": 51,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2025-11-25T23:15:31.000Z",
+    "code_updated_at": "2025-12-12T00:38:02.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1453768,
+        "name": "sentientmilk",
+        "created_at": "2025-04-04T02:23:09.000Z",
+        "url": "https://greasyfork.org/users/1453768-sentientmilk"
+      }
+    ],
+    "name": "Insert dungeon run time",
+    "description": "Insert dungeon run time after the key count",
+    "url": "https://greasyfork.org/scripts/556924-insert-dungeon-run-time",
+    "code_url": "https://update.greasyfork.org/scripts/556924/Insert%20dungeon%20run%20time.user.js",
+    "code_size": 10376,
+    "license": "MIT License",
+    "version": "2025-12-11-2",
+    "locale": "en",
     "deleted": false
   },
   {
@@ -3645,6 +3613,70 @@
     "license": "MIT License",
     "version": "20260417.0.16.1",
     "locale": "zh-CN",
+    "deleted": false
+  },
+  {
+    "id": 572344,
+    "daily_installs": 0,
+    "total_installs": 138,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2026-04-03T10:10:43.000Z",
+    "code_updated_at": "2026-04-29T06:01:01.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1463754,
+        "name": "XxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxX0",
+        "created_at": "2025-04-29T20:28:23.000Z",
+        "url": "https://greasyfork.org/users/1463754-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx0"
+      }
+    ],
+    "name": "MWI Profit Panel II",
+    "description": "milkywayidle游戏利润插件，在右面板添加了根据当前市场数据计算出来的收益详情，掉落记录展示了掉落详情",
+    "url": "https://greasyfork.org/scripts/572344-mwi-profit-panel-ii",
+    "code_url": "https://update.greasyfork.org/scripts/572344/MWI%20Profit%20Panel%20II.user.js",
+    "code_size": 646544,
+    "license": "MIT License",
+    "version": "20260429.0.6.3",
+    "locale": "zh-CN",
+    "deleted": false
+  },
+  {
+    "id": 572387,
+    "daily_installs": 0,
+    "total_installs": 24,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2026-04-03T18:34:15.000Z",
+    "code_updated_at": "2026-04-03T19:17:24.000Z",
+    "namespace": "https://milkywayidle.com",
+    "support_url": "https://github.com/SeaL773/mwi-april-fools-fix/issues",
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1573589,
+        "name": "SeaL773",
+        "created_at": "2026-02-22T23:06:57.000Z",
+        "url": "https://greasyfork.org/users/1573589-seal773"
+      }
+    ],
+    "name": "MWI Fix - April Fools Philosopher's Stone Remover",
+    "description": "Remove Philosopher's Stone entries from Edible Tools chest statistics (April Fools 2026 bug)",
+    "url": "https://greasyfork.org/scripts/572387-mwi-fix-april-fools-philosopher-s-stone-remover",
+    "code_url": "https://update.greasyfork.org/scripts/572387/MWI%20Fix%20-%20April%20Fools%20Philosopher%27s%20Stone%20Remover.user.js",
+    "code_size": 9873,
+    "license": "MIT License",
+    "version": "1.1",
+    "locale": "en",
     "deleted": false
   },
   {
