@@ -1,8 +1,8 @@
 [
   {
     "id": 494467,
-    "daily_installs": 20,
-    "total_installs": 12236,
+    "daily_installs": 19,
+    "total_installs": 12238,
     "fan_score": "61.9",
     "good_ratings": 20,
     "ok_ratings": 9,
@@ -28,6 +28,38 @@
     "code_size": 479901,
     "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
     "version": "25.13",
+    "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 562662,
+    "daily_installs": 12,
+    "total_installs": 1053,
+    "fan_score": "51.0",
+    "good_ratings": 4,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2026-01-14T16:34:28.000Z",
+    "code_updated_at": "2026-05-20T03:08:55.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1512305,
+        "name": "Celasha",
+        "created_at": "2025-09-06T05:04:15.000Z",
+        "url": "https://greasyfork.org/users/1512305-celasha"
+      }
+    ],
+    "name": "Toolasha",
+    "description": "Toolasha - Enhanced tools for Milky Way Idle.",
+    "url": "https://greasyfork.org/scripts/562662-toolasha",
+    "code_url": "https://update.greasyfork.org/scripts/562662/Toolasha.user.js",
+    "code_size": 33433,
+    "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
+    "version": "2.49.3",
     "locale": "en",
     "deleted": false
   },
@@ -64,41 +96,9 @@
     "deleted": false
   },
   {
-    "id": 562662,
-    "daily_installs": 10,
-    "total_installs": 1051,
-    "fan_score": "51.0",
-    "good_ratings": 4,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2026-01-14T16:34:28.000Z",
-    "code_updated_at": "2026-05-20T03:08:55.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1512305,
-        "name": "Celasha",
-        "created_at": "2025-09-06T05:04:15.000Z",
-        "url": "https://greasyfork.org/users/1512305-celasha"
-      }
-    ],
-    "name": "Toolasha",
-    "description": "Toolasha - Enhanced tools for Milky Way Idle.",
-    "url": "https://greasyfork.org/scripts/562662-toolasha",
-    "code_url": "https://update.greasyfork.org/scripts/562662/Toolasha.user.js",
-    "code_size": 33433,
-    "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
-    "version": "2.49.3",
-    "locale": "en",
-    "deleted": false
-  },
-  {
     "id": 567386,
     "daily_installs": 10,
-    "total_installs": 1634,
+    "total_installs": 1635,
     "fan_score": "64.6",
     "good_ratings": 7,
     "ok_ratings": 0,
@@ -124,38 +124,6 @@
     "code_size": 399016,
     "license": "MIT License",
     "version": "1.7.0",
-    "locale": "zh-CN",
-    "deleted": false
-  },
-  {
-    "id": 499963,
-    "daily_installs": 5,
-    "total_installs": 5971,
-    "fan_score": "67.2",
-    "good_ratings": 14,
-    "ok_ratings": 4,
-    "bad_ratings": 0,
-    "created_at": "2024-07-08T00:48:21.000Z",
-    "code_updated_at": "2026-05-16T01:24:27.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1313709,
-        "name": "Truth_Light",
-        "created_at": "2024-06-07T02:52:25.000Z",
-        "url": "https://greasyfork.org/users/1313709-truth-light"
-      }
-    ],
-    "name": "[银河奶牛]食用工具",
-    "description": "开箱记录、箱子期望、离线统计、公会钉钉、食物警察、掉落追踪、强化统计、地牢计算",
-    "url": "https://greasyfork.org/scripts/499963-%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B-%E9%A3%9F%E7%94%A8%E5%B7%A5%E5%85%B7",
-    "code_url": "https://update.greasyfork.org/scripts/499963/%5B%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B%5D%E9%A3%9F%E7%94%A8%E5%B7%A5%E5%85%B7.user.js",
-    "code_size": 276838,
-    "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
-    "version": "0.508",
     "locale": "zh-CN",
     "deleted": false
   },
@@ -188,6 +156,38 @@
     "code_size": 190338,
     "license": "MIT License",
     "version": "1.7.0",
+    "locale": "zh-CN",
+    "deleted": false
+  },
+  {
+    "id": 499963,
+    "daily_installs": 5,
+    "total_installs": 5972,
+    "fan_score": "67.2",
+    "good_ratings": 14,
+    "ok_ratings": 4,
+    "bad_ratings": 0,
+    "created_at": "2024-07-08T00:48:21.000Z",
+    "code_updated_at": "2026-05-16T01:24:27.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1313709,
+        "name": "Truth_Light",
+        "created_at": "2024-06-07T02:52:25.000Z",
+        "url": "https://greasyfork.org/users/1313709-truth-light"
+      }
+    ],
+    "name": "[银河奶牛]食用工具",
+    "description": "开箱记录、箱子期望、离线统计、公会钉钉、食物警察、掉落追踪、强化统计、地牢计算",
+    "url": "https://greasyfork.org/scripts/499963-%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B-%E9%A3%9F%E7%94%A8%E5%B7%A5%E5%85%B7",
+    "code_url": "https://update.greasyfork.org/scripts/499963/%5B%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B%5D%E9%A3%9F%E7%94%A8%E5%B7%A5%E5%85%B7.user.js",
+    "code_size": 276838,
+    "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
+    "version": "0.508",
     "locale": "zh-CN",
     "deleted": false
   },
@@ -320,38 +320,6 @@
     "deleted": false
   },
   {
-    "id": 569362,
-    "daily_installs": 3,
-    "total_installs": 219,
-    "fan_score": "5.5",
-    "good_ratings": 0,
-    "ok_ratings": 1,
-    "bad_ratings": 0,
-    "created_at": "2026-03-12T00:26:46.000Z",
-    "code_updated_at": "2026-05-02T07:08:17.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1463754,
-        "name": "XxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxX0",
-        "created_at": "2025-04-29T20:28:23.000Z",
-        "url": "https://greasyfork.org/users/1463754-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx0"
-      }
-    ],
-    "name": "mooket II",
-    "description": "mooket2 银河奶牛历史价格（包含强化物品）history(enhancement included) price for milkywayidle",
-    "url": "https://greasyfork.org/scripts/569362-mooket-ii",
-    "code_url": "https://update.greasyfork.org/scripts/569362/mooket%20II.user.js",
-    "code_size": 212842,
-    "license": "MIT License",
-    "version": "20260417.0.16.1",
-    "locale": "zh-CN",
-    "deleted": false
-  },
-  {
     "id": 569474,
     "daily_installs": 3,
     "total_installs": 98,
@@ -381,6 +349,38 @@
     "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
     "version": "2.8.0",
     "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 544243,
+    "daily_installs": 2,
+    "total_installs": 34,
+    "fan_score": "5.5",
+    "good_ratings": 0,
+    "ok_ratings": 1,
+    "bad_ratings": 0,
+    "created_at": "2025-08-01T02:20:13.000Z",
+    "code_updated_at": "2025-08-05T22:09:30.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1233912,
+        "name": "uyytff",
+        "created_at": "2023-12-14T18:27:56.000Z",
+        "url": "https://greasyfork.org/users/1233912-uyytff"
+      }
+    ],
+    "name": "[银河奶牛]莫库里换皮",
+    "description": "替换怪物图标为可爱的莫库里生物，并更改名字",
+    "url": "https://greasyfork.org/scripts/544243-%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B-%E8%8E%AB%E5%BA%93%E9%87%8C%E6%8D%A2%E7%9A%AE",
+    "code_url": "https://update.greasyfork.org/scripts/544243/%5B%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B%5D%E8%8E%AB%E5%BA%93%E9%87%8C%E6%8D%A2%E7%9A%AE.user.js",
+    "code_size": 21186,
+    "license": "MIT License",
+    "version": "1.1.1",
+    "locale": "zh-CN",
     "deleted": false
   },
   {
@@ -450,7 +450,7 @@
   {
     "id": 539672,
     "daily_installs": 2,
-    "total_installs": 1047,
+    "total_installs": 1048,
     "fan_score": "5.5",
     "good_ratings": 0,
     "ok_ratings": 1,
@@ -512,34 +512,34 @@
     "deleted": false
   },
   {
-    "id": 544243,
+    "id": 569362,
     "daily_installs": 2,
-    "total_installs": 34,
+    "total_installs": 219,
     "fan_score": "5.5",
     "good_ratings": 0,
     "ok_ratings": 1,
     "bad_ratings": 0,
-    "created_at": "2025-08-01T02:20:13.000Z",
-    "code_updated_at": "2025-08-05T22:09:30.000Z",
+    "created_at": "2026-03-12T00:26:46.000Z",
+    "code_updated_at": "2026-05-02T07:08:17.000Z",
     "namespace": "http://tampermonkey.net/",
     "support_url": null,
     "contribution_url": null,
     "contribution_amount": null,
     "users": [
       {
-        "id": 1233912,
-        "name": "uyytff",
-        "created_at": "2023-12-14T18:27:56.000Z",
-        "url": "https://greasyfork.org/users/1233912-uyytff"
+        "id": 1463754,
+        "name": "XxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxX0",
+        "created_at": "2025-04-29T20:28:23.000Z",
+        "url": "https://greasyfork.org/users/1463754-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx0"
       }
     ],
-    "name": "[银河奶牛]莫库里换皮",
-    "description": "替换怪物图标为可爱的莫库里生物，并更改名字",
-    "url": "https://greasyfork.org/scripts/544243-%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B-%E8%8E%AB%E5%BA%93%E9%87%8C%E6%8D%A2%E7%9A%AE",
-    "code_url": "https://update.greasyfork.org/scripts/544243/%5B%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B%5D%E8%8E%AB%E5%BA%93%E9%87%8C%E6%8D%A2%E7%9A%AE.user.js",
-    "code_size": 21186,
+    "name": "mooket II",
+    "description": "mooket2 银河奶牛历史价格（包含强化物品）history(enhancement included) price for milkywayidle",
+    "url": "https://greasyfork.org/scripts/569362-mooket-ii",
+    "code_url": "https://update.greasyfork.org/scripts/569362/mooket%20II.user.js",
+    "code_size": 212842,
     "license": "MIT License",
-    "version": "1.1.1",
+    "version": "20260417.0.16.1",
     "locale": "zh-CN",
     "deleted": false
   },
@@ -576,6 +576,70 @@
     "deleted": false
   },
   {
+    "id": 572344,
+    "daily_installs": 2,
+    "total_installs": 140,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2026-04-03T10:10:43.000Z",
+    "code_updated_at": "2026-04-29T06:01:01.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1463754,
+        "name": "XxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxX0",
+        "created_at": "2025-04-29T20:28:23.000Z",
+        "url": "https://greasyfork.org/users/1463754-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx0"
+      }
+    ],
+    "name": "MWI Profit Panel II",
+    "description": "milkywayidle游戏利润插件，在右面板添加了根据当前市场数据计算出来的收益详情，掉落记录展示了掉落详情",
+    "url": "https://greasyfork.org/scripts/572344-mwi-profit-panel-ii",
+    "code_url": "https://update.greasyfork.org/scripts/572344/MWI%20Profit%20Panel%20II.user.js",
+    "code_size": 646544,
+    "license": "MIT License",
+    "version": "20260429.0.6.3",
+    "locale": "zh-CN",
+    "deleted": false
+  },
+  {
+    "id": 567056,
+    "daily_installs": 1,
+    "total_installs": 230,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2026-02-21T23:41:48.000Z",
+    "code_updated_at": "2026-05-20T03:43:54.000Z",
+    "namespace": "https://milkywayidle.com/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1545423,
+        "name": "Grag Atrim",
+        "created_at": "2025-12-07T03:27:38.000Z",
+        "url": "https://greasyfork.org/users/1545423-grag-atrim"
+      }
+    ],
+    "name": "MWI Lab Room Success Calculator",
+    "description": "Calculates labyrinth room clear probability, highlights clearable rooms, tracks XP and run history, simulates combat rooms",
+    "url": "https://greasyfork.org/scripts/567056-mwi-lab-room-success-calculator",
+    "code_url": "https://update.greasyfork.org/scripts/567056/MWI%20Lab%20Room%20Success%20Calculator.user.js",
+    "code_size": 174314,
+    "license": "MIT License",
+    "version": "3.55",
+    "locale": "en",
+    "deleted": false
+  },
+  {
     "id": 506960,
     "daily_installs": 1,
     "total_installs": 467,
@@ -604,38 +668,6 @@
     "code_size": 13183,
     "license": "Truth_Light",
     "version": "1.10",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 530719,
-    "daily_installs": 1,
-    "total_installs": 65,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2025-03-24T15:39:09.000Z",
-    "code_updated_at": "2025-04-11T15:49:05.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1449733,
-        "name": "AlexZaw",
-        "created_at": "2025-03-24T14:02:18.000Z",
-        "url": "https://greasyfork.org/users/1449733-alexzaw"
-      }
-    ],
-    "name": "MWI QoL Skill requirement",
-    "description": "Tools for MilkyWayIdle. Compares your current skill level to the item's requirements and highlights them in different colors depending on whether you are leveled up enough",
-    "url": "https://greasyfork.org/scripts/530719-mwi-qol-skill-requirement",
-    "code_url": "https://update.greasyfork.org/scripts/530719/MWI%20QoL%20Skill%20requirement.user.js",
-    "code_size": 3749,
-    "license": "MIT License",
-    "version": "1.1",
     "locale": "en",
     "deleted": false
   },
@@ -832,70 +864,6 @@
     "deleted": false
   },
   {
-    "id": 567056,
-    "daily_installs": 1,
-    "total_installs": 230,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2026-02-21T23:41:48.000Z",
-    "code_updated_at": "2026-05-20T03:43:54.000Z",
-    "namespace": "https://milkywayidle.com/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1545423,
-        "name": "Grag Atrim",
-        "created_at": "2025-12-07T03:27:38.000Z",
-        "url": "https://greasyfork.org/users/1545423-grag-atrim"
-      }
-    ],
-    "name": "MWI Lab Room Success Calculator",
-    "description": "Calculates labyrinth room clear probability, highlights clearable rooms, tracks XP and run history, simulates combat rooms",
-    "url": "https://greasyfork.org/scripts/567056-mwi-lab-room-success-calculator",
-    "code_url": "https://update.greasyfork.org/scripts/567056/MWI%20Lab%20Room%20Success%20Calculator.user.js",
-    "code_size": 174314,
-    "license": "MIT License",
-    "version": "3.55",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 572344,
-    "daily_installs": 1,
-    "total_installs": 139,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2026-04-03T10:10:43.000Z",
-    "code_updated_at": "2026-04-29T06:01:01.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1463754,
-        "name": "XxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxX0",
-        "created_at": "2025-04-29T20:28:23.000Z",
-        "url": "https://greasyfork.org/users/1463754-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx0"
-      }
-    ],
-    "name": "MWI Profit Panel II",
-    "description": "milkywayidle游戏利润插件，在右面板添加了根据当前市场数据计算出来的收益详情，掉落记录展示了掉落详情",
-    "url": "https://greasyfork.org/scripts/572344-mwi-profit-panel-ii",
-    "code_url": "https://update.greasyfork.org/scripts/572344/MWI%20Profit%20Panel%20II.user.js",
-    "code_size": 646544,
-    "license": "MIT License",
-    "version": "20260429.0.6.3",
-    "locale": "zh-CN",
-    "deleted": false
-  },
-  {
     "id": 573779,
     "daily_installs": 1,
     "total_installs": 28,
@@ -925,6 +893,198 @@
     "license": "MIT License",
     "version": "1.0.3",
     "locale": "zh-CN",
+    "deleted": false
+  },
+  {
+    "id": 543840,
+    "daily_installs": 0,
+    "total_installs": 4,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2025-07-28T06:54:06.000Z",
+    "code_updated_at": "2025-07-28T07:00:09.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1499063,
+        "name": "collarish",
+        "created_at": "2025-07-28T06:52:22.000Z",
+        "url": "https://greasyfork.org/users/1499063-collarish"
+      }
+    ],
+    "name": "Doing nothing alert",
+    "description": "Play an alert once when title says \"Doing nothing\"",
+    "url": "https://greasyfork.org/scripts/543840-doing-nothing-alert",
+    "code_url": "https://update.greasyfork.org/scripts/543840/Doing%20nothing%20alert.user.js",
+    "code_size": 4104,
+    "license": "MIT License",
+    "version": "1",
+    "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 544234,
+    "daily_installs": 0,
+    "total_installs": 162,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2025-07-31T21:56:36.000Z",
+    "code_updated_at": "2025-10-07T19:56:22.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1500317,
+        "name": "virsey",
+        "created_at": "2025-07-31T21:24:11.000Z",
+        "url": "https://greasyfork.org/users/1500317-virsey"
+      }
+    ],
+    "name": "銀河奶牛放置-任務製作材料快捷購買",
+    "description": "在製作配方彈窗中，為缺少的材料(包含升級道具)右側添加一個快捷購買按鈕，並在購買後自動刷新狀態。",
+    "url": "https://greasyfork.org/scripts/544234-%E9%8A%80%E6%B2%B3%E5%A5%B6%E7%89%9B%E6%94%BE%E7%BD%AE-%E4%BB%BB%E5%8B%99%E8%A3%BD%E4%BD%9C%E6%9D%90%E6%96%99%E5%BF%AB%E6%8D%B7%E8%B3%BC%E8%B2%B7",
+    "code_url": "https://update.greasyfork.org/scripts/544234/%E9%8A%80%E6%B2%B3%E5%A5%B6%E7%89%9B%E6%94%BE%E7%BD%AE-%E4%BB%BB%E5%8B%99%E8%A3%BD%E4%BD%9C%E6%9D%90%E6%96%99%E5%BF%AB%E6%8D%B7%E8%B3%BC%E8%B2%B7.user.js",
+    "code_size": 10381,
+    "license": "MIT License",
+    "version": "4.1",
+    "locale": "zh-TW",
+    "deleted": false
+  },
+  {
+    "id": 567055,
+    "daily_installs": 0,
+    "total_installs": 16,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2026-02-21T23:27:04.000Z",
+    "code_updated_at": "2026-03-07T04:52:52.000Z",
+    "namespace": "mwi_tasks_actions_extended",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1562587,
+        "name": "mists",
+        "created_at": "2026-01-20T05:13:38.000Z",
+        "url": "https://greasyfork.org/users/1562587-mists"
+      }
+    ],
+    "name": "MWI Tasks & Actions Extended",
+    "description": "Queue & Move to Top plus task-card + / -1 queue helpers",
+    "url": "https://greasyfork.org/scripts/567055-mwi-tasks-actions-extended",
+    "code_url": "https://update.greasyfork.org/scripts/567055/MWI%20Tasks%20%20Actions%20Extended.user.js",
+    "code_size": 69339,
+    "license": "MIT License",
+    "version": "1.1.1",
+    "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 567134,
+    "daily_installs": 0,
+    "total_installs": 7,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2026-02-22T20:36:37.000Z",
+    "code_updated_at": "2026-02-23T14:38:09.000Z",
+    "namespace": "https://www.milkywayidle.com/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1569548,
+        "name": "SilkyPanda",
+        "created_at": "2026-02-10T18:49:44.000Z",
+        "url": "https://greasyfork.org/users/1569548-silkypanda"
+      }
+    ],
+    "name": "Toggle Labyrinth Ping",
+    "description": "Adds a menu button to toggle the 'Labryinth Ping' badge.",
+    "url": "https://greasyfork.org/scripts/567134-toggle-labyrinth-ping",
+    "code_url": "https://update.greasyfork.org/scripts/567134/Toggle%20Labyrinth%20Ping.user.js",
+    "code_size": 1726,
+    "license": "MIT License",
+    "version": "1.2",
+    "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 567163,
+    "daily_installs": 0,
+    "total_installs": 37,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2026-02-22T23:50:42.000Z",
+    "code_updated_at": "2026-03-09T23:41:34.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": "https://github.com/SeaL773/mwi-dungeon-timer/issues",
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1573589,
+        "name": "SeaL773",
+        "created_at": "2026-02-22T23:06:57.000Z",
+        "url": "https://greasyfork.org/users/1573589-seal773"
+      }
+    ],
+    "name": "Dungeon Floor Timer",
+    "description": "Track dungeon floor group times with speedrun-style comparison & extra boss spawn counter for Milky Way Idle",
+    "url": "https://greasyfork.org/scripts/567163-dungeon-floor-timer",
+    "code_url": "https://update.greasyfork.org/scripts/567163/Dungeon%20Floor%20Timer.user.js",
+    "code_size": 32636,
+    "license": "MIT License",
+    "version": "1.12",
+    "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 567214,
+    "daily_installs": 0,
+    "total_installs": 9,
+    "fan_score": "20.7",
+    "good_ratings": 1,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2026-02-23T10:38:24.000Z",
+    "code_updated_at": "2026-02-23T10:43:41.000Z",
+    "namespace": "https://www.milkywayidle.com/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1569548,
+        "name": "SilkyPanda",
+        "created_at": "2026-02-10T18:49:44.000Z",
+        "url": "https://greasyfork.org/users/1569548-silkypanda"
+      }
+    ],
+    "name": "Milkywayidle Labyrinth Timer Flasher",
+    "description": "Flashes Labyrinth button and timer when about to fail.",
+    "url": "https://greasyfork.org/scripts/567214-milkywayidle-labyrinth-timer-flasher",
+    "code_url": "https://update.greasyfork.org/scripts/567214/Milkywayidle%20Labyrinth%20Timer%20Flasher.user.js",
+    "code_size": 4515,
+    "license": "MIT License",
+    "version": "1.1",
+    "locale": "en",
     "deleted": false
   },
   {
@@ -1340,6 +1500,38 @@
     "code_size": 1264,
     "license": "MIT License",
     "version": "1.2",
+    "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 530719,
+    "daily_installs": 0,
+    "total_installs": 65,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2025-03-24T15:39:09.000Z",
+    "code_updated_at": "2025-04-11T15:49:05.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1449733,
+        "name": "AlexZaw",
+        "created_at": "2025-03-24T14:02:18.000Z",
+        "url": "https://greasyfork.org/users/1449733-alexzaw"
+      }
+    ],
+    "name": "MWI QoL Skill requirement",
+    "description": "Tools for MilkyWayIdle. Compares your current skill level to the item's requirements and highlights them in different colors depending on whether you are leveled up enough",
+    "url": "https://greasyfork.org/scripts/530719-mwi-qol-skill-requirement",
+    "code_url": "https://update.greasyfork.org/scripts/530719/MWI%20QoL%20Skill%20requirement.user.js",
+    "code_size": 3749,
+    "license": "MIT License",
+    "version": "1.1",
     "locale": "en",
     "deleted": false
   },
@@ -2624,70 +2816,6 @@
     "deleted": false
   },
   {
-    "id": 543840,
-    "daily_installs": 0,
-    "total_installs": 4,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2025-07-28T06:54:06.000Z",
-    "code_updated_at": "2025-07-28T07:00:09.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1499063,
-        "name": "collarish",
-        "created_at": "2025-07-28T06:52:22.000Z",
-        "url": "https://greasyfork.org/users/1499063-collarish"
-      }
-    ],
-    "name": "Doing nothing alert",
-    "description": "Play an alert once when title says \"Doing nothing\"",
-    "url": "https://greasyfork.org/scripts/543840-doing-nothing-alert",
-    "code_url": "https://update.greasyfork.org/scripts/543840/Doing%20nothing%20alert.user.js",
-    "code_size": 4104,
-    "license": "MIT License",
-    "version": "1",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 544234,
-    "daily_installs": 0,
-    "total_installs": 162,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2025-07-31T21:56:36.000Z",
-    "code_updated_at": "2025-10-07T19:56:22.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1500317,
-        "name": "virsey",
-        "created_at": "2025-07-31T21:24:11.000Z",
-        "url": "https://greasyfork.org/users/1500317-virsey"
-      }
-    ],
-    "name": "銀河奶牛放置-任務製作材料快捷購買",
-    "description": "在製作配方彈窗中，為缺少的材料(包含升級道具)右側添加一個快捷購買按鈕，並在購買後自動刷新狀態。",
-    "url": "https://greasyfork.org/scripts/544234-%E9%8A%80%E6%B2%B3%E5%A5%B6%E7%89%9B%E6%94%BE%E7%BD%AE-%E4%BB%BB%E5%8B%99%E8%A3%BD%E4%BD%9C%E6%9D%90%E6%96%99%E5%BF%AB%E6%8D%B7%E8%B3%BC%E8%B2%B7",
-    "code_url": "https://update.greasyfork.org/scripts/544234/%E9%8A%80%E6%B2%B3%E5%A5%B6%E7%89%9B%E6%94%BE%E7%BD%AE-%E4%BB%BB%E5%8B%99%E8%A3%BD%E4%BD%9C%E6%9D%90%E6%96%99%E5%BF%AB%E6%8D%B7%E8%B3%BC%E8%B2%B7.user.js",
-    "code_size": 10381,
-    "license": "MIT License",
-    "version": "4.1",
-    "locale": "zh-TW",
-    "deleted": false
-  },
-  {
     "id": 545920,
     "daily_installs": 0,
     "total_installs": 2,
@@ -3104,38 +3232,6 @@
     "deleted": false
   },
   {
-    "id": 556924,
-    "daily_installs": 0,
-    "total_installs": 51,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2025-11-25T23:15:31.000Z",
-    "code_updated_at": "2025-12-12T00:38:02.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1453768,
-        "name": "sentientmilk",
-        "created_at": "2025-04-04T02:23:09.000Z",
-        "url": "https://greasyfork.org/users/1453768-sentientmilk"
-      }
-    ],
-    "name": "Insert dungeon run time",
-    "description": "Insert dungeon run time after the key count",
-    "url": "https://greasyfork.org/scripts/556924-insert-dungeon-run-time",
-    "code_url": "https://update.greasyfork.org/scripts/556924/Insert%20dungeon%20run%20time.user.js",
-    "code_size": 10376,
-    "license": "MIT License",
-    "version": "2025-12-11-2",
-    "locale": "en",
-    "deleted": false
-  },
-  {
     "id": 557712,
     "daily_installs": 0,
     "total_installs": 48,
@@ -3165,38 +3261,6 @@
     "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
     "version": "1.9.4",
     "locale": "zh-CN",
-    "deleted": false
-  },
-  {
-    "id": 558162,
-    "daily_installs": 0,
-    "total_installs": 5,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2025-12-06T23:31:04.000Z",
-    "code_updated_at": "2025-12-07T00:18:58.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1541174,
-        "name": "GOSU",
-        "created_at": "2025-11-24T15:35:41.000Z",
-        "url": "https://greasyfork.org/users/1541174-gosu"
-      }
-    ],
-    "name": "MWI Simplified User Profiles (Steam tags, consolidation of prestiges)",
-    "description": "Adds a pre or post-Steam tag, consolidates Task, Collection & Bestiary Points with tooltips on hover",
-    "url": "https://greasyfork.org/scripts/558162-mwi-simplified-user-profiles-steam-tags-consolidation-of-prestiges",
-    "code_url": "https://update.greasyfork.org/scripts/558162/MWI%20Simplified%20User%20Profiles%20%28Steam%20tags%2C%20consolidation%20of%20prestiges%29.user.js",
-    "code_size": 6019,
-    "license": "MIT License",
-    "version": "1.33.7",
-    "locale": "en",
     "deleted": false
   },
   {
@@ -3420,38 +3484,6 @@
     "code_size": 34198,
     "license": "MIT License",
     "version": "1.6",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 567163,
-    "daily_installs": 0,
-    "total_installs": 37,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2026-02-22T23:50:42.000Z",
-    "code_updated_at": "2026-03-09T23:41:34.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": "https://github.com/SeaL773/mwi-dungeon-timer/issues",
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1573589,
-        "name": "SeaL773",
-        "created_at": "2026-02-22T23:06:57.000Z",
-        "url": "https://greasyfork.org/users/1573589-seal773"
-      }
-    ],
-    "name": "Dungeon Floor Timer",
-    "description": "Track dungeon floor group times with speedrun-style comparison & extra boss spawn counter for Milky Way Idle",
-    "url": "https://greasyfork.org/scripts/567163-dungeon-floor-timer",
-    "code_url": "https://update.greasyfork.org/scripts/567163/Dungeon%20Floor%20Timer.user.js",
-    "code_size": 32636,
-    "license": "MIT License",
-    "version": "1.12",
     "locale": "en",
     "deleted": false
   },
