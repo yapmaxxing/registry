@@ -1,8 +1,8 @@
 [
   {
     "id": 567386,
-    "daily_installs": 17,
-    "total_installs": 1759,
+    "daily_installs": 22,
+    "total_installs": 1765,
     "fan_score": "64.6",
     "good_ratings": 7,
     "ok_ratings": 0,
@@ -32,41 +32,9 @@
     "deleted": false
   },
   {
-    "id": 562662,
-    "daily_installs": 15,
-    "total_installs": 1123,
-    "fan_score": "51.0",
-    "good_ratings": 4,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2026-01-14T16:34:28.000Z",
-    "code_updated_at": "2026-05-28T04:54:36.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1512305,
-        "name": "Celasha",
-        "created_at": "2025-09-06T05:04:15.000Z",
-        "url": "https://greasyfork.org/users/1512305-celasha"
-      }
-    ],
-    "name": "Toolasha",
-    "description": "Toolasha - Enhanced tools for Milky Way Idle.",
-    "url": "https://greasyfork.org/scripts/562662-toolasha",
-    "code_url": "https://update.greasyfork.org/scripts/562662/Toolasha.user.js",
-    "code_size": 34233,
-    "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
-    "version": "2.57.0",
-    "locale": "en",
-    "deleted": false
-  },
-  {
     "id": 494467,
-    "daily_installs": 14,
-    "total_installs": 12368,
+    "daily_installs": 16,
+    "total_installs": 12372,
     "fan_score": "61.9",
     "good_ratings": 20,
     "ok_ratings": 9,
@@ -96,9 +64,41 @@
     "deleted": false
   },
   {
+    "id": 562662,
+    "daily_installs": 14,
+    "total_installs": 1124,
+    "fan_score": "51.0",
+    "good_ratings": 4,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2026-01-14T16:34:28.000Z",
+    "code_updated_at": "2026-05-28T04:54:36.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1512305,
+        "name": "Celasha",
+        "created_at": "2025-09-06T05:04:15.000Z",
+        "url": "https://greasyfork.org/users/1512305-celasha"
+      }
+    ],
+    "name": "Toolasha",
+    "description": "Toolasha - Enhanced tools for Milky Way Idle.",
+    "url": "https://greasyfork.org/scripts/562662-toolasha",
+    "code_url": "https://update.greasyfork.org/scripts/562662/Toolasha.user.js",
+    "code_size": 34233,
+    "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
+    "version": "2.57.0",
+    "locale": "en",
+    "deleted": false
+  },
+  {
     "id": 499963,
     "daily_installs": 13,
-    "total_installs": 6061,
+    "total_installs": 6063,
     "fan_score": "67.2",
     "good_ratings": 14,
     "ok_ratings": 4,
@@ -129,8 +129,8 @@
   },
   {
     "id": 566829,
-    "daily_installs": 9,
-    "total_installs": 1957,
+    "daily_installs": 10,
+    "total_installs": 1958,
     "fan_score": "34.2",
     "good_ratings": 2,
     "ok_ratings": 0,
@@ -160,9 +160,73 @@
     "deleted": false
   },
   {
+    "id": 535181,
+    "daily_installs": 6,
+    "total_installs": 1163,
+    "fan_score": "43.8",
+    "good_ratings": 3,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2025-05-07T02:42:03.000Z",
+    "code_updated_at": "2025-11-06T06:49:31.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 878920,
+        "name": "Artintel (Artintel)",
+        "created_at": "2022-02-21T09:32:34.000Z",
+        "url": "https://greasyfork.org/users/878920-artintel-artintel"
+      }
+    ],
+    "name": "MWI-Hit-Tracker",
+    "description": "战斗过程中实时显示攻击/治疗命中目标",
+    "url": "https://greasyfork.org/scripts/535181-mwi-hit-tracker",
+    "code_url": "https://update.greasyfork.org/scripts/535181/MWI-Hit-Tracker.user.js",
+    "code_size": 41558,
+    "license": "MIT License",
+    "version": "1.2.5",
+    "locale": "zh-CN",
+    "deleted": false
+  },
+  {
+    "id": 539672,
+    "daily_installs": 6,
+    "total_installs": 1075,
+    "fan_score": "5.5",
+    "good_ratings": 0,
+    "ok_ratings": 1,
+    "bad_ratings": 0,
+    "created_at": "2025-06-16T20:25:43.000Z",
+    "code_updated_at": "2025-11-14T13:59:00.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1484665,
+        "name": "yanisCC",
+        "created_at": "2025-06-16T20:11:38.000Z",
+        "url": "https://greasyfork.org/users/1484665-yaniscc"
+      }
+    ],
+    "name": "[MWI] Realtime Import Of Battle Simulation",
+    "description": "Battle simulation imports the realtime configuration of the current character.",
+    "url": "https://greasyfork.org/scripts/539672-mwi-realtime-import-of-battle-simulation",
+    "code_url": "https://update.greasyfork.org/scripts/539672/%5B%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B%5D%E6%88%98%E6%96%97%E6%A8%A1%E6%8B%9F%E5%AE%9E%E6%97%B6%E5%AF%BC%E5%85%A5.user.js",
+    "code_size": 47510,
+    "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
+    "version": "0.3.6",
+    "locale": "en",
+    "deleted": false
+  },
+  {
     "id": 546655,
-    "daily_installs": 4,
-    "total_installs": 1478,
+    "daily_installs": 6,
+    "total_installs": 1481,
     "fan_score": "5.0",
     "good_ratings": 0,
     "ok_ratings": 0,
@@ -188,6 +252,38 @@
     "code_size": 414688,
     "license": "MIT License",
     "version": "1.0.8.1",
+    "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 537897,
+    "daily_installs": 4,
+    "total_installs": 206,
+    "fan_score": "20.7",
+    "good_ratings": 1,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2025-05-31T21:56:30.000Z",
+    "code_updated_at": "2026-05-23T19:01:11.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1468994,
+        "name": "frotty",
+        "created_at": "2025-05-12T06:06:47.000Z",
+        "url": "https://greasyfork.org/users/1468994-frotty"
+      }
+    ],
+    "name": "MWI Combat Suite",
+    "description": "Tools to assist you in combat droning to appease the Queen RNG.",
+    "url": "https://greasyfork.org/scripts/537897-mwi-combat-suite",
+    "code_url": "https://update.greasyfork.org/scripts/537897/MWI%20Combat%20Suite.user.js",
+    "code_size": 2030735,
+    "license": "MIB License",
+    "version": "0.9.36234",
     "locale": "en",
     "deleted": false
   },
@@ -224,73 +320,9 @@
     "deleted": false
   },
   {
-    "id": 537897,
-    "daily_installs": 3,
-    "total_installs": 205,
-    "fan_score": "20.7",
-    "good_ratings": 1,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2025-05-31T21:56:30.000Z",
-    "code_updated_at": "2026-05-23T19:01:11.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1468994,
-        "name": "frotty",
-        "created_at": "2025-05-12T06:06:47.000Z",
-        "url": "https://greasyfork.org/users/1468994-frotty"
-      }
-    ],
-    "name": "MWI Combat Suite",
-    "description": "Tools to assist you in combat droning to appease the Queen RNG.",
-    "url": "https://greasyfork.org/scripts/537897-mwi-combat-suite",
-    "code_url": "https://update.greasyfork.org/scripts/537897/MWI%20Combat%20Suite.user.js",
-    "code_size": 2030735,
-    "license": "MIB License",
-    "version": "0.9.36234",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 539672,
-    "daily_installs": 3,
-    "total_installs": 1072,
-    "fan_score": "5.5",
-    "good_ratings": 0,
-    "ok_ratings": 1,
-    "bad_ratings": 0,
-    "created_at": "2025-06-16T20:25:43.000Z",
-    "code_updated_at": "2025-11-14T13:59:00.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1484665,
-        "name": "yanisCC",
-        "created_at": "2025-06-16T20:11:38.000Z",
-        "url": "https://greasyfork.org/users/1484665-yaniscc"
-      }
-    ],
-    "name": "[MWI] Realtime Import Of Battle Simulation",
-    "description": "Battle simulation imports the realtime configuration of the current character.",
-    "url": "https://greasyfork.org/scripts/539672-mwi-realtime-import-of-battle-simulation",
-    "code_url": "https://update.greasyfork.org/scripts/539672/%5B%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B%5D%E6%88%98%E6%96%97%E6%A8%A1%E6%8B%9F%E5%AE%9E%E6%97%B6%E5%AF%BC%E5%85%A5.user.js",
-    "code_size": 47510,
-    "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
-    "version": "0.3.6",
-    "locale": "en",
-    "deleted": false
-  },
-  {
     "id": 541550,
     "daily_installs": 3,
-    "total_installs": 682,
+    "total_installs": 683,
     "fan_score": "5.0",
     "good_ratings": 0,
     "ok_ratings": 0,
@@ -320,8 +352,40 @@
     "deleted": false
   },
   {
-    "id": 569474,
+    "id": 573779,
     "daily_installs": 3,
+    "total_installs": 34,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2026-04-13T14:43:51.000Z",
+    "code_updated_at": "2026-04-26T03:20:34.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1572680,
+        "name": "dakonglong",
+        "created_at": "2026-02-20T06:57:52.000Z",
+        "url": "https://greasyfork.org/users/1572680-dakonglong"
+      }
+    ],
+    "name": "ICTime",
+    "description": "Show item time cost and related helper info in Milky Way Idle.",
+    "url": "https://greasyfork.org/scripts/573779-ictime",
+    "code_url": "https://update.greasyfork.org/scripts/573779/ICTime.user.js",
+    "code_size": 417000,
+    "license": "MIT License",
+    "version": "1.0.3",
+    "locale": "zh-CN",
+    "deleted": false
+  },
+  {
+    "id": 569474,
+    "daily_installs": 2,
     "total_installs": 107,
     "fan_score": "5.0",
     "good_ratings": 0,
@@ -349,70 +413,6 @@
     "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
     "version": "2.9.2",
     "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 535181,
-    "daily_installs": 2,
-    "total_installs": 1159,
-    "fan_score": "43.8",
-    "good_ratings": 3,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2025-05-07T02:42:03.000Z",
-    "code_updated_at": "2025-11-06T06:49:31.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 878920,
-        "name": "Artintel (Artintel)",
-        "created_at": "2022-02-21T09:32:34.000Z",
-        "url": "https://greasyfork.org/users/878920-artintel-artintel"
-      }
-    ],
-    "name": "MWI-Hit-Tracker",
-    "description": "战斗过程中实时显示攻击/治疗命中目标",
-    "url": "https://greasyfork.org/scripts/535181-mwi-hit-tracker",
-    "code_url": "https://update.greasyfork.org/scripts/535181/MWI-Hit-Tracker.user.js",
-    "code_size": 41558,
-    "license": "MIT License",
-    "version": "1.2.5",
-    "locale": "zh-CN",
-    "deleted": false
-  },
-  {
-    "id": 544234,
-    "daily_installs": 2,
-    "total_installs": 166,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2025-07-31T21:56:36.000Z",
-    "code_updated_at": "2025-10-07T19:56:22.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1500317,
-        "name": "virsey",
-        "created_at": "2025-07-31T21:24:11.000Z",
-        "url": "https://greasyfork.org/users/1500317-virsey"
-      }
-    ],
-    "name": "銀河奶牛放置-任務製作材料快捷購買",
-    "description": "在製作配方彈窗中，為缺少的材料(包含升級道具)右側添加一個快捷購買按鈕，並在購買後自動刷新狀態。",
-    "url": "https://greasyfork.org/scripts/544234-%E9%8A%80%E6%B2%B3%E5%A5%B6%E7%89%9B%E6%94%BE%E7%BD%AE-%E4%BB%BB%E5%8B%99%E8%A3%BD%E4%BD%9C%E6%9D%90%E6%96%99%E5%BF%AB%E6%8D%B7%E8%B3%BC%E8%B2%B7",
-    "code_url": "https://update.greasyfork.org/scripts/544234/%E9%8A%80%E6%B2%B3%E5%A5%B6%E7%89%9B%E6%94%BE%E7%BD%AE-%E4%BB%BB%E5%8B%99%E8%A3%BD%E4%BD%9C%E6%9D%90%E6%96%99%E5%BF%AB%E6%8D%B7%E8%B3%BC%E8%B2%B7.user.js",
-    "code_size": 10381,
-    "license": "MIT License",
-    "version": "4.1",
-    "locale": "zh-TW",
     "deleted": false
   },
   {
@@ -448,67 +448,35 @@
     "deleted": false
   },
   {
-    "id": 573779,
+    "id": 544234,
     "daily_installs": 2,
-    "total_installs": 33,
+    "total_installs": 166,
     "fan_score": "5.0",
     "good_ratings": 0,
     "ok_ratings": 0,
     "bad_ratings": 0,
-    "created_at": "2026-04-13T14:43:51.000Z",
-    "code_updated_at": "2026-04-26T03:20:34.000Z",
+    "created_at": "2025-07-31T21:56:36.000Z",
+    "code_updated_at": "2025-10-07T19:56:22.000Z",
     "namespace": "http://tampermonkey.net/",
     "support_url": null,
     "contribution_url": null,
     "contribution_amount": null,
     "users": [
       {
-        "id": 1572680,
-        "name": "dakonglong",
-        "created_at": "2026-02-20T06:57:52.000Z",
-        "url": "https://greasyfork.org/users/1572680-dakonglong"
+        "id": 1500317,
+        "name": "virsey",
+        "created_at": "2025-07-31T21:24:11.000Z",
+        "url": "https://greasyfork.org/users/1500317-virsey"
       }
     ],
-    "name": "ICTime",
-    "description": "Show item time cost and related helper info in Milky Way Idle.",
-    "url": "https://greasyfork.org/scripts/573779-ictime",
-    "code_url": "https://update.greasyfork.org/scripts/573779/ICTime.user.js",
-    "code_size": 417000,
+    "name": "銀河奶牛放置-任務製作材料快捷購買",
+    "description": "在製作配方彈窗中，為缺少的材料(包含升級道具)右側添加一個快捷購買按鈕，並在購買後自動刷新狀態。",
+    "url": "https://greasyfork.org/scripts/544234-%E9%8A%80%E6%B2%B3%E5%A5%B6%E7%89%9B%E6%94%BE%E7%BD%AE-%E4%BB%BB%E5%8B%99%E8%A3%BD%E4%BD%9C%E6%9D%90%E6%96%99%E5%BF%AB%E6%8D%B7%E8%B3%BC%E8%B2%B7",
+    "code_url": "https://update.greasyfork.org/scripts/544234/%E9%8A%80%E6%B2%B3%E5%A5%B6%E7%89%9B%E6%94%BE%E7%BD%AE-%E4%BB%BB%E5%8B%99%E8%A3%BD%E4%BD%9C%E6%9D%90%E6%96%99%E5%BF%AB%E6%8D%B7%E8%B3%BC%E8%B2%B7.user.js",
+    "code_size": 10381,
     "license": "MIT License",
-    "version": "1.0.3",
-    "locale": "zh-CN",
-    "deleted": false
-  },
-  {
-    "id": 506960,
-    "daily_installs": 1,
-    "total_installs": 470,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2024-09-05T12:41:59.000Z",
-    "code_updated_at": "2024-11-23T14:24:39.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1313709,
-        "name": "Truth_Light",
-        "created_at": "2024-06-07T02:52:25.000Z",
-        "url": "https://greasyfork.org/users/1313709-truth-light"
-      }
-    ],
-    "name": "[MWI]Enhancement Tool",
-    "description": "Track the number of enhancement successes and failures",
-    "url": "https://greasyfork.org/scripts/506960-mwi-enhancement-tool",
-    "code_url": "https://update.greasyfork.org/scripts/506960/%5BMWI%5DEnhancement%20Tool.user.js",
-    "code_size": 13183,
-    "license": "Truth_Light",
-    "version": "1.10",
-    "locale": "en",
+    "version": "4.1",
+    "locale": "zh-TW",
     "deleted": false
   },
   {
@@ -640,6 +608,38 @@
     "deleted": false
   },
   {
+    "id": 506960,
+    "daily_installs": 1,
+    "total_installs": 470,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2024-09-05T12:41:59.000Z",
+    "code_updated_at": "2024-11-23T14:24:39.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1313709,
+        "name": "Truth_Light",
+        "created_at": "2024-06-07T02:52:25.000Z",
+        "url": "https://greasyfork.org/users/1313709-truth-light"
+      }
+    ],
+    "name": "[MWI]Enhancement Tool",
+    "description": "Track the number of enhancement successes and failures",
+    "url": "https://greasyfork.org/scripts/506960-mwi-enhancement-tool",
+    "code_url": "https://update.greasyfork.org/scripts/506960/%5BMWI%5DEnhancement%20Tool.user.js",
+    "code_size": 13183,
+    "license": "Truth_Light",
+    "version": "1.10",
+    "locale": "en",
+    "deleted": false
+  },
+  {
     "id": 568289,
     "daily_installs": 1,
     "total_installs": 58,
@@ -764,262 +764,6 @@
     "code_size": 3917,
     "license": null,
     "version": "0.3",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 498153,
-    "daily_installs": 0,
-    "total_installs": 60,
-    "fan_score": "34.2",
-    "good_ratings": 2,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2024-06-17T09:51:04.000Z",
-    "code_updated_at": "2024-06-17T14:47:17.000Z",
-    "namespace": "destiny",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1319436,
-        "name": "ponchain",
-        "created_at": "2024-06-17T07:58:00.000Z",
-        "url": "https://greasyfork.org/users/1319436-ponchain"
-      }
-    ],
-    "name": "MWI_DamageTracker",
-    "description": "MWI伤害统计",
-    "url": "https://greasyfork.org/scripts/498153-mwi-damagetracker",
-    "code_url": "https://update.greasyfork.org/scripts/498153/MWI_DamageTracker.user.js",
-    "code_size": 4332,
-    "license": "MIT License",
-    "version": "0.0.5",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 498209,
-    "daily_installs": 0,
-    "total_installs": 363,
-    "fan_score": "0.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 1,
-    "created_at": "2024-06-18T00:59:55.000Z",
-    "code_updated_at": "2024-07-09T10:56:30.000Z",
-    "namespace": "destiny",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1313709,
-        "name": "Truth_Light",
-        "created_at": "2024-06-07T02:52:25.000Z",
-        "url": "https://greasyfork.org/users/1313709-truth-light"
-      }
-    ],
-    "name": "[银河奶牛]DPS显示 - DPS Display for Milky Way",
-    "description": "显示DPS，魔改自ponchain Ched佬的代码",
-    "url": "https://greasyfork.org/scripts/498209-%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B-dps%E6%98%BE%E7%A4%BA-dps-display-for-milky-way",
-    "code_url": "https://update.greasyfork.org/scripts/498209/%5B%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B%5DDPS%E6%98%BE%E7%A4%BA%20-%20DPS%20Display%20for%20Milky%20Way.user.js",
-    "code_size": 4268,
-    "license": "Truth_Light",
-    "version": "1.03",
-    "locale": "zh-CN",
-    "deleted": false
-  },
-  {
-    "id": 498970,
-    "daily_installs": 0,
-    "total_installs": 177,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2024-06-26T13:09:52.000Z",
-    "code_updated_at": "2024-06-26T13:09:52.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1323125,
-        "name": "Fitzmaz",
-        "created_at": "2024-06-24T10:26:21.000Z",
-        "url": "https://greasyfork.org/users/1323125-fitzmaz"
-      }
-    ],
-    "name": "MWI Market Price History Viewer",
-    "description": "This script integrates historical price charts of items directly into the market pages of MWI.",
-    "url": "https://greasyfork.org/scripts/498970-mwi-market-price-history-viewer",
-    "code_url": "https://update.greasyfork.org/scripts/498970/MWI%20Market%20Price%20History%20Viewer.user.js",
-    "code_size": 12755,
-    "license": "MIT License",
-    "version": "0.3",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 500750,
-    "daily_installs": 0,
-    "total_installs": 159,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2024-07-15T20:31:32.000Z",
-    "code_updated_at": "2024-09-22T13:31:17.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1313709,
-        "name": "Truth_Light",
-        "created_at": "2024-06-07T02:52:25.000Z",
-        "url": "https://greasyfork.org/users/1313709-truth-light"
-      }
-    ],
-    "name": "[Mwi]Guild Details Display",
-    "description": "Display more detailed data on the guild page.",
-    "url": "https://greasyfork.org/scripts/500750-mwi-guild-details-display",
-    "code_url": "https://update.greasyfork.org/scripts/500750/%5BMwi%5DGuild%20Details%20Display.user.js",
-    "code_size": 13971,
-    "license": null,
-    "version": "1.05",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 501447,
-    "daily_installs": 0,
-    "total_installs": 224,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2024-07-22T05:32:02.000Z",
-    "code_updated_at": "2024-07-25T18:03:29.000Z",
-    "namespace": "TheVoid...",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1338004,
-        "name": "TheVoid",
-        "created_at": "2024-07-22T05:28:58.000Z",
-        "url": "https://greasyfork.org/users/1338004-thevoid"
-      }
-    ],
-    "name": "MilkyWayIdleCombatSim",
-    "description": "Milky Way Idle Combat Simulator",
-    "url": "https://greasyfork.org/scripts/501447-milkywayidlecombatsim",
-    "code_url": "https://update.greasyfork.org/scripts/501447/MilkyWayIdleCombatSim.user.js",
-    "code_size": 128258,
-    "license": null,
-    "version": "0.0.4",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 501826,
-    "daily_installs": 0,
-    "total_installs": 40,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2024-07-26T07:26:49.000Z",
-    "code_updated_at": "2024-07-26T08:22:24.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1340025,
-        "name": "MangoFlavor",
-        "created_at": "2024-07-26T07:05:42.000Z",
-        "url": "https://greasyfork.org/users/1340025-mangoflavor"
-      }
-    ],
-    "name": "MW emoji",
-    "description": "Add emojis to the game chat",
-    "url": "https://greasyfork.org/scripts/501826-mw-emoji",
-    "code_url": "https://update.greasyfork.org/scripts/501826/MW%20emoji.user.js",
-    "code_size": 6984,
-    "license": "MIT License",
-    "version": "2024-07-25",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 502083,
-    "daily_installs": 0,
-    "total_installs": 83,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2024-07-29T13:26:03.000Z",
-    "code_updated_at": "2024-08-16T14:51:40.000Z",
-    "namespace": "https://github.com/tobytorn",
-    "support_url": "https://github.com/tobytorn/mwi-loadout-manager",
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1055710,
-        "name": "tobytorn",
-        "created_at": "2023-04-08T03:02:24.000Z",
-        "url": "https://greasyfork.org/users/1055710-tobytorn"
-      }
-    ],
-    "name": "MWI Loadout Manager",
-    "description": "Setup loadout according to Combat Simulator export files",
-    "url": "https://greasyfork.org/scripts/502083-mwi-loadout-manager",
-    "code_url": "https://update.greasyfork.org/scripts/502083/MWI%20Loadout%20Manager.user.js",
-    "code_size": 45945,
-    "license": "MIT License",
-    "version": "1.0.1",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 507230,
-    "daily_installs": 0,
-    "total_installs": 22,
-    "fan_score": "0.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 1,
-    "created_at": "2024-09-07T02:32:45.000Z",
-    "code_updated_at": "2025-11-07T04:14:02.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1354753,
-        "name": "xiaoshui05",
-        "created_at": "2024-08-20T00:06:36.000Z",
-        "url": "https://greasyfork.org/users/1354753-xiaoshui05"
-      }
-    ],
-    "name": "MWIFavorites",
-    "description": "收藏和数量跟踪 (支持中英文双语)",
-    "url": "https://greasyfork.org/scripts/507230-mwifavorites",
-    "code_url": "https://update.greasyfork.org/scripts/507230/MWIFavorites.user.js",
-    "code_size": 132283,
-    "license": null,
-    "version": "1.1.8",
     "locale": "en",
     "deleted": false
   },
@@ -2592,102 +2336,6 @@
     "deleted": false
   },
   {
-    "id": 543840,
-    "daily_installs": 0,
-    "total_installs": 4,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2025-07-28T06:54:06.000Z",
-    "code_updated_at": "2025-07-28T07:00:09.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1499063,
-        "name": "collarish",
-        "created_at": "2025-07-28T06:52:22.000Z",
-        "url": "https://greasyfork.org/users/1499063-collarish"
-      }
-    ],
-    "name": "Doing nothing alert",
-    "description": "Play an alert once when title says \"Doing nothing\"",
-    "url": "https://greasyfork.org/scripts/543840-doing-nothing-alert",
-    "code_url": "https://update.greasyfork.org/scripts/543840/Doing%20nothing%20alert.user.js",
-    "code_size": 4104,
-    "license": "MIT License",
-    "version": "1",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 543862,
-    "daily_installs": 0,
-    "total_installs": 263,
-    "fan_score": "39.6",
-    "good_ratings": 3,
-    "ok_ratings": 1,
-    "bad_ratings": 0,
-    "created_at": "2025-07-28T10:44:38.000Z",
-    "code_updated_at": "2026-02-24T12:48:27.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1499127,
-        "name": "gxy12345",
-        "created_at": "2025-07-28T10:16:09.000Z",
-        "url": "https://greasyfork.org/users/1499127-gxy12345"
-      }
-    ],
-    "name": "MWI角色名片插件",
-    "description": "MWI角色名片插件 - 一键生成角色名片",
-    "url": "https://greasyfork.org/scripts/543862-mwi%E8%A7%92%E8%89%B2%E5%90%8D%E7%89%87%E6%8F%92%E4%BB%B6",
-    "code_url": "https://update.greasyfork.org/scripts/543862/MWI%E8%A7%92%E8%89%B2%E5%90%8D%E7%89%87%E6%8F%92%E4%BB%B6.user.js",
-    "code_size": 190338,
-    "license": "MIT License",
-    "version": "1.7.0",
-    "locale": "zh-CN",
-    "deleted": false
-  },
-  {
-    "id": 544243,
-    "daily_installs": 0,
-    "total_installs": 34,
-    "fan_score": "5.5",
-    "good_ratings": 0,
-    "ok_ratings": 1,
-    "bad_ratings": 0,
-    "created_at": "2025-08-01T02:20:13.000Z",
-    "code_updated_at": "2025-08-05T22:09:30.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1233912,
-        "name": "uyytff",
-        "created_at": "2023-12-14T18:27:56.000Z",
-        "url": "https://greasyfork.org/users/1233912-uyytff"
-      }
-    ],
-    "name": "[银河奶牛]莫库里换皮",
-    "description": "替换怪物图标为可爱的莫库里生物，并更改名字",
-    "url": "https://greasyfork.org/scripts/544243-%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B-%E8%8E%AB%E5%BA%93%E9%87%8C%E6%8D%A2%E7%9A%AE",
-    "code_url": "https://update.greasyfork.org/scripts/544243/%5B%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B%5D%E8%8E%AB%E5%BA%93%E9%87%8C%E6%8D%A2%E7%9A%AE.user.js",
-    "code_size": 21186,
-    "license": "MIT License",
-    "version": "1.1.1",
-    "locale": "zh-CN",
-    "deleted": false
-  },
-  {
     "id": 545920,
     "daily_installs": 0,
     "total_installs": 3,
@@ -3200,6 +2848,102 @@
     "deleted": false
   },
   {
+    "id": 558169,
+    "daily_installs": 0,
+    "total_installs": 55,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2025-12-07T01:05:30.000Z",
+    "code_updated_at": "2025-12-26T23:58:45.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1453768,
+        "name": "sentientmilk",
+        "created_at": "2025-04-04T02:23:09.000Z",
+        "url": "https://greasyfork.org/users/1453768-sentientmilk"
+      }
+    ],
+    "name": "Filter Collections",
+    "description": "Adds [<10], [10-99], [100-999], [>1000], Not dungeon and D1-4 filter buttons to Collections",
+    "url": "https://greasyfork.org/scripts/558169-filter-collections",
+    "code_url": "https://update.greasyfork.org/scripts/558169/Filter%20Collections.user.js",
+    "code_size": 18711,
+    "license": "MIT License",
+    "version": "2025-12-27",
+    "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 558184,
+    "daily_installs": 0,
+    "total_installs": 20,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2025-12-07T03:31:59.000Z",
+    "code_updated_at": "2025-12-07T03:31:59.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1545423,
+        "name": "Grag Atrim",
+        "created_at": "2025-12-07T03:27:38.000Z",
+        "url": "https://greasyfork.org/users/1545423-grag-atrim"
+      }
+    ],
+    "name": "Branch/Butter/Thread Notifier",
+    "description": "alert when you get a rare drop from any action",
+    "url": "https://greasyfork.org/scripts/558184-branch-butter-thread-notifier",
+    "code_url": "https://update.greasyfork.org/scripts/558184/BranchButterThread%20Notifier.user.js",
+    "code_size": 4554,
+    "license": "MIT License",
+    "version": "2025-12-07",
+    "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 558938,
+    "daily_installs": 0,
+    "total_installs": 7,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2025-12-14T19:16:12.000Z",
+    "code_updated_at": "2025-12-20T03:46:11.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1468994,
+        "name": "frotty",
+        "created_at": "2025-05-12T06:06:47.000Z",
+        "url": "https://greasyfork.org/users/1468994-frotty"
+      }
+    ],
+    "name": "Scaley Way Idle",
+    "description": "Change the scale of CombatUnit divs with a draggable control panel",
+    "url": "https://greasyfork.org/scripts/558938-scaley-way-idle",
+    "code_url": "https://update.greasyfork.org/scripts/558938/Scaley%20Way%20Idle.user.js",
+    "code_size": 16449,
+    "license": null,
+    "version": "1.23",
+    "locale": "en",
+    "deleted": false
+  },
+  {
     "id": 559617,
     "daily_installs": 0,
     "total_installs": 16,
@@ -3296,6 +3040,38 @@
     "deleted": false
   },
   {
+    "id": 563424,
+    "daily_installs": 0,
+    "total_installs": 14,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2026-01-21T02:37:36.000Z",
+    "code_updated_at": "2026-03-15T16:29:32.000Z",
+    "namespace": "tampermonkey.net",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1562932,
+        "name": "KelleNPT",
+        "created_at": "2026-01-21T02:33:09.000Z",
+        "url": "https://greasyfork.org/users/1562932-kellenpt"
+      }
+    ],
+    "name": "MilkyWayIdle Fullscreen IDE Chat",
+    "description": "Fullscreen chat overlay to focus on game chat. Useful for general users, but especially for admins, moderators, and the game owner.",
+    "url": "https://greasyfork.org/scripts/563424-milkywayidle-fullscreen-ide-chat",
+    "code_url": "https://update.greasyfork.org/scripts/563424/MilkyWayIdle%20Fullscreen%20IDE%20Chat.user.js",
+    "code_size": 76119,
+    "license": "MIT License",
+    "version": "0.1.5",
+    "locale": "en",
+    "deleted": false
+  },
+  {
     "id": 563561,
     "daily_installs": 0,
     "total_installs": 1,
@@ -3324,6 +3100,70 @@
     "code_size": 54854,
     "license": "MIT License",
     "version": "4.4.0",
+    "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 563790,
+    "daily_installs": 0,
+    "total_installs": 3,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2026-01-23T18:07:37.000Z",
+    "code_updated_at": "2026-01-23T19:34:12.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1563895,
+        "name": "Damodredd",
+        "created_at": "2026-01-23T18:05:32.000Z",
+        "url": "https://greasyfork.org/users/1563895-damodredd"
+      }
+    ],
+    "name": "HP Zero Alarm",
+    "description": "Alert when HP reaches zero in Milky Way Idle combat",
+    "url": "https://greasyfork.org/scripts/563790-hp-zero-alarm",
+    "code_url": "https://update.greasyfork.org/scripts/563790/HP%20Zero%20Alarm.user.js",
+    "code_size": 11782,
+    "license": "MIT License",
+    "version": "1.1",
+    "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 563875,
+    "daily_installs": 0,
+    "total_installs": 1,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2026-01-24T08:33:30.000Z",
+    "code_updated_at": "2026-01-24T08:33:30.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1564064,
+        "name": "hsin75",
+        "created_at": "2026-01-24T08:31:51.000Z",
+        "url": "https://greasyfork.org/users/1564064-hsin75"
+      }
+    ],
+    "name": "MWI Guild xp extractor",
+    "description": "Extracts out the guild xp for each member for the guild xp sheet",
+    "url": "https://greasyfork.org/scripts/563875-mwi-guild-xp-extractor",
+    "code_url": "https://update.greasyfork.org/scripts/563875/MWI%20Guild%20xp%20extractor.user.js",
+    "code_size": 6273,
+    "license": "MIT License",
+    "version": "2026-01-24",
     "locale": "en",
     "deleted": false
   },
@@ -3424,98 +3264,34 @@
     "deleted": false
   },
   {
-    "id": 567163,
+    "id": 507230,
     "daily_installs": 0,
-    "total_installs": 37,
-    "fan_score": "5.0",
+    "total_installs": 22,
+    "fan_score": "0.0",
     "good_ratings": 0,
     "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2026-02-22T23:50:42.000Z",
-    "code_updated_at": "2026-03-09T23:41:34.000Z",
+    "bad_ratings": 1,
+    "created_at": "2024-09-07T02:32:45.000Z",
+    "code_updated_at": "2025-11-07T04:14:02.000Z",
     "namespace": "http://tampermonkey.net/",
-    "support_url": "https://github.com/SeaL773/mwi-dungeon-timer/issues",
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1573589,
-        "name": "SeaL773",
-        "created_at": "2026-02-22T23:06:57.000Z",
-        "url": "https://greasyfork.org/users/1573589-seal773"
-      }
-    ],
-    "name": "Dungeon Floor Timer",
-    "description": "Track dungeon floor group times with speedrun-style comparison & extra boss spawn counter for Milky Way Idle",
-    "url": "https://greasyfork.org/scripts/567163-dungeon-floor-timer",
-    "code_url": "https://update.greasyfork.org/scripts/567163/Dungeon%20Floor%20Timer.user.js",
-    "code_size": 32636,
-    "license": "MIT License",
-    "version": "1.12",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 567803,
-    "daily_installs": 0,
-    "total_installs": 7,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2026-02-28T03:47:37.000Z",
-    "code_updated_at": "2026-03-07T05:20:39.000Z",
-    "namespace": "mwi_collections_extended",
     "support_url": null,
     "contribution_url": null,
     "contribution_amount": null,
     "users": [
       {
-        "id": 1562587,
-        "name": "mists",
-        "created_at": "2026-01-20T05:13:38.000Z",
-        "url": "https://greasyfork.org/users/1562587-mists"
+        "id": 1354753,
+        "name": "xiaoshui05",
+        "created_at": "2024-08-20T00:06:36.000Z",
+        "url": "https://greasyfork.org/users/1354753-xiaoshui05"
       }
     ],
-    "name": "MWI Collections Extended",
-    "description": "Smart collections browser with time efficiency sorting (Cmd+J / Ctrl+J)",
-    "url": "https://greasyfork.org/scripts/567803-mwi-collections-extended",
-    "code_url": "https://update.greasyfork.org/scripts/567803/MWI%20Collections%20Extended.user.js",
-    "code_size": 45063,
-    "license": "MIT License",
-    "version": "2.2.0",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 567804,
-    "daily_installs": 0,
-    "total_installs": 4,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2026-02-28T03:48:39.000Z",
-    "code_updated_at": "2026-02-28T03:48:39.000Z",
-    "namespace": "mwi_debug_helper",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1562587,
-        "name": "mists",
-        "created_at": "2026-01-20T05:13:38.000Z",
-        "url": "https://greasyfork.org/users/1562587-mists"
-      }
-    ],
-    "name": "MWI Debug Helper",
-    "description": "Lightweight debug helper for investigating MWI game data",
-    "url": "https://greasyfork.org/scripts/567804-mwi-debug-helper",
-    "code_url": "https://update.greasyfork.org/scripts/567804/MWI%20Debug%20Helper.user.js",
-    "code_size": 19197,
-    "license": "MIT License",
-    "version": "1.0.0",
+    "name": "MWIFavorites",
+    "description": "收藏和数量跟踪 (支持中英文双语)",
+    "url": "https://greasyfork.org/scripts/507230-mwifavorites",
+    "code_url": "https://update.greasyfork.org/scripts/507230/MWIFavorites.user.js",
+    "code_size": 132283,
+    "license": null,
+    "version": "1.1.8",
     "locale": "en",
     "deleted": false
   },
@@ -3644,6 +3420,134 @@
     "code_size": 29815,
     "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
     "version": "1.0.4",
+    "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 543862,
+    "daily_installs": 0,
+    "total_installs": 263,
+    "fan_score": "39.6",
+    "good_ratings": 3,
+    "ok_ratings": 1,
+    "bad_ratings": 0,
+    "created_at": "2025-07-28T10:44:38.000Z",
+    "code_updated_at": "2026-02-24T12:48:27.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1499127,
+        "name": "gxy12345",
+        "created_at": "2025-07-28T10:16:09.000Z",
+        "url": "https://greasyfork.org/users/1499127-gxy12345"
+      }
+    ],
+    "name": "MWI角色名片插件",
+    "description": "MWI角色名片插件 - 一键生成角色名片",
+    "url": "https://greasyfork.org/scripts/543862-mwi%E8%A7%92%E8%89%B2%E5%90%8D%E7%89%87%E6%8F%92%E4%BB%B6",
+    "code_url": "https://update.greasyfork.org/scripts/543862/MWI%E8%A7%92%E8%89%B2%E5%90%8D%E7%89%87%E6%8F%92%E4%BB%B6.user.js",
+    "code_size": 190338,
+    "license": "MIT License",
+    "version": "1.7.0",
+    "locale": "zh-CN",
+    "deleted": false
+  },
+  {
+    "id": 567163,
+    "daily_installs": 0,
+    "total_installs": 37,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2026-02-22T23:50:42.000Z",
+    "code_updated_at": "2026-03-09T23:41:34.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": "https://github.com/SeaL773/mwi-dungeon-timer/issues",
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1573589,
+        "name": "SeaL773",
+        "created_at": "2026-02-22T23:06:57.000Z",
+        "url": "https://greasyfork.org/users/1573589-seal773"
+      }
+    ],
+    "name": "Dungeon Floor Timer",
+    "description": "Track dungeon floor group times with speedrun-style comparison & extra boss spawn counter for Milky Way Idle",
+    "url": "https://greasyfork.org/scripts/567163-dungeon-floor-timer",
+    "code_url": "https://update.greasyfork.org/scripts/567163/Dungeon%20Floor%20Timer.user.js",
+    "code_size": 32636,
+    "license": "MIT License",
+    "version": "1.12",
+    "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 567803,
+    "daily_installs": 0,
+    "total_installs": 7,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2026-02-28T03:47:37.000Z",
+    "code_updated_at": "2026-03-07T05:20:39.000Z",
+    "namespace": "mwi_collections_extended",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1562587,
+        "name": "mists",
+        "created_at": "2026-01-20T05:13:38.000Z",
+        "url": "https://greasyfork.org/users/1562587-mists"
+      }
+    ],
+    "name": "MWI Collections Extended",
+    "description": "Smart collections browser with time efficiency sorting (Cmd+J / Ctrl+J)",
+    "url": "https://greasyfork.org/scripts/567803-mwi-collections-extended",
+    "code_url": "https://update.greasyfork.org/scripts/567803/MWI%20Collections%20Extended.user.js",
+    "code_size": 45063,
+    "license": "MIT License",
+    "version": "2.2.0",
+    "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 567804,
+    "daily_installs": 0,
+    "total_installs": 4,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2026-02-28T03:48:39.000Z",
+    "code_updated_at": "2026-02-28T03:48:39.000Z",
+    "namespace": "mwi_debug_helper",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1562587,
+        "name": "mists",
+        "created_at": "2026-01-20T05:13:38.000Z",
+        "url": "https://greasyfork.org/users/1562587-mists"
+      }
+    ],
+    "name": "MWI Debug Helper",
+    "description": "Lightweight debug helper for investigating MWI game data",
+    "url": "https://greasyfork.org/scripts/567804-mwi-debug-helper",
+    "code_url": "https://update.greasyfork.org/scripts/567804/MWI%20Debug%20Helper.user.js",
+    "code_size": 19197,
+    "license": "MIT License",
+    "version": "1.0.0",
     "locale": "en",
     "deleted": false
   }
