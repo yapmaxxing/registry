@@ -1,8 +1,8 @@
 [
   {
     "id": 494467,
-    "daily_installs": 15,
-    "total_installs": 12453,
+    "daily_installs": 13,
+    "total_installs": 12454,
     "fan_score": "61.9",
     "good_ratings": 20,
     "ok_ratings": 9,
@@ -34,7 +34,7 @@
   {
     "id": 499963,
     "daily_installs": 13,
-    "total_installs": 6124,
+    "total_installs": 6127,
     "fan_score": "67.2",
     "good_ratings": 14,
     "ok_ratings": 4,
@@ -65,8 +65,8 @@
   },
   {
     "id": 567386,
-    "daily_installs": 12,
-    "total_installs": 1834,
+    "daily_installs": 13,
+    "total_installs": 1836,
     "fan_score": "64.6",
     "good_ratings": 7,
     "ok_ratings": 0,
@@ -98,7 +98,7 @@
   {
     "id": 566829,
     "daily_installs": 10,
-    "total_installs": 2007,
+    "total_installs": 2009,
     "fan_score": "34.2",
     "good_ratings": 2,
     "ok_ratings": 0,
@@ -128,8 +128,40 @@
     "deleted": false
   },
   {
+    "id": 546655,
+    "daily_installs": 7,
+    "total_installs": 1509,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2025-08-21T13:14:50.000Z",
+    "code_updated_at": "2026-02-04T21:01:17.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1363590,
+        "name": "Ratatatata",
+        "created_at": "2024-09-05T17:14:45.000Z",
+        "url": "https://greasyfork.org/users/1363590-ratatatata"
+      }
+    ],
+    "name": "[银河奶牛]闻闻屎气",
+    "description": "更屎的代码",
+    "url": "https://greasyfork.org/scripts/546655-%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B-%E9%97%BB%E9%97%BB%E5%B1%8E%E6%B0%94",
+    "code_url": "https://update.greasyfork.org/scripts/546655/%5B%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B%5D%E9%97%BB%E9%97%BB%E5%B1%8E%E6%B0%94.user.js",
+    "code_size": 414688,
+    "license": "MIT License",
+    "version": "1.0.8.1",
+    "locale": "en",
+    "deleted": false
+  },
+  {
     "id": 539672,
-    "daily_installs": 8,
+    "daily_installs": 6,
     "total_installs": 1096,
     "fan_score": "5.5",
     "good_ratings": 0,
@@ -160,40 +192,8 @@
     "deleted": false
   },
   {
-    "id": 546655,
-    "daily_installs": 6,
-    "total_installs": 1507,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2025-08-21T13:14:50.000Z",
-    "code_updated_at": "2026-02-04T21:01:17.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1363590,
-        "name": "Ratatatata",
-        "created_at": "2024-09-05T17:14:45.000Z",
-        "url": "https://greasyfork.org/users/1363590-ratatatata"
-      }
-    ],
-    "name": "[银河奶牛]闻闻屎气",
-    "description": "更屎的代码",
-    "url": "https://greasyfork.org/scripts/546655-%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B-%E9%97%BB%E9%97%BB%E5%B1%8E%E6%B0%94",
-    "code_url": "https://update.greasyfork.org/scripts/546655/%5B%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B%5D%E9%97%BB%E9%97%BB%E5%B1%8E%E6%B0%94.user.js",
-    "code_size": 414688,
-    "license": "MIT License",
-    "version": "1.0.8.1",
-    "locale": "en",
-    "deleted": false
-  },
-  {
     "id": 541550,
-    "daily_installs": 5,
+    "daily_installs": 4,
     "total_installs": 693,
     "fan_score": "5.0",
     "good_ratings": 0,
@@ -225,14 +225,14 @@
   },
   {
     "id": 562662,
-    "daily_installs": 5,
+    "daily_installs": 4,
     "total_installs": 1145,
     "fan_score": "51.0",
     "good_ratings": 4,
     "ok_ratings": 0,
     "bad_ratings": 0,
     "created_at": "2026-01-14T16:34:28.000Z",
-    "code_updated_at": "2026-06-02T16:33:14.000Z",
+    "code_updated_at": "2026-06-03T04:52:18.000Z",
     "namespace": "http://tampermonkey.net/",
     "support_url": null,
     "contribution_url": null,
@@ -251,13 +251,13 @@
     "code_url": "https://update.greasyfork.org/scripts/562662/Toolasha.user.js",
     "code_size": 34284,
     "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
-    "version": "2.59.5",
+    "version": "2.60.0",
     "locale": "en",
     "deleted": false
   },
   {
     "id": 535181,
-    "daily_installs": 3,
+    "daily_installs": 2,
     "total_installs": 1176,
     "fan_score": "43.8",
     "good_ratings": 3,
@@ -289,7 +289,7 @@
   },
   {
     "id": 540058,
-    "daily_installs": 3,
+    "daily_installs": 2,
     "total_installs": 644,
     "fan_score": "46.3",
     "good_ratings": 4,
@@ -316,38 +316,6 @@
     "code_size": 139496,
     "license": "MIT License",
     "version": "1.12.1",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 569474,
-    "daily_installs": 3,
-    "total_installs": 110,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2026-03-13T04:44:34.000Z",
-    "code_updated_at": "2026-05-23T23:48:40.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1462151,
-        "name": "AlwaysStargazing",
-        "created_at": "2025-04-25T20:21:21.000Z",
-        "url": "https://greasyfork.org/users/1462151-alwaysstargazing"
-      }
-    ],
-    "name": "MWI Shopping List and Crafting Helper",
-    "description": "Shopping list and crafting helper for Milky Way Idle.",
-    "url": "https://greasyfork.org/scripts/569474-mwi-shopping-list-and-crafting-helper",
-    "code_url": "https://update.greasyfork.org/scripts/569474/MWI%20Shopping%20List%20and%20Crafting%20Helper.user.js",
-    "code_size": 264777,
-    "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
-    "version": "2.9.2",
     "locale": "en",
     "deleted": false
   },
@@ -384,34 +352,34 @@
     "deleted": false
   },
   {
-    "id": 500750,
-    "daily_installs": 1,
-    "total_installs": 160,
+    "id": 569474,
+    "daily_installs": 2,
+    "total_installs": 110,
     "fan_score": "5.0",
     "good_ratings": 0,
     "ok_ratings": 0,
     "bad_ratings": 0,
-    "created_at": "2024-07-15T20:31:32.000Z",
-    "code_updated_at": "2024-09-22T13:31:17.000Z",
+    "created_at": "2026-03-13T04:44:34.000Z",
+    "code_updated_at": "2026-05-23T23:48:40.000Z",
     "namespace": "http://tampermonkey.net/",
     "support_url": null,
     "contribution_url": null,
     "contribution_amount": null,
     "users": [
       {
-        "id": 1313709,
-        "name": "Truth_Light",
-        "created_at": "2024-06-07T02:52:25.000Z",
-        "url": "https://greasyfork.org/users/1313709-truth-light"
+        "id": 1462151,
+        "name": "AlwaysStargazing",
+        "created_at": "2025-04-25T20:21:21.000Z",
+        "url": "https://greasyfork.org/users/1462151-alwaysstargazing"
       }
     ],
-    "name": "[Mwi]Guild Details Display",
-    "description": "Display more detailed data on the guild page.",
-    "url": "https://greasyfork.org/scripts/500750-mwi-guild-details-display",
-    "code_url": "https://update.greasyfork.org/scripts/500750/%5BMwi%5DGuild%20Details%20Display.user.js",
-    "code_size": 13971,
-    "license": null,
-    "version": "1.05",
+    "name": "MWI Shopping List and Crafting Helper",
+    "description": "Shopping list and crafting helper for Milky Way Idle.",
+    "url": "https://greasyfork.org/scripts/569474-mwi-shopping-list-and-crafting-helper",
+    "code_url": "https://update.greasyfork.org/scripts/569474/MWI%20Shopping%20List%20and%20Crafting%20Helper.user.js",
+    "code_size": 264777,
+    "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
+    "version": "2.9.2",
     "locale": "en",
     "deleted": false
   },
@@ -509,38 +477,6 @@
     "license": "MIT License",
     "version": "1.0.7.1",
     "locale": "zh-CN",
-    "deleted": false
-  },
-  {
-    "id": 537897,
-    "daily_installs": 1,
-    "total_installs": 211,
-    "fan_score": "20.7",
-    "good_ratings": 1,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2025-05-31T21:56:30.000Z",
-    "code_updated_at": "2026-06-01T22:21:44.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1468994,
-        "name": "frotty",
-        "created_at": "2025-05-12T06:06:47.000Z",
-        "url": "https://greasyfork.org/users/1468994-frotty"
-      }
-    ],
-    "name": "MWI Combat Suite",
-    "description": "Tools to assist you in combat droning to appease the Queen RNG.",
-    "url": "https://greasyfork.org/scripts/537897-mwi-combat-suite",
-    "code_url": "https://update.greasyfork.org/scripts/537897/MWI%20Combat%20Suite.user.js",
-    "code_size": 2042696,
-    "license": "MIB License",
-    "version": "0.9.36235",
-    "locale": "en",
     "deleted": false
   },
   {
@@ -700,6 +636,38 @@
     "code_size": 12755,
     "license": "MIT License",
     "version": "0.3",
+    "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 500750,
+    "daily_installs": 0,
+    "total_installs": 160,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2024-07-15T20:31:32.000Z",
+    "code_updated_at": "2024-09-22T13:31:17.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1313709,
+        "name": "Truth_Light",
+        "created_at": "2024-06-07T02:52:25.000Z",
+        "url": "https://greasyfork.org/users/1313709-truth-light"
+      }
+    ],
+    "name": "[Mwi]Guild Details Display",
+    "description": "Display more detailed data on the guild page.",
+    "url": "https://greasyfork.org/scripts/500750-mwi-guild-details-display",
+    "code_url": "https://update.greasyfork.org/scripts/500750/%5BMwi%5DGuild%20Details%20Display.user.js",
+    "code_size": 13971,
+    "license": null,
+    "version": "1.05",
     "locale": "en",
     "deleted": false
   },
@@ -1916,6 +1884,38 @@
     "code_size": 7803,
     "license": "MIT License",
     "version": "1.5",
+    "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 537897,
+    "daily_installs": 0,
+    "total_installs": 211,
+    "fan_score": "20.7",
+    "good_ratings": 1,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2025-05-31T21:56:30.000Z",
+    "code_updated_at": "2026-06-01T22:21:44.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1468994,
+        "name": "frotty",
+        "created_at": "2025-05-12T06:06:47.000Z",
+        "url": "https://greasyfork.org/users/1468994-frotty"
+      }
+    ],
+    "name": "MWI Combat Suite",
+    "description": "Tools to assist you in combat droning to appease the Queen RNG.",
+    "url": "https://greasyfork.org/scripts/537897-mwi-combat-suite",
+    "code_url": "https://update.greasyfork.org/scripts/537897/MWI%20Combat%20Suite.user.js",
+    "code_size": 2042696,
+    "license": "MIB License",
+    "version": "0.9.36235",
     "locale": "en",
     "deleted": false
   },
