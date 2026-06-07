@@ -1,8 +1,8 @@
 [
   {
     "id": 494467,
-    "daily_installs": 15,
-    "total_installs": 12501,
+    "daily_installs": 11,
+    "total_installs": 12503,
     "fan_score": "61.9",
     "good_ratings": 20,
     "ok_ratings": 9,
@@ -33,8 +33,8 @@
   },
   {
     "id": 566829,
-    "daily_installs": 14,
-    "total_installs": 2051,
+    "daily_installs": 10,
+    "total_installs": 2052,
     "fan_score": "34.2",
     "good_ratings": 2,
     "ok_ratings": 0,
@@ -65,8 +65,8 @@
   },
   {
     "id": 567386,
-    "daily_installs": 11,
-    "total_installs": 1889,
+    "daily_installs": 9,
+    "total_installs": 1890,
     "fan_score": "64.6",
     "good_ratings": 7,
     "ok_ratings": 0,
@@ -96,41 +96,9 @@
     "deleted": false
   },
   {
-    "id": 546655,
-    "daily_installs": 7,
-    "total_installs": 1529,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2025-08-21T13:14:50.000Z",
-    "code_updated_at": "2026-02-04T21:01:17.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1363590,
-        "name": "Ratatatata",
-        "created_at": "2024-09-05T17:14:45.000Z",
-        "url": "https://greasyfork.org/users/1363590-ratatatata"
-      }
-    ],
-    "name": "[银河奶牛]闻闻屎气",
-    "description": "更屎的代码",
-    "url": "https://greasyfork.org/scripts/546655-%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B-%E9%97%BB%E9%97%BB%E5%B1%8E%E6%B0%94",
-    "code_url": "https://update.greasyfork.org/scripts/546655/%5B%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B%5D%E9%97%BB%E9%97%BB%E5%B1%8E%E6%B0%94.user.js",
-    "code_size": 414688,
-    "license": "MIT License",
-    "version": "1.0.8.1",
-    "locale": "en",
-    "deleted": false
-  },
-  {
     "id": 499963,
-    "daily_installs": 6,
-    "total_installs": 6156,
+    "daily_installs": 5,
+    "total_installs": 6157,
     "fan_score": "67.2",
     "good_ratings": 14,
     "ok_ratings": 4,
@@ -160,9 +128,41 @@
     "deleted": false
   },
   {
+    "id": 546655,
+    "daily_installs": 5,
+    "total_installs": 1530,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2025-08-21T13:14:50.000Z",
+    "code_updated_at": "2026-02-04T21:01:17.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1363590,
+        "name": "Ratatatata",
+        "created_at": "2024-09-05T17:14:45.000Z",
+        "url": "https://greasyfork.org/users/1363590-ratatatata"
+      }
+    ],
+    "name": "[银河奶牛]闻闻屎气",
+    "description": "更屎的代码",
+    "url": "https://greasyfork.org/scripts/546655-%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B-%E9%97%BB%E9%97%BB%E5%B1%8E%E6%B0%94",
+    "code_url": "https://update.greasyfork.org/scripts/546655/%5B%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B%5D%E9%97%BB%E9%97%BB%E5%B1%8E%E6%B0%94.user.js",
+    "code_size": 414688,
+    "license": "MIT License",
+    "version": "1.0.8.1",
+    "locale": "en",
+    "deleted": false
+  },
+  {
     "id": 539672,
-    "daily_installs": 3,
-    "total_installs": 1107,
+    "daily_installs": 4,
+    "total_installs": 1109,
     "fan_score": "5.5",
     "good_ratings": 0,
     "ok_ratings": 1,
@@ -194,7 +194,7 @@
   {
     "id": 541550,
     "daily_installs": 3,
-    "total_installs": 698,
+    "total_installs": 700,
     "fan_score": "5.0",
     "good_ratings": 0,
     "ok_ratings": 0,
@@ -221,6 +221,70 @@
     "license": "MIT License",
     "version": "2.0",
     "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 562662,
+    "daily_installs": 3,
+    "total_installs": 1165,
+    "fan_score": "51.0",
+    "good_ratings": 4,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2026-01-14T16:34:28.000Z",
+    "code_updated_at": "2026-06-06T23:50:35.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1512305,
+        "name": "Celasha",
+        "created_at": "2025-09-06T05:04:15.000Z",
+        "url": "https://greasyfork.org/users/1512305-celasha"
+      }
+    ],
+    "name": "Toolasha",
+    "description": "Toolasha - Enhanced tools for Milky Way Idle.",
+    "url": "https://greasyfork.org/scripts/562662-toolasha",
+    "code_url": "https://update.greasyfork.org/scripts/562662/Toolasha.user.js",
+    "code_size": 34283,
+    "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
+    "version": "2.62.5",
+    "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 572344,
+    "daily_installs": 3,
+    "total_installs": 156,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2026-04-03T10:10:43.000Z",
+    "code_updated_at": "2026-04-29T06:01:01.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1463754,
+        "name": "XxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxX0",
+        "created_at": "2025-04-29T20:28:23.000Z",
+        "url": "https://greasyfork.org/users/1463754-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx0"
+      }
+    ],
+    "name": "MWI Profit Panel II",
+    "description": "milkywayidle游戏利润插件，在右面板添加了根据当前市场数据计算出来的收益详情，掉落记录展示了掉落详情",
+    "url": "https://greasyfork.org/scripts/572344-mwi-profit-panel-ii",
+    "code_url": "https://update.greasyfork.org/scripts/572344/MWI%20Profit%20Panel%20II.user.js",
+    "code_size": 646544,
+    "license": "MIT License",
+    "version": "20260429.0.6.3",
+    "locale": "zh-CN",
     "deleted": false
   },
   {
@@ -256,47 +320,15 @@
     "deleted": false
   },
   {
-    "id": 562662,
+    "id": 569362,
     "daily_installs": 2,
-    "total_installs": 1164,
-    "fan_score": "51.0",
-    "good_ratings": 4,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2026-01-14T16:34:28.000Z",
-    "code_updated_at": "2026-06-06T23:50:35.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1512305,
-        "name": "Celasha",
-        "created_at": "2025-09-06T05:04:15.000Z",
-        "url": "https://greasyfork.org/users/1512305-celasha"
-      }
-    ],
-    "name": "Toolasha",
-    "description": "Toolasha - Enhanced tools for Milky Way Idle.",
-    "url": "https://greasyfork.org/scripts/562662-toolasha",
-    "code_url": "https://update.greasyfork.org/scripts/562662/Toolasha.user.js",
-    "code_size": 34283,
-    "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
-    "version": "2.62.5",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 572344,
-    "daily_installs": 2,
-    "total_installs": 155,
-    "fan_score": "5.0",
+    "total_installs": 252,
+    "fan_score": "5.5",
     "good_ratings": 0,
-    "ok_ratings": 0,
+    "ok_ratings": 1,
     "bad_ratings": 0,
-    "created_at": "2026-04-03T10:10:43.000Z",
-    "code_updated_at": "2026-04-29T06:01:01.000Z",
+    "created_at": "2026-03-12T00:26:46.000Z",
+    "code_updated_at": "2026-05-02T07:08:17.000Z",
     "namespace": "http://tampermonkey.net/",
     "support_url": null,
     "contribution_url": null,
@@ -309,45 +341,45 @@
         "url": "https://greasyfork.org/users/1463754-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx0"
       }
     ],
-    "name": "MWI Profit Panel II",
-    "description": "milkywayidle游戏利润插件，在右面板添加了根据当前市场数据计算出来的收益详情，掉落记录展示了掉落详情",
-    "url": "https://greasyfork.org/scripts/572344-mwi-profit-panel-ii",
-    "code_url": "https://update.greasyfork.org/scripts/572344/MWI%20Profit%20Panel%20II.user.js",
-    "code_size": 646544,
+    "name": "mooket II",
+    "description": "mooket2 银河奶牛历史价格（包含强化物品）history(enhancement included) price for milkywayidle",
+    "url": "https://greasyfork.org/scripts/569362-mooket-ii",
+    "code_url": "https://update.greasyfork.org/scripts/569362/mooket%20II.user.js",
+    "code_size": 212842,
     "license": "MIT License",
-    "version": "20260429.0.6.3",
+    "version": "20260417.0.16.1",
     "locale": "zh-CN",
     "deleted": false
   },
   {
-    "id": 531872,
-    "daily_installs": 1,
-    "total_installs": 997,
-    "fan_score": "20.7",
-    "good_ratings": 1,
+    "id": 580553,
+    "daily_installs": 2,
+    "total_installs": 6,
+    "fan_score": "5.0",
+    "good_ratings": 0,
     "ok_ratings": 0,
     "bad_ratings": 0,
-    "created_at": "2025-04-05T03:49:04.000Z",
-    "code_updated_at": "2025-06-07T16:17:23.000Z",
+    "created_at": "2026-05-31T11:01:26.000Z",
+    "code_updated_at": "2026-06-06T13:37:31.000Z",
     "namespace": "http://tampermonkey.net/",
     "support_url": null,
     "contribution_url": null,
     "contribution_amount": null,
     "users": [
       {
-        "id": 1454149,
-        "name": "TheNeroNex",
-        "created_at": "2025-04-05T03:43:23.000Z",
-        "url": "https://greasyfork.org/users/1454149-theneronex"
+        "id": 1478109,
+        "name": "らき",
+        "created_at": "2025-06-03T01:46:47.000Z",
+        "url": "https://greasyfork.org/users/1478109-%E3%82%89%E3%81%8D"
       }
     ],
-    "name": "[MWI] Ultimate Enhancement Tracker v3.7.9",
-    "description": "Tracks pretty much everything about enhancing",
-    "url": "https://greasyfork.org/scripts/531872-mwi-ultimate-enhancement-tracker-v3-7-9",
-    "code_url": "https://update.greasyfork.org/scripts/531872/%5BMWI%5D%20Ultimate%20Enhancement%20Tracker%20v379.user.js",
-    "code_size": 1543808,
+    "name": "MWI Item Display Enhancer",
+    "description": "Capture Milky Way Idle character data, show task counts, and provide helper panels.",
+    "url": "https://greasyfork.org/scripts/580553-mwi-item-display-enhancer",
+    "code_url": "https://update.greasyfork.org/scripts/580553/MWI%20Item%20Display%20Enhancer.user.js",
+    "code_size": 164826,
     "license": "MIT License",
-    "version": "3.7.9",
+    "version": "1.2.3",
     "locale": "en",
     "deleted": false
   },
@@ -416,38 +448,6 @@
     "deleted": false
   },
   {
-    "id": 541503,
-    "daily_installs": 1,
-    "total_installs": 392,
-    "fan_score": "20.8",
-    "good_ratings": 2,
-    "ok_ratings": 0,
-    "bad_ratings": 1,
-    "created_at": "2025-07-03T07:18:27.000Z",
-    "code_updated_at": "2026-04-12T01:47:51.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1341622,
-        "name": "Bean-CN ture",
-        "created_at": "2024-07-29T01:14:10.000Z",
-        "url": "https://greasyfork.org/users/1341622-bean-cn-ture"
-      }
-    ],
-    "name": "MWIAlchemySimulator",
-    "description": "这是炼金模拟器，包括了期望方差风险的估算，",
-    "url": "https://greasyfork.org/scripts/541503-mwialchemysimulator",
-    "code_url": "https://update.greasyfork.org/scripts/541503/MWIAlchemySimulator.user.js",
-    "code_size": 1212004,
-    "license": null,
-    "version": "v37",
-    "locale": "en",
-    "deleted": false
-  },
-  {
     "id": 558162,
     "daily_installs": 1,
     "total_installs": 6,
@@ -512,38 +512,6 @@
     "deleted": false
   },
   {
-    "id": 569362,
-    "daily_installs": 1,
-    "total_installs": 251,
-    "fan_score": "5.5",
-    "good_ratings": 0,
-    "ok_ratings": 1,
-    "bad_ratings": 0,
-    "created_at": "2026-03-12T00:26:46.000Z",
-    "code_updated_at": "2026-05-02T07:08:17.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1463754,
-        "name": "XxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxX0",
-        "created_at": "2025-04-29T20:28:23.000Z",
-        "url": "https://greasyfork.org/users/1463754-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx0"
-      }
-    ],
-    "name": "mooket II",
-    "description": "mooket2 银河奶牛历史价格（包含强化物品）history(enhancement included) price for milkywayidle",
-    "url": "https://greasyfork.org/scripts/569362-mooket-ii",
-    "code_url": "https://update.greasyfork.org/scripts/569362/mooket%20II.user.js",
-    "code_size": 212842,
-    "license": "MIT License",
-    "version": "20260417.0.16.1",
-    "locale": "zh-CN",
-    "deleted": false
-  },
-  {
     "id": 573779,
     "daily_installs": 1,
     "total_installs": 37,
@@ -573,38 +541,6 @@
     "license": "MIT License",
     "version": "1.0.3",
     "locale": "zh-CN",
-    "deleted": false
-  },
-  {
-    "id": 580553,
-    "daily_installs": 1,
-    "total_installs": 5,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2026-05-31T11:01:26.000Z",
-    "code_updated_at": "2026-06-06T13:37:31.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1478109,
-        "name": "らき",
-        "created_at": "2025-06-03T01:46:47.000Z",
-        "url": "https://greasyfork.org/users/1478109-%E3%82%89%E3%81%8D"
-      }
-    ],
-    "name": "MWI Item Display Enhancer",
-    "description": "Capture Milky Way Idle character data, show task counts, and provide helper panels.",
-    "url": "https://greasyfork.org/scripts/580553-mwi-item-display-enhancer",
-    "code_url": "https://update.greasyfork.org/scripts/580553/MWI%20Item%20Display%20Enhancer.user.js",
-    "code_size": 164826,
-    "license": "MIT License",
-    "version": "1.2.3",
-    "locale": "en",
     "deleted": false
   },
   {
@@ -1308,6 +1244,38 @@
     "code_size": 43933,
     "license": "MIT License",
     "version": "2025-12-06",
+    "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 531872,
+    "daily_installs": 0,
+    "total_installs": 997,
+    "fan_score": "20.7",
+    "good_ratings": 1,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2025-04-05T03:49:04.000Z",
+    "code_updated_at": "2025-06-07T16:17:23.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1454149,
+        "name": "TheNeroNex",
+        "created_at": "2025-04-05T03:43:23.000Z",
+        "url": "https://greasyfork.org/users/1454149-theneronex"
+      }
+    ],
+    "name": "[MWI] Ultimate Enhancement Tracker v3.7.9",
+    "description": "Tracks pretty much everything about enhancing",
+    "url": "https://greasyfork.org/scripts/531872-mwi-ultimate-enhancement-tracker-v3-7-9",
+    "code_url": "https://update.greasyfork.org/scripts/531872/%5BMWI%5D%20Ultimate%20Enhancement%20Tracker%20v379.user.js",
+    "code_size": 1543808,
+    "license": "MIT License",
+    "version": "3.7.9",
     "locale": "en",
     "deleted": false
   },
@@ -2268,6 +2236,38 @@
     "code_size": 14120,
     "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
     "version": "1.3",
+    "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 541503,
+    "daily_installs": 0,
+    "total_installs": 392,
+    "fan_score": "20.8",
+    "good_ratings": 2,
+    "ok_ratings": 0,
+    "bad_ratings": 1,
+    "created_at": "2025-07-03T07:18:27.000Z",
+    "code_updated_at": "2026-04-12T01:47:51.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1341622,
+        "name": "Bean-CN ture",
+        "created_at": "2024-07-29T01:14:10.000Z",
+        "url": "https://greasyfork.org/users/1341622-bean-cn-ture"
+      }
+    ],
+    "name": "MWIAlchemySimulator",
+    "description": "这是炼金模拟器，包括了期望方差风险的估算，",
+    "url": "https://greasyfork.org/scripts/541503-mwialchemysimulator",
+    "code_url": "https://update.greasyfork.org/scripts/541503/MWIAlchemySimulator.user.js",
+    "code_size": 1212004,
+    "license": null,
+    "version": "v37",
     "locale": "en",
     "deleted": false
   },
