@@ -386,7 +386,7 @@
   {
     "id": 531872,
     "daily_installs": 1,
-    "total_installs": 1001,
+    "total_installs": 1002,
     "fan_score": "20.7",
     "good_ratings": 1,
     "ok_ratings": 0,
@@ -3624,7 +3624,7 @@
     "ok_ratings": 0,
     "bad_ratings": 0,
     "created_at": "2026-04-03T10:10:43.000Z",
-    "code_updated_at": "2026-04-29T06:01:01.000Z",
+    "code_updated_at": "2026-06-13T21:10:07.000Z",
     "namespace": "http://tampermonkey.net/",
     "support_url": null,
     "contribution_url": null,
@@ -3643,7 +3643,7 @@
     "code_url": "https://update.greasyfork.org/scripts/572344/MWI%20Profit%20Panel%20II.user.js",
     "code_size": 646544,
     "license": "MIT License",
-    "version": "20260429.0.6.3",
+    "version": "20260614.0.6.5",
     "locale": "zh-CN",
     "deleted": false
   },
