@@ -160,6 +160,38 @@
     "deleted": false
   },
   {
+    "id": 562662,
+    "daily_installs": 3,
+    "total_installs": 1241,
+    "fan_score": "51.0",
+    "good_ratings": 4,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2026-01-14T16:34:28.000Z",
+    "code_updated_at": "2026-06-21T18:12:58.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1512305,
+        "name": "Celasha",
+        "created_at": "2025-09-06T05:04:15.000Z",
+        "url": "https://greasyfork.org/users/1512305-celasha"
+      }
+    ],
+    "name": "Toolasha",
+    "description": "Toolasha - Enhanced tools for Milky Way Idle.",
+    "url": "https://greasyfork.org/scripts/562662-toolasha",
+    "code_url": "https://update.greasyfork.org/scripts/562662/Toolasha.user.js",
+    "code_size": 34500,
+    "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
+    "version": "2.67.4",
+    "locale": "en",
+    "deleted": false
+  },
+  {
     "id": 539672,
     "daily_installs": 2,
     "total_installs": 1151,
@@ -188,38 +220,6 @@
     "code_size": 47510,
     "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
     "version": "0.3.6",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 562662,
-    "daily_installs": 2,
-    "total_installs": 1240,
-    "fan_score": "51.0",
-    "good_ratings": 4,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2026-01-14T16:34:28.000Z",
-    "code_updated_at": "2026-06-21T18:12:58.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1512305,
-        "name": "Celasha",
-        "created_at": "2025-09-06T05:04:15.000Z",
-        "url": "https://greasyfork.org/users/1512305-celasha"
-      }
-    ],
-    "name": "Toolasha",
-    "description": "Toolasha - Enhanced tools for Milky Way Idle.",
-    "url": "https://greasyfork.org/scripts/562662-toolasha",
-    "code_url": "https://update.greasyfork.org/scripts/562662/Toolasha.user.js",
-    "code_size": 34500,
-    "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
-    "version": "2.67.4",
     "locale": "en",
     "deleted": false
   },
@@ -544,38 +544,6 @@
     "deleted": false
   },
   {
-    "id": 535455,
-    "daily_installs": 1,
-    "total_installs": 325,
-    "fan_score": "20.7",
-    "good_ratings": 1,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2025-05-09T07:50:40.000Z",
-    "code_updated_at": "2025-06-24T11:35:31.000Z",
-    "namespace": "https://cnb.cool/shenhuanjie/skyner-cn/tamper-monkey-script/mwi-inventory-category-price-calculator",
-    "support_url": "https://cnb.cool/shenhuanjie/skyner-cn/tamper-monkey-script/mwi-inventory-category-price-calculator",
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1466769,
-        "name": "shenhuanjie",
-        "created_at": "2025-05-07T08:49:36.000Z",
-        "url": "https://greasyfork.org/users/1466769-shenhuanjie"
-      }
-    ],
-    "name": "[银河奶牛]库存分类价格汇总显示",
-    "description": "计算并显示库存中每个分类的总价格",
-    "url": "https://greasyfork.org/scripts/535455-%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B-%E5%BA%93%E5%AD%98%E5%88%86%E7%B1%BB%E4%BB%B7%E6%A0%BC%E6%B1%87%E6%80%BB%E6%98%BE%E7%A4%BA",
-    "code_url": "https://update.greasyfork.org/scripts/535455/%5B%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B%5D%E5%BA%93%E5%AD%98%E5%88%86%E7%B1%BB%E4%BB%B7%E6%A0%BC%E6%B1%87%E6%80%BB%E6%98%BE%E7%A4%BA.user.js",
-    "code_size": 7532,
-    "license": "MIT License",
-    "version": "1.0.7",
-    "locale": "zh-CN",
-    "deleted": false
-  },
-  {
     "id": 538797,
     "daily_installs": 1,
     "total_installs": 1514,
@@ -636,6 +604,38 @@
     "code_size": 140030,
     "license": "MIT License",
     "version": "1.12.1",
+    "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 541503,
+    "daily_installs": 1,
+    "total_installs": 398,
+    "fan_score": "20.8",
+    "good_ratings": 2,
+    "ok_ratings": 0,
+    "bad_ratings": 1,
+    "created_at": "2025-07-03T07:18:27.000Z",
+    "code_updated_at": "2026-04-12T01:47:51.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1341622,
+        "name": "Bean-CN ture",
+        "created_at": "2024-07-29T01:14:10.000Z",
+        "url": "https://greasyfork.org/users/1341622-bean-cn-ture"
+      }
+    ],
+    "name": "MWIAlchemySimulator",
+    "description": "这是炼金模拟器，包括了期望方差风险的估算，",
+    "url": "https://greasyfork.org/scripts/541503-mwialchemysimulator",
+    "code_url": "https://update.greasyfork.org/scripts/541503/MWIAlchemySimulator.user.js",
+    "code_size": 1212004,
+    "license": null,
+    "version": "v37",
     "locale": "en",
     "deleted": false
   },
@@ -701,6 +701,38 @@
     "license": "MIT License",
     "version": "1.0",
     "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 543862,
+    "daily_installs": 1,
+    "total_installs": 268,
+    "fan_score": "39.6",
+    "good_ratings": 3,
+    "ok_ratings": 1,
+    "bad_ratings": 0,
+    "created_at": "2025-07-28T10:44:38.000Z",
+    "code_updated_at": "2026-02-24T12:48:27.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1499127,
+        "name": "gxy12345",
+        "created_at": "2025-07-28T10:16:09.000Z",
+        "url": "https://greasyfork.org/users/1499127-gxy12345"
+      }
+    ],
+    "name": "MWI角色名片插件",
+    "description": "MWI角色名片插件 - 一键生成角色名片",
+    "url": "https://greasyfork.org/scripts/543862-mwi%E8%A7%92%E8%89%B2%E5%90%8D%E7%89%87%E6%8F%92%E4%BB%B6",
+    "code_url": "https://update.greasyfork.org/scripts/543862/MWI%E8%A7%92%E8%89%B2%E5%90%8D%E7%89%87%E6%8F%92%E4%BB%B6.user.js",
+    "code_size": 190338,
+    "license": "MIT License",
+    "version": "1.7.0",
+    "locale": "zh-CN",
     "deleted": false
   },
   {
@@ -1600,6 +1632,38 @@
     "deleted": false
   },
   {
+    "id": 535455,
+    "daily_installs": 0,
+    "total_installs": 325,
+    "fan_score": "20.7",
+    "good_ratings": 1,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2025-05-09T07:50:40.000Z",
+    "code_updated_at": "2025-06-24T11:35:31.000Z",
+    "namespace": "https://cnb.cool/shenhuanjie/skyner-cn/tamper-monkey-script/mwi-inventory-category-price-calculator",
+    "support_url": "https://cnb.cool/shenhuanjie/skyner-cn/tamper-monkey-script/mwi-inventory-category-price-calculator",
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1466769,
+        "name": "shenhuanjie",
+        "created_at": "2025-05-07T08:49:36.000Z",
+        "url": "https://greasyfork.org/users/1466769-shenhuanjie"
+      }
+    ],
+    "name": "[银河奶牛]库存分类价格汇总显示",
+    "description": "计算并显示库存中每个分类的总价格",
+    "url": "https://greasyfork.org/scripts/535455-%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B-%E5%BA%93%E5%AD%98%E5%88%86%E7%B1%BB%E4%BB%B7%E6%A0%BC%E6%B1%87%E6%80%BB%E6%98%BE%E7%A4%BA",
+    "code_url": "https://update.greasyfork.org/scripts/535455/%5B%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B%5D%E5%BA%93%E5%AD%98%E5%88%86%E7%B1%BB%E4%BB%B7%E6%A0%BC%E6%B1%87%E6%80%BB%E6%98%BE%E7%A4%BA.user.js",
+    "code_size": 7532,
+    "license": "MIT License",
+    "version": "1.0.7",
+    "locale": "zh-CN",
+    "deleted": false
+  },
+  {
     "id": 535491,
     "daily_installs": 0,
     "total_installs": 275,
@@ -2208,38 +2272,6 @@
     "deleted": false
   },
   {
-    "id": 541503,
-    "daily_installs": 0,
-    "total_installs": 397,
-    "fan_score": "20.8",
-    "good_ratings": 2,
-    "ok_ratings": 0,
-    "bad_ratings": 1,
-    "created_at": "2025-07-03T07:18:27.000Z",
-    "code_updated_at": "2026-04-12T01:47:51.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1341622,
-        "name": "Bean-CN ture",
-        "created_at": "2024-07-29T01:14:10.000Z",
-        "url": "https://greasyfork.org/users/1341622-bean-cn-ture"
-      }
-    ],
-    "name": "MWIAlchemySimulator",
-    "description": "这是炼金模拟器，包括了期望方差风险的估算，",
-    "url": "https://greasyfork.org/scripts/541503-mwialchemysimulator",
-    "code_url": "https://update.greasyfork.org/scripts/541503/MWIAlchemySimulator.user.js",
-    "code_size": 1212004,
-    "license": null,
-    "version": "v37",
-    "locale": "en",
-    "deleted": false
-  },
-  {
     "id": 541765,
     "daily_installs": 0,
     "total_installs": 7,
@@ -2493,38 +2525,6 @@
     "license": "MIT License",
     "version": "1",
     "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 543862,
-    "daily_installs": 0,
-    "total_installs": 267,
-    "fan_score": "39.6",
-    "good_ratings": 3,
-    "ok_ratings": 1,
-    "bad_ratings": 0,
-    "created_at": "2025-07-28T10:44:38.000Z",
-    "code_updated_at": "2026-02-24T12:48:27.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1499127,
-        "name": "gxy12345",
-        "created_at": "2025-07-28T10:16:09.000Z",
-        "url": "https://greasyfork.org/users/1499127-gxy12345"
-      }
-    ],
-    "name": "MWI角色名片插件",
-    "description": "MWI角色名片插件 - 一键生成角色名片",
-    "url": "https://greasyfork.org/scripts/543862-mwi%E8%A7%92%E8%89%B2%E5%90%8D%E7%89%87%E6%8F%92%E4%BB%B6",
-    "code_url": "https://update.greasyfork.org/scripts/543862/MWI%E8%A7%92%E8%89%B2%E5%90%8D%E7%89%87%E6%8F%92%E4%BB%B6.user.js",
-    "code_size": 190338,
-    "license": "MIT License",
-    "version": "1.7.0",
-    "locale": "zh-CN",
     "deleted": false
   },
   {
