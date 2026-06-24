@@ -1,40 +1,8 @@
 [
   {
-    "id": 499963,
-    "daily_installs": 13,
-    "total_installs": 6330,
-    "fan_score": "67.2",
-    "good_ratings": 14,
-    "ok_ratings": 4,
-    "bad_ratings": 0,
-    "created_at": "2024-07-08T00:48:21.000Z",
-    "code_updated_at": "2026-05-16T01:24:27.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1313709,
-        "name": "Truth_Light",
-        "created_at": "2024-06-07T02:52:25.000Z",
-        "url": "https://greasyfork.org/users/1313709-truth-light"
-      }
-    ],
-    "name": "[银河奶牛]食用工具",
-    "description": "开箱记录、箱子期望、离线统计、公会钉钉、食物警察、掉落追踪、强化统计、地牢计算",
-    "url": "https://greasyfork.org/scripts/499963-%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B-%E9%A3%9F%E7%94%A8%E5%B7%A5%E5%85%B7",
-    "code_url": "https://update.greasyfork.org/scripts/499963/%5B%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B%5D%E9%A3%9F%E7%94%A8%E5%B7%A5%E5%85%B7.user.js",
-    "code_size": 276838,
-    "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
-    "version": "0.508",
-    "locale": "zh-CN",
-    "deleted": false
-  },
-  {
     "id": 494467,
-    "daily_installs": 13,
-    "total_installs": 12726,
+    "daily_installs": 15,
+    "total_installs": 12729,
     "fan_score": "61.9",
     "good_ratings": 20,
     "ok_ratings": 9,
@@ -64,9 +32,41 @@
     "deleted": false
   },
   {
+    "id": 499963,
+    "daily_installs": 15,
+    "total_installs": 6332,
+    "fan_score": "67.2",
+    "good_ratings": 14,
+    "ok_ratings": 4,
+    "bad_ratings": 0,
+    "created_at": "2024-07-08T00:48:21.000Z",
+    "code_updated_at": "2026-05-16T01:24:27.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1313709,
+        "name": "Truth_Light",
+        "created_at": "2024-06-07T02:52:25.000Z",
+        "url": "https://greasyfork.org/users/1313709-truth-light"
+      }
+    ],
+    "name": "[银河奶牛]食用工具",
+    "description": "开箱记录、箱子期望、离线统计、公会钉钉、食物警察、掉落追踪、强化统计、地牢计算",
+    "url": "https://greasyfork.org/scripts/499963-%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B-%E9%A3%9F%E7%94%A8%E5%B7%A5%E5%85%B7",
+    "code_url": "https://update.greasyfork.org/scripts/499963/%5B%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B%5D%E9%A3%9F%E7%94%A8%E5%B7%A5%E5%85%B7.user.js",
+    "code_size": 276838,
+    "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
+    "version": "0.508",
+    "locale": "zh-CN",
+    "deleted": false
+  },
+  {
     "id": 567386,
-    "daily_installs": 10,
-    "total_installs": 2067,
+    "daily_installs": 11,
+    "total_installs": 2069,
     "fan_score": "64.6",
     "good_ratings": 7,
     "ok_ratings": 0,
@@ -97,8 +97,8 @@
   },
   {
     "id": 566829,
-    "daily_installs": 7,
-    "total_installs": 2197,
+    "daily_installs": 8,
+    "total_installs": 2198,
     "fan_score": "34.2",
     "good_ratings": 2,
     "ok_ratings": 0,
@@ -129,8 +129,8 @@
   },
   {
     "id": 546655,
-    "daily_installs": 4,
-    "total_installs": 1609,
+    "daily_installs": 6,
+    "total_installs": 1611,
     "fan_score": "5.0",
     "good_ratings": 0,
     "ok_ratings": 0,
@@ -224,38 +224,6 @@
     "deleted": false
   },
   {
-    "id": 562662,
-    "daily_installs": 3,
-    "total_installs": 1244,
-    "fan_score": "51.0",
-    "good_ratings": 4,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2026-01-14T16:34:28.000Z",
-    "code_updated_at": "2026-06-21T18:12:58.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1512305,
-        "name": "Celasha",
-        "created_at": "2025-09-06T05:04:15.000Z",
-        "url": "https://greasyfork.org/users/1512305-celasha"
-      }
-    ],
-    "name": "Toolasha",
-    "description": "Toolasha - Enhanced tools for Milky Way Idle.",
-    "url": "https://greasyfork.org/scripts/562662-toolasha",
-    "code_url": "https://update.greasyfork.org/scripts/562662/Toolasha.user.js",
-    "code_size": 34500,
-    "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
-    "version": "2.67.4",
-    "locale": "en",
-    "deleted": false
-  },
-  {
     "id": 531872,
     "daily_installs": 2,
     "total_installs": 1008,
@@ -320,6 +288,70 @@
     "deleted": false
   },
   {
+    "id": 541550,
+    "daily_installs": 2,
+    "total_installs": 734,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2025-07-03T16:56:01.000Z",
+    "code_updated_at": "2025-07-03T17:34:06.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1475215,
+        "name": "yiweilongzxa",
+        "created_at": "2025-05-26T17:54:56.000Z",
+        "url": "https://greasyfork.org/users/1475215-yiweilongzxa"
+      }
+    ],
+    "name": "三采行动计算器",
+    "description": "在网站上显示一个可隐藏的操作面板，计算三采行动所需次数，支持回车切换输入框，自动替换中文句号为英文小数点，输入文字为黑色",
+    "url": "https://greasyfork.org/scripts/541550-%E4%B8%89%E9%87%87%E8%A1%8C%E5%8A%A8%E8%AE%A1%E7%AE%97%E5%99%A8",
+    "code_url": "https://update.greasyfork.org/scripts/541550/%E4%B8%89%E9%87%87%E8%A1%8C%E5%8A%A8%E8%AE%A1%E7%AE%97%E5%99%A8.user.js",
+    "code_size": 9517,
+    "license": "MIT License",
+    "version": "2.0",
+    "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 562662,
+    "daily_installs": 2,
+    "total_installs": 1244,
+    "fan_score": "51.0",
+    "good_ratings": 4,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2026-01-14T16:34:28.000Z",
+    "code_updated_at": "2026-06-21T18:12:58.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1512305,
+        "name": "Celasha",
+        "created_at": "2025-09-06T05:04:15.000Z",
+        "url": "https://greasyfork.org/users/1512305-celasha"
+      }
+    ],
+    "name": "Toolasha",
+    "description": "Toolasha - Enhanced tools for Milky Way Idle.",
+    "url": "https://greasyfork.org/scripts/562662-toolasha",
+    "code_url": "https://update.greasyfork.org/scripts/562662/Toolasha.user.js",
+    "code_size": 34500,
+    "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
+    "version": "2.67.4",
+    "locale": "en",
+    "deleted": false
+  },
+  {
     "id": 573779,
     "daily_installs": 2,
     "total_installs": 50,
@@ -352,38 +384,6 @@
     "deleted": false
   },
   {
-    "id": 533994,
-    "daily_installs": 1,
-    "total_installs": 167,
-    "fan_score": "20.7",
-    "good_ratings": 1,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2025-04-25T20:47:28.000Z",
-    "code_updated_at": "2026-05-18T23:55:10.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1462151,
-        "name": "AlwaysStargazing",
-        "created_at": "2025-04-25T20:21:21.000Z",
-        "url": "https://greasyfork.org/users/1462151-alwaysstargazing"
-      }
-    ],
-    "name": "MWI Chat Translator C↔E",
-    "description": "Bidirectional ZH↔EN chat translator for MilkyWay Idle. Google Translate + optional AI (Gemini/Gemma). Inline translations, persistent cache, WebSocket pre-translation, bilingual settings panel.",
-    "url": "https://greasyfork.org/scripts/533994-mwi-chat-translator-c-e",
-    "code_url": "https://update.greasyfork.org/scripts/533994/MWI%20Chat%20Translator%20C%E2%86%94E.user.js",
-    "code_size": 99177,
-    "license": "MIT License",
-    "version": "0.6.1",
-    "locale": "en",
-    "deleted": false
-  },
-  {
     "id": 531647,
     "daily_installs": 1,
     "total_installs": 15,
@@ -412,6 +412,38 @@
     "code_size": 1084,
     "license": null,
     "version": "1.1",
+    "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 533994,
+    "daily_installs": 1,
+    "total_installs": 167,
+    "fan_score": "20.7",
+    "good_ratings": 1,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2025-04-25T20:47:28.000Z",
+    "code_updated_at": "2026-05-18T23:55:10.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1462151,
+        "name": "AlwaysStargazing",
+        "created_at": "2025-04-25T20:21:21.000Z",
+        "url": "https://greasyfork.org/users/1462151-alwaysstargazing"
+      }
+    ],
+    "name": "MWI Chat Translator C↔E",
+    "description": "Bidirectional ZH↔EN chat translator for MilkyWay Idle. Google Translate + optional AI (Gemini/Gemma). Inline translations, persistent cache, WebSocket pre-translation, bilingual settings panel.",
+    "url": "https://greasyfork.org/scripts/533994-mwi-chat-translator-c-e",
+    "code_url": "https://update.greasyfork.org/scripts/533994/MWI%20Chat%20Translator%20C%E2%86%94E.user.js",
+    "code_size": 99177,
+    "license": "MIT License",
+    "version": "0.6.1",
     "locale": "en",
     "deleted": false
   },
@@ -476,38 +508,6 @@
     "code_size": 579495,
     "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
     "version": "23.3.9.3",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 541550,
-    "daily_installs": 1,
-    "total_installs": 733,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2025-07-03T16:56:01.000Z",
-    "code_updated_at": "2025-07-03T17:34:06.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1475215,
-        "name": "yiweilongzxa",
-        "created_at": "2025-05-26T17:54:56.000Z",
-        "url": "https://greasyfork.org/users/1475215-yiweilongzxa"
-      }
-    ],
-    "name": "三采行动计算器",
-    "description": "在网站上显示一个可隐藏的操作面板，计算三采行动所需次数，支持回车切换输入框，自动替换中文句号为英文小数点，输入文字为黑色",
-    "url": "https://greasyfork.org/scripts/541550-%E4%B8%89%E9%87%87%E8%A1%8C%E5%8A%A8%E8%AE%A1%E7%AE%97%E5%99%A8",
-    "code_url": "https://update.greasyfork.org/scripts/541550/%E4%B8%89%E9%87%87%E8%A1%8C%E5%8A%A8%E8%AE%A1%E7%AE%97%E5%99%A8.user.js",
-    "code_size": 9517,
-    "license": "MIT License",
-    "version": "2.0",
     "locale": "en",
     "deleted": false
   },
@@ -640,390 +640,6 @@
     "deleted": false
   },
   {
-    "id": 533517,
-    "daily_installs": 0,
-    "total_installs": 21,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2025-04-21T11:21:06.000Z",
-    "code_updated_at": "2025-05-06T07:49:22.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1460501,
-        "name": "syabusyabukun",
-        "created_at": "2025-04-21T11:12:05.000Z",
-        "url": "https://greasyfork.org/users/1460501-syabusyabukun"
-      }
-    ],
-    "name": "Doing nothingは良くない",
-    "description": "Loop a Base64 WAV sound when 'Doing nothing' appears in the window title in Milky Way Idle, send Ntfy notification.",
-    "url": "https://greasyfork.org/scripts/533517-doing-nothing%E3%81%AF%E8%89%AF%E3%81%8F%E3%81%AA%E3%81%84",
-    "code_url": "https://update.greasyfork.org/scripts/533517/Doing%20nothing%E3%81%AF%E8%89%AF%E3%81%8F%E3%81%AA%E3%81%84.user.js",
-    "code_size": 942604,
-    "license": "MIT License",
-    "version": "2.9.1",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 534502,
-    "daily_installs": 0,
-    "total_installs": 18,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2025-04-30T10:24:25.000Z",
-    "code_updated_at": "2025-04-30T10:24:25.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 694822,
-        "name": "hhzxxx",
-        "created_at": "2020-10-14T02:27:33.000Z",
-        "url": "https://greasyfork.org/users/694822-hhzxxx"
-      }
-    ],
-    "name": "9战",
-    "description": "9战1",
-    "url": "https://greasyfork.org/scripts/534502-9%E6%88%98",
-    "code_url": "https://update.greasyfork.org/scripts/534502/9%E6%88%98.user.js",
-    "code_size": 9984,
-    "license": "MIT License",
-    "version": "2025-03-30",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 534815,
-    "daily_installs": 0,
-    "total_installs": 32,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2025-05-03T13:37:29.000Z",
-    "code_updated_at": "2025-05-03T13:37:29.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1465203,
-        "name": "GoldenHoundGit",
-        "created_at": "2025-05-03T13:36:27.000Z",
-        "url": "https://greasyfork.org/users/1465203-goldenhoundgit"
-      }
-    ],
-    "name": "MilkyWay Idle - Replace Chinese text with English",
-    "description": "Replace Chinese text with English",
-    "url": "https://greasyfork.org/scripts/534815-milkyway-idle-replace-chinese-text-with-english",
-    "code_url": "https://update.greasyfork.org/scripts/534815/MilkyWay%20Idle%20-%20Replace%20Chinese%20text%20with%20English.user.js",
-    "code_size": 2655,
-    "license": null,
-    "version": "1.3",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 534956,
-    "daily_installs": 0,
-    "total_installs": 38,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2025-05-04T21:20:35.000Z",
-    "code_updated_at": "2025-12-06T18:03:18.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1453768,
-        "name": "sentientmilk",
-        "created_at": "2025-04-04T02:23:09.000Z",
-        "url": "https://greasyfork.org/users/1453768-sentientmilk"
-      }
-    ],
-    "name": "#MakeHolyGreatAgain",
-    "description": "Make holy icons shine like they used to be",
-    "url": "https://greasyfork.org/scripts/534956-makeholygreatagain",
-    "code_url": "https://update.greasyfork.org/scripts/534956/MakeHolyGreatAgain.user.js",
-    "code_size": 224253,
-    "license": "MIT License",
-    "version": "2025-12-06",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 535171,
-    "daily_installs": 0,
-    "total_installs": 49,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2025-05-07T00:33:03.000Z",
-    "code_updated_at": "2025-05-08T22:31:26.000Z",
-    "namespace": "https://milkywayidle.com/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1466609,
-        "name": "PersoBagel",
-        "created_at": "2025-05-07T00:26:38.000Z",
-        "url": "https://greasyfork.org/users/1466609-persobagel"
-      }
-    ],
-    "name": "Milky Way Idle - Loot Drops Value Add-on",
-    "description": "Add-on to KJay's Loot Drop overlay",
-    "url": "https://greasyfork.org/scripts/535171-milky-way-idle-loot-drops-value-add-on",
-    "code_url": "https://update.greasyfork.org/scripts/535171/Milky%20Way%20Idle%20-%20Loot%20Drops%20Value%20Add-on.user.js",
-    "code_size": 7316,
-    "license": "MIT License",
-    "version": "2.2",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 535371,
-    "daily_installs": 0,
-    "total_installs": 414,
-    "fan_score": "20.7",
-    "good_ratings": 1,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2025-05-08T16:07:57.000Z",
-    "code_updated_at": "2025-06-05T03:08:50.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1465493,
-        "name": "guch8017",
-        "created_at": "2025-05-04T09:31:17.000Z",
-        "url": "https://greasyfork.org/users/1465493-guch8017"
-      }
-    ],
-    "name": "MWI QQShow",
-    "description": "Fix QQ Show for magic way idle.",
-    "url": "https://greasyfork.org/scripts/535371-mwi-qqshow",
-    "code_url": "https://update.greasyfork.org/scripts/535371/MWI%20QQShow.user.js",
-    "code_size": 15349,
-    "license": "MIT License",
-    "version": "1.3",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 498970,
-    "daily_installs": 0,
-    "total_installs": 179,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2024-06-26T13:09:52.000Z",
-    "code_updated_at": "2024-06-26T13:09:52.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1323125,
-        "name": "Fitzmaz",
-        "created_at": "2024-06-24T10:26:21.000Z",
-        "url": "https://greasyfork.org/users/1323125-fitzmaz"
-      }
-    ],
-    "name": "MWI Market Price History Viewer",
-    "description": "This script integrates historical price charts of items directly into the market pages of MWI.",
-    "url": "https://greasyfork.org/scripts/498970-mwi-market-price-history-viewer",
-    "code_url": "https://update.greasyfork.org/scripts/498970/MWI%20Market%20Price%20History%20Viewer.user.js",
-    "code_size": 12755,
-    "license": "MIT License",
-    "version": "0.3",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 500750,
-    "daily_installs": 0,
-    "total_installs": 160,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2024-07-15T20:31:32.000Z",
-    "code_updated_at": "2024-09-22T13:31:17.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1313709,
-        "name": "Truth_Light",
-        "created_at": "2024-06-07T02:52:25.000Z",
-        "url": "https://greasyfork.org/users/1313709-truth-light"
-      }
-    ],
-    "name": "[Mwi]Guild Details Display",
-    "description": "Display more detailed data on the guild page.",
-    "url": "https://greasyfork.org/scripts/500750-mwi-guild-details-display",
-    "code_url": "https://update.greasyfork.org/scripts/500750/%5BMwi%5DGuild%20Details%20Display.user.js",
-    "code_size": 13971,
-    "license": null,
-    "version": "1.05",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 558162,
-    "daily_installs": 0,
-    "total_installs": 6,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2025-12-06T23:31:04.000Z",
-    "code_updated_at": "2025-12-07T00:18:58.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1541174,
-        "name": "GOSU",
-        "created_at": "2025-11-24T15:35:41.000Z",
-        "url": "https://greasyfork.org/users/1541174-gosu"
-      }
-    ],
-    "name": "MWI Simplified User Profiles (Steam tags, consolidation of prestiges)",
-    "description": "Adds a pre or post-Steam tag, consolidates Task, Collection & Bestiary Points with tooltips on hover",
-    "url": "https://greasyfork.org/scripts/558162-mwi-simplified-user-profiles-steam-tags-consolidation-of-prestiges",
-    "code_url": "https://update.greasyfork.org/scripts/558162/MWI%20Simplified%20User%20Profiles%20%28Steam%20tags%2C%20consolidation%20of%20prestiges%29.user.js",
-    "code_size": 6019,
-    "license": "MIT License",
-    "version": "1.33.7",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 558169,
-    "daily_installs": 0,
-    "total_installs": 56,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2025-12-07T01:05:30.000Z",
-    "code_updated_at": "2025-12-26T23:58:45.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1453768,
-        "name": "sentientmilk",
-        "created_at": "2025-04-04T02:23:09.000Z",
-        "url": "https://greasyfork.org/users/1453768-sentientmilk"
-      }
-    ],
-    "name": "Filter Collections",
-    "description": "Adds [<10], [10-99], [100-999], [>1000], Not dungeon and D1-4 filter buttons to Collections",
-    "url": "https://greasyfork.org/scripts/558169-filter-collections",
-    "code_url": "https://update.greasyfork.org/scripts/558169/Filter%20Collections.user.js",
-    "code_size": 18711,
-    "license": "MIT License",
-    "version": "2025-12-27",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 558184,
-    "daily_installs": 0,
-    "total_installs": 20,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2025-12-07T03:31:59.000Z",
-    "code_updated_at": "2025-12-07T03:31:59.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1545423,
-        "name": "Grag Atrim",
-        "created_at": "2025-12-07T03:27:38.000Z",
-        "url": "https://greasyfork.org/users/1545423-grag-atrim"
-      }
-    ],
-    "name": "Branch/Butter/Thread Notifier",
-    "description": "alert when you get a rare drop from any action",
-    "url": "https://greasyfork.org/scripts/558184-branch-butter-thread-notifier",
-    "code_url": "https://update.greasyfork.org/scripts/558184/BranchButterThread%20Notifier.user.js",
-    "code_size": 4554,
-    "license": "MIT License",
-    "version": "2025-12-07",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 558938,
-    "daily_installs": 0,
-    "total_installs": 7,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2025-12-14T19:16:12.000Z",
-    "code_updated_at": "2025-12-20T03:46:11.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1468994,
-        "name": "frotty",
-        "created_at": "2025-05-12T06:06:47.000Z",
-        "url": "https://greasyfork.org/users/1468994-frotty"
-      }
-    ],
-    "name": "Scaley Way Idle",
-    "description": "Change the scale of CombatUnit divs with a draggable control panel",
-    "url": "https://greasyfork.org/scripts/558938-scaley-way-idle",
-    "code_url": "https://update.greasyfork.org/scripts/558938/Scaley%20Way%20Idle.user.js",
-    "code_size": 16449,
-    "license": null,
-    "version": "1.23",
-    "locale": "en",
-    "deleted": false
-  },
-  {
     "id": 449785,
     "daily_installs": 0,
     "total_installs": 18,
@@ -1117,6 +733,70 @@
     "license": "Truth_Light",
     "version": "1.03",
     "locale": "zh-CN",
+    "deleted": false
+  },
+  {
+    "id": 498970,
+    "daily_installs": 0,
+    "total_installs": 179,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2024-06-26T13:09:52.000Z",
+    "code_updated_at": "2024-06-26T13:09:52.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1323125,
+        "name": "Fitzmaz",
+        "created_at": "2024-06-24T10:26:21.000Z",
+        "url": "https://greasyfork.org/users/1323125-fitzmaz"
+      }
+    ],
+    "name": "MWI Market Price History Viewer",
+    "description": "This script integrates historical price charts of items directly into the market pages of MWI.",
+    "url": "https://greasyfork.org/scripts/498970-mwi-market-price-history-viewer",
+    "code_url": "https://update.greasyfork.org/scripts/498970/MWI%20Market%20Price%20History%20Viewer.user.js",
+    "code_size": 12755,
+    "license": "MIT License",
+    "version": "0.3",
+    "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 500750,
+    "daily_installs": 0,
+    "total_installs": 160,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2024-07-15T20:31:32.000Z",
+    "code_updated_at": "2024-09-22T13:31:17.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1313709,
+        "name": "Truth_Light",
+        "created_at": "2024-06-07T02:52:25.000Z",
+        "url": "https://greasyfork.org/users/1313709-truth-light"
+      }
+    ],
+    "name": "[Mwi]Guild Details Display",
+    "description": "Display more detailed data on the guild page.",
+    "url": "https://greasyfork.org/scripts/500750-mwi-guild-details-display",
+    "code_url": "https://update.greasyfork.org/scripts/500750/%5BMwi%5DGuild%20Details%20Display.user.js",
+    "code_size": 13971,
+    "license": null,
+    "version": "1.05",
+    "locale": "en",
     "deleted": false
   },
   {
@@ -1724,6 +1404,198 @@
     "code_size": 23367,
     "license": "MIT License",
     "version": "2.0",
+    "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 533517,
+    "daily_installs": 0,
+    "total_installs": 21,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2025-04-21T11:21:06.000Z",
+    "code_updated_at": "2025-05-06T07:49:22.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1460501,
+        "name": "syabusyabukun",
+        "created_at": "2025-04-21T11:12:05.000Z",
+        "url": "https://greasyfork.org/users/1460501-syabusyabukun"
+      }
+    ],
+    "name": "Doing nothingは良くない",
+    "description": "Loop a Base64 WAV sound when 'Doing nothing' appears in the window title in Milky Way Idle, send Ntfy notification.",
+    "url": "https://greasyfork.org/scripts/533517-doing-nothing%E3%81%AF%E8%89%AF%E3%81%8F%E3%81%AA%E3%81%84",
+    "code_url": "https://update.greasyfork.org/scripts/533517/Doing%20nothing%E3%81%AF%E8%89%AF%E3%81%8F%E3%81%AA%E3%81%84.user.js",
+    "code_size": 942604,
+    "license": "MIT License",
+    "version": "2.9.1",
+    "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 534502,
+    "daily_installs": 0,
+    "total_installs": 18,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2025-04-30T10:24:25.000Z",
+    "code_updated_at": "2025-04-30T10:24:25.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 694822,
+        "name": "hhzxxx",
+        "created_at": "2020-10-14T02:27:33.000Z",
+        "url": "https://greasyfork.org/users/694822-hhzxxx"
+      }
+    ],
+    "name": "9战",
+    "description": "9战1",
+    "url": "https://greasyfork.org/scripts/534502-9%E6%88%98",
+    "code_url": "https://update.greasyfork.org/scripts/534502/9%E6%88%98.user.js",
+    "code_size": 9984,
+    "license": "MIT License",
+    "version": "2025-03-30",
+    "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 534815,
+    "daily_installs": 0,
+    "total_installs": 32,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2025-05-03T13:37:29.000Z",
+    "code_updated_at": "2025-05-03T13:37:29.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1465203,
+        "name": "GoldenHoundGit",
+        "created_at": "2025-05-03T13:36:27.000Z",
+        "url": "https://greasyfork.org/users/1465203-goldenhoundgit"
+      }
+    ],
+    "name": "MilkyWay Idle - Replace Chinese text with English",
+    "description": "Replace Chinese text with English",
+    "url": "https://greasyfork.org/scripts/534815-milkyway-idle-replace-chinese-text-with-english",
+    "code_url": "https://update.greasyfork.org/scripts/534815/MilkyWay%20Idle%20-%20Replace%20Chinese%20text%20with%20English.user.js",
+    "code_size": 2655,
+    "license": null,
+    "version": "1.3",
+    "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 534956,
+    "daily_installs": 0,
+    "total_installs": 38,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2025-05-04T21:20:35.000Z",
+    "code_updated_at": "2025-12-06T18:03:18.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1453768,
+        "name": "sentientmilk",
+        "created_at": "2025-04-04T02:23:09.000Z",
+        "url": "https://greasyfork.org/users/1453768-sentientmilk"
+      }
+    ],
+    "name": "#MakeHolyGreatAgain",
+    "description": "Make holy icons shine like they used to be",
+    "url": "https://greasyfork.org/scripts/534956-makeholygreatagain",
+    "code_url": "https://update.greasyfork.org/scripts/534956/MakeHolyGreatAgain.user.js",
+    "code_size": 224253,
+    "license": "MIT License",
+    "version": "2025-12-06",
+    "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 535171,
+    "daily_installs": 0,
+    "total_installs": 49,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2025-05-07T00:33:03.000Z",
+    "code_updated_at": "2025-05-08T22:31:26.000Z",
+    "namespace": "https://milkywayidle.com/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1466609,
+        "name": "PersoBagel",
+        "created_at": "2025-05-07T00:26:38.000Z",
+        "url": "https://greasyfork.org/users/1466609-persobagel"
+      }
+    ],
+    "name": "Milky Way Idle - Loot Drops Value Add-on",
+    "description": "Add-on to KJay's Loot Drop overlay",
+    "url": "https://greasyfork.org/scripts/535171-milky-way-idle-loot-drops-value-add-on",
+    "code_url": "https://update.greasyfork.org/scripts/535171/Milky%20Way%20Idle%20-%20Loot%20Drops%20Value%20Add-on.user.js",
+    "code_size": 7316,
+    "license": "MIT License",
+    "version": "2.2",
+    "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 535371,
+    "daily_installs": 0,
+    "total_installs": 414,
+    "fan_score": "20.7",
+    "good_ratings": 1,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2025-05-08T16:07:57.000Z",
+    "code_updated_at": "2025-06-05T03:08:50.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1465493,
+        "name": "guch8017",
+        "created_at": "2025-05-04T09:31:17.000Z",
+        "url": "https://greasyfork.org/users/1465493-guch8017"
+      }
+    ],
+    "name": "MWI QQShow",
+    "description": "Fix QQ Show for magic way idle.",
+    "url": "https://greasyfork.org/scripts/535371-mwi-qqshow",
+    "code_url": "https://update.greasyfork.org/scripts/535371/MWI%20QQShow.user.js",
+    "code_size": 15349,
+    "license": "MIT License",
+    "version": "1.3",
     "locale": "en",
     "deleted": false
   },
@@ -3197,6 +3069,134 @@
     "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
     "version": "1.9.4",
     "locale": "zh-CN",
+    "deleted": false
+  },
+  {
+    "id": 558162,
+    "daily_installs": 0,
+    "total_installs": 6,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2025-12-06T23:31:04.000Z",
+    "code_updated_at": "2025-12-07T00:18:58.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1541174,
+        "name": "GOSU",
+        "created_at": "2025-11-24T15:35:41.000Z",
+        "url": "https://greasyfork.org/users/1541174-gosu"
+      }
+    ],
+    "name": "MWI Simplified User Profiles (Steam tags, consolidation of prestiges)",
+    "description": "Adds a pre or post-Steam tag, consolidates Task, Collection & Bestiary Points with tooltips on hover",
+    "url": "https://greasyfork.org/scripts/558162-mwi-simplified-user-profiles-steam-tags-consolidation-of-prestiges",
+    "code_url": "https://update.greasyfork.org/scripts/558162/MWI%20Simplified%20User%20Profiles%20%28Steam%20tags%2C%20consolidation%20of%20prestiges%29.user.js",
+    "code_size": 6019,
+    "license": "MIT License",
+    "version": "1.33.7",
+    "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 558169,
+    "daily_installs": 0,
+    "total_installs": 56,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2025-12-07T01:05:30.000Z",
+    "code_updated_at": "2025-12-26T23:58:45.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1453768,
+        "name": "sentientmilk",
+        "created_at": "2025-04-04T02:23:09.000Z",
+        "url": "https://greasyfork.org/users/1453768-sentientmilk"
+      }
+    ],
+    "name": "Filter Collections",
+    "description": "Adds [<10], [10-99], [100-999], [>1000], Not dungeon and D1-4 filter buttons to Collections",
+    "url": "https://greasyfork.org/scripts/558169-filter-collections",
+    "code_url": "https://update.greasyfork.org/scripts/558169/Filter%20Collections.user.js",
+    "code_size": 18711,
+    "license": "MIT License",
+    "version": "2025-12-27",
+    "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 558184,
+    "daily_installs": 0,
+    "total_installs": 20,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2025-12-07T03:31:59.000Z",
+    "code_updated_at": "2025-12-07T03:31:59.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1545423,
+        "name": "Grag Atrim",
+        "created_at": "2025-12-07T03:27:38.000Z",
+        "url": "https://greasyfork.org/users/1545423-grag-atrim"
+      }
+    ],
+    "name": "Branch/Butter/Thread Notifier",
+    "description": "alert when you get a rare drop from any action",
+    "url": "https://greasyfork.org/scripts/558184-branch-butter-thread-notifier",
+    "code_url": "https://update.greasyfork.org/scripts/558184/BranchButterThread%20Notifier.user.js",
+    "code_size": 4554,
+    "license": "MIT License",
+    "version": "2025-12-07",
+    "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 558938,
+    "daily_installs": 0,
+    "total_installs": 7,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2025-12-14T19:16:12.000Z",
+    "code_updated_at": "2025-12-20T03:46:11.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1468994,
+        "name": "frotty",
+        "created_at": "2025-05-12T06:06:47.000Z",
+        "url": "https://greasyfork.org/users/1468994-frotty"
+      }
+    ],
+    "name": "Scaley Way Idle",
+    "description": "Change the scale of CombatUnit divs with a draggable control panel",
+    "url": "https://greasyfork.org/scripts/558938-scaley-way-idle",
+    "code_url": "https://update.greasyfork.org/scripts/558938/Scaley%20Way%20Idle.user.js",
+    "code_size": 16449,
+    "license": null,
+    "version": "1.23",
+    "locale": "en",
     "deleted": false
   },
   {
