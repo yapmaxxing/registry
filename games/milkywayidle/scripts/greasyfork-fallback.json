@@ -1,8 +1,8 @@
 [
   {
     "id": 567386,
-    "daily_installs": 14,
-    "total_installs": 2099,
+    "daily_installs": 13,
+    "total_installs": 2100,
     "fan_score": "64.6",
     "good_ratings": 7,
     "ok_ratings": 0,
@@ -33,7 +33,7 @@
   },
   {
     "id": 494467,
-    "daily_installs": 13,
+    "daily_installs": 11,
     "total_installs": 12768,
     "fan_score": "61.9",
     "good_ratings": 20,
@@ -66,7 +66,7 @@
   {
     "id": 499963,
     "daily_installs": 7,
-    "total_installs": 6352,
+    "total_installs": 6353,
     "fan_score": "67.2",
     "good_ratings": 14,
     "ok_ratings": 4,
@@ -98,7 +98,7 @@
   {
     "id": 566829,
     "daily_installs": 7,
-    "total_installs": 2211,
+    "total_installs": 2212,
     "fan_score": "34.2",
     "good_ratings": 2,
     "ok_ratings": 0,
@@ -128,8 +128,40 @@
     "deleted": false
   },
   {
+    "id": 541550,
+    "daily_installs": 5,
+    "total_installs": 743,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2025-07-03T16:56:01.000Z",
+    "code_updated_at": "2025-07-03T17:34:06.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1475215,
+        "name": "yiweilongzxa",
+        "created_at": "2025-05-26T17:54:56.000Z",
+        "url": "https://greasyfork.org/users/1475215-yiweilongzxa"
+      }
+    ],
+    "name": "三采行动计算器",
+    "description": "在网站上显示一个可隐藏的操作面板，计算三采行动所需次数，支持回车切换输入框，自动替换中文句号为英文小数点，输入文字为黑色",
+    "url": "https://greasyfork.org/scripts/541550-%E4%B8%89%E9%87%87%E8%A1%8C%E5%8A%A8%E8%AE%A1%E7%AE%97%E5%99%A8",
+    "code_url": "https://update.greasyfork.org/scripts/541550/%E4%B8%89%E9%87%87%E8%A1%8C%E5%8A%A8%E8%AE%A1%E7%AE%97%E5%99%A8.user.js",
+    "code_size": 9517,
+    "license": "MIT License",
+    "version": "2.0",
+    "locale": "en",
+    "deleted": false
+  },
+  {
     "id": 562662,
-    "daily_installs": 6,
+    "daily_installs": 5,
     "total_installs": 1257,
     "fan_score": "51.0",
     "good_ratings": 4,
@@ -160,35 +192,67 @@
     "deleted": false
   },
   {
-    "id": 541550,
+    "id": 546655,
     "daily_installs": 4,
-    "total_installs": 742,
+    "total_installs": 1618,
     "fan_score": "5.0",
     "good_ratings": 0,
     "ok_ratings": 0,
     "bad_ratings": 0,
-    "created_at": "2025-07-03T16:56:01.000Z",
-    "code_updated_at": "2025-07-03T17:34:06.000Z",
+    "created_at": "2025-08-21T13:14:50.000Z",
+    "code_updated_at": "2026-02-04T21:01:17.000Z",
     "namespace": "http://tampermonkey.net/",
     "support_url": null,
     "contribution_url": null,
     "contribution_amount": null,
     "users": [
       {
-        "id": 1475215,
-        "name": "yiweilongzxa",
-        "created_at": "2025-05-26T17:54:56.000Z",
-        "url": "https://greasyfork.org/users/1475215-yiweilongzxa"
+        "id": 1363590,
+        "name": "Ratatatata",
+        "created_at": "2024-09-05T17:14:45.000Z",
+        "url": "https://greasyfork.org/users/1363590-ratatatata"
       }
     ],
-    "name": "三采行动计算器",
-    "description": "在网站上显示一个可隐藏的操作面板，计算三采行动所需次数，支持回车切换输入框，自动替换中文句号为英文小数点，输入文字为黑色",
-    "url": "https://greasyfork.org/scripts/541550-%E4%B8%89%E9%87%87%E8%A1%8C%E5%8A%A8%E8%AE%A1%E7%AE%97%E5%99%A8",
-    "code_url": "https://update.greasyfork.org/scripts/541550/%E4%B8%89%E9%87%87%E8%A1%8C%E5%8A%A8%E8%AE%A1%E7%AE%97%E5%99%A8.user.js",
-    "code_size": 9517,
+    "name": "[银河奶牛]闻闻屎气",
+    "description": "更屎的代码",
+    "url": "https://greasyfork.org/scripts/546655-%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B-%E9%97%BB%E9%97%BB%E5%B1%8E%E6%B0%94",
+    "code_url": "https://update.greasyfork.org/scripts/546655/%5B%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B%5D%E9%97%BB%E9%97%BB%E5%B1%8E%E6%B0%94.user.js",
+    "code_size": 414688,
     "license": "MIT License",
-    "version": "2.0",
+    "version": "1.0.8.1",
     "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 535181,
+    "daily_installs": 2,
+    "total_installs": 1234,
+    "fan_score": "43.8",
+    "good_ratings": 3,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2025-05-07T02:42:03.000Z",
+    "code_updated_at": "2025-11-06T06:49:31.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 878920,
+        "name": "Artintel (Artintel)",
+        "created_at": "2022-02-21T09:32:34.000Z",
+        "url": "https://greasyfork.org/users/878920-artintel-artintel"
+      }
+    ],
+    "name": "MWI-Hit-Tracker",
+    "description": "战斗过程中实时显示攻击/治疗命中目标",
+    "url": "https://greasyfork.org/scripts/535181-mwi-hit-tracker",
+    "code_url": "https://update.greasyfork.org/scripts/535181/MWI-Hit-Tracker.user.js",
+    "code_size": 41558,
+    "license": "MIT License",
+    "version": "1.2.5",
+    "locale": "zh-CN",
     "deleted": false
   },
   {
@@ -221,70 +285,6 @@
     "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
     "version": "3.6.8",
     "locale": "zh-CN",
-    "deleted": false
-  },
-  {
-    "id": 546655,
-    "daily_installs": 2,
-    "total_installs": 1616,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2025-08-21T13:14:50.000Z",
-    "code_updated_at": "2026-02-04T21:01:17.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1363590,
-        "name": "Ratatatata",
-        "created_at": "2024-09-05T17:14:45.000Z",
-        "url": "https://greasyfork.org/users/1363590-ratatatata"
-      }
-    ],
-    "name": "[银河奶牛]闻闻屎气",
-    "description": "更屎的代码",
-    "url": "https://greasyfork.org/scripts/546655-%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B-%E9%97%BB%E9%97%BB%E5%B1%8E%E6%B0%94",
-    "code_url": "https://update.greasyfork.org/scripts/546655/%5B%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B%5D%E9%97%BB%E9%97%BB%E5%B1%8E%E6%B0%94.user.js",
-    "code_size": 414688,
-    "license": "MIT License",
-    "version": "1.0.8.1",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 582499,
-    "daily_installs": 2,
-    "total_installs": 16,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2026-06-13T10:04:13.000Z",
-    "code_updated_at": "2026-06-13T10:04:12.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1612401,
-        "name": "mortymorty",
-        "created_at": "2026-06-13T09:59:19.000Z",
-        "url": "https://greasyfork.org/users/1612401-mortymorty"
-      }
-    ],
-    "name": "MWI Battle HUD",
-    "description": "A compact top-docked HUD for real-time combat information.",
-    "url": "https://greasyfork.org/scripts/582499-mwi-battle-hud",
-    "code_url": "https://update.greasyfork.org/scripts/582499/MWI%20Battle%20HUD.user.js",
-    "code_size": 71416,
-    "license": "MIT License",
-    "version": "0.2.0",
-    "locale": "en",
     "deleted": false
   },
   {
@@ -384,35 +384,35 @@
     "deleted": false
   },
   {
-    "id": 535181,
+    "id": 533994,
     "daily_installs": 1,
-    "total_installs": 1233,
-    "fan_score": "43.8",
-    "good_ratings": 3,
+    "total_installs": 170,
+    "fan_score": "20.7",
+    "good_ratings": 1,
     "ok_ratings": 0,
     "bad_ratings": 0,
-    "created_at": "2025-05-07T02:42:03.000Z",
-    "code_updated_at": "2025-11-06T06:49:31.000Z",
+    "created_at": "2025-04-25T20:47:28.000Z",
+    "code_updated_at": "2026-05-18T23:55:10.000Z",
     "namespace": "http://tampermonkey.net/",
     "support_url": null,
     "contribution_url": null,
     "contribution_amount": null,
     "users": [
       {
-        "id": 878920,
-        "name": "Artintel (Artintel)",
-        "created_at": "2022-02-21T09:32:34.000Z",
-        "url": "https://greasyfork.org/users/878920-artintel-artintel"
+        "id": 1462151,
+        "name": "AlwaysStargazing",
+        "created_at": "2025-04-25T20:21:21.000Z",
+        "url": "https://greasyfork.org/users/1462151-alwaysstargazing"
       }
     ],
-    "name": "MWI-Hit-Tracker",
-    "description": "战斗过程中实时显示攻击/治疗命中目标",
-    "url": "https://greasyfork.org/scripts/535181-mwi-hit-tracker",
-    "code_url": "https://update.greasyfork.org/scripts/535181/MWI-Hit-Tracker.user.js",
-    "code_size": 41558,
+    "name": "MWI Chat Translator C↔E",
+    "description": "Bidirectional ZH↔EN chat translator for MilkyWay Idle. Google Translate + optional AI (Gemini/Gemma). Inline translations, persistent cache, WebSocket pre-translation, bilingual settings panel.",
+    "url": "https://greasyfork.org/scripts/533994-mwi-chat-translator-c-e",
+    "code_url": "https://update.greasyfork.org/scripts/533994/MWI%20Chat%20Translator%20C%E2%86%94E.user.js",
+    "code_size": 99177,
     "license": "MIT License",
-    "version": "1.2.5",
-    "locale": "zh-CN",
+    "version": "0.6.1",
+    "locale": "en",
     "deleted": false
   },
   {
@@ -604,6 +604,38 @@
     "code_size": 268274,
     "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
     "version": "2.9.3",
+    "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 582499,
+    "daily_installs": 1,
+    "total_installs": 16,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2026-06-13T10:04:13.000Z",
+    "code_updated_at": "2026-06-13T10:04:12.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1612401,
+        "name": "mortymorty",
+        "created_at": "2026-06-13T09:59:19.000Z",
+        "url": "https://greasyfork.org/users/1612401-mortymorty"
+      }
+    ],
+    "name": "MWI Battle HUD",
+    "description": "A compact top-docked HUD for real-time combat information.",
+    "url": "https://greasyfork.org/scripts/582499-mwi-battle-hud",
+    "code_url": "https://update.greasyfork.org/scripts/582499/MWI%20Battle%20HUD.user.js",
+    "code_size": 71416,
+    "license": "MIT License",
+    "version": "0.2.0",
     "locale": "en",
     "deleted": false
   },
@@ -1372,38 +1404,6 @@
     "code_size": 942604,
     "license": "MIT License",
     "version": "2.9.1",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 533994,
-    "daily_installs": 0,
-    "total_installs": 169,
-    "fan_score": "20.7",
-    "good_ratings": 1,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2025-04-25T20:47:28.000Z",
-    "code_updated_at": "2026-05-18T23:55:10.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1462151,
-        "name": "AlwaysStargazing",
-        "created_at": "2025-04-25T20:21:21.000Z",
-        "url": "https://greasyfork.org/users/1462151-alwaysstargazing"
-      }
-    ],
-    "name": "MWI Chat Translator C↔E",
-    "description": "Bidirectional ZH↔EN chat translator for MilkyWay Idle. Google Translate + optional AI (Gemini/Gemma). Inline translations, persistent cache, WebSocket pre-translation, bilingual settings panel.",
-    "url": "https://greasyfork.org/scripts/533994-mwi-chat-translator-c-e",
-    "code_url": "https://update.greasyfork.org/scripts/533994/MWI%20Chat%20Translator%20C%E2%86%94E.user.js",
-    "code_size": 99177,
-    "license": "MIT License",
-    "version": "0.6.1",
     "locale": "en",
     "deleted": false
   },
