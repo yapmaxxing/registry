@@ -1,7 +1,7 @@
 [
   {
     "id": 567386,
-    "daily_installs": 13,
+    "daily_installs": 12,
     "total_installs": 2102,
     "fan_score": "64.6",
     "good_ratings": 7,
@@ -33,8 +33,8 @@
   },
   {
     "id": 494467,
-    "daily_installs": 11,
-    "total_installs": 12770,
+    "daily_installs": 10,
+    "total_installs": 12771,
     "fan_score": "61.9",
     "good_ratings": 20,
     "ok_ratings": 9,
@@ -65,7 +65,7 @@
   },
   {
     "id": 499963,
-    "daily_installs": 10,
+    "daily_installs": 9,
     "total_installs": 6356,
     "fan_score": "67.2",
     "good_ratings": 14,
@@ -97,8 +97,8 @@
   },
   {
     "id": 566829,
-    "daily_installs": 8,
-    "total_installs": 2215,
+    "daily_installs": 9,
+    "total_installs": 2217,
     "fan_score": "34.2",
     "good_ratings": 2,
     "ok_ratings": 0,
@@ -129,7 +129,7 @@
   },
   {
     "id": 541550,
-    "daily_installs": 7,
+    "daily_installs": 5,
     "total_installs": 745,
     "fan_score": "5.0",
     "good_ratings": 0,
@@ -162,7 +162,7 @@
   {
     "id": 546655,
     "daily_installs": 4,
-    "total_installs": 1618,
+    "total_installs": 1620,
     "fan_score": "5.0",
     "good_ratings": 0,
     "ok_ratings": 0,
@@ -193,7 +193,7 @@
   },
   {
     "id": 562662,
-    "daily_installs": 4,
+    "daily_installs": 3,
     "total_installs": 1257,
     "fan_score": "51.0",
     "good_ratings": 4,
@@ -252,6 +252,38 @@
     "code_size": 41558,
     "license": "MIT License",
     "version": "1.2.5",
+    "locale": "zh-CN",
+    "deleted": false
+  },
+  {
+    "id": 538797,
+    "daily_installs": 2,
+    "total_installs": 1521,
+    "fan_score": "86.7",
+    "good_ratings": 31,
+    "ok_ratings": 1,
+    "bad_ratings": 0,
+    "created_at": "2025-06-08T09:00:47.000Z",
+    "code_updated_at": "2025-12-16T10:33:55.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1478363,
+        "name": "CYR2077",
+        "created_at": "2025-06-03T11:30:56.000Z",
+        "url": "https://greasyfork.org/users/1478363-cyr2077"
+      }
+    ],
+    "name": "[银河奶牛] 生产采集增强 / MWI Production & Gathering Enhanced",
+    "description": "计算生产、强化、房屋所需材料并一键购买；显示今日资产增量，统计30天总资产生成走势图；计算生产与炼金实时利润；按照目标材料数量进行采集；快速切换角色；自动收集市场订单；功能支持自定义开关。",
+    "url": "https://greasyfork.org/scripts/538797-%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B-%E7%94%9F%E4%BA%A7%E9%87%87%E9%9B%86%E5%A2%9E%E5%BC%BA-mwi-production-gathering-enhanced",
+    "code_url": "https://update.greasyfork.org/scripts/538797/%5B%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B%5D%20%E7%94%9F%E4%BA%A7%E9%87%87%E9%9B%86%E5%A2%9E%E5%BC%BA%20%20MWI%20Production%20%20Gathering%20Enhanced.user.js",
+    "code_size": 368830,
+    "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
+    "version": "3.6.8",
     "locale": "zh-CN",
     "deleted": false
   },
@@ -380,70 +412,6 @@
     "code_size": 2042696,
     "license": "MIB License",
     "version": "0.9.36235",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 538797,
-    "daily_installs": 1,
-    "total_installs": 1520,
-    "fan_score": "86.7",
-    "good_ratings": 31,
-    "ok_ratings": 1,
-    "bad_ratings": 0,
-    "created_at": "2025-06-08T09:00:47.000Z",
-    "code_updated_at": "2025-12-16T10:33:55.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1478363,
-        "name": "CYR2077",
-        "created_at": "2025-06-03T11:30:56.000Z",
-        "url": "https://greasyfork.org/users/1478363-cyr2077"
-      }
-    ],
-    "name": "[银河奶牛] 生产采集增强 / MWI Production & Gathering Enhanced",
-    "description": "计算生产、强化、房屋所需材料并一键购买；显示今日资产增量，统计30天总资产生成走势图；计算生产与炼金实时利润；按照目标材料数量进行采集；快速切换角色；自动收集市场订单；功能支持自定义开关。",
-    "url": "https://greasyfork.org/scripts/538797-%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B-%E7%94%9F%E4%BA%A7%E9%87%87%E9%9B%86%E5%A2%9E%E5%BC%BA-mwi-production-gathering-enhanced",
-    "code_url": "https://update.greasyfork.org/scripts/538797/%5B%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B%5D%20%E7%94%9F%E4%BA%A7%E9%87%87%E9%9B%86%E5%A2%9E%E5%BC%BA%20%20MWI%20Production%20%20Gathering%20Enhanced.user.js",
-    "code_size": 368830,
-    "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
-    "version": "3.6.8",
-    "locale": "zh-CN",
-    "deleted": false
-  },
-  {
-    "id": 539672,
-    "daily_installs": 1,
-    "total_installs": 1159,
-    "fan_score": "5.5",
-    "good_ratings": 0,
-    "ok_ratings": 1,
-    "bad_ratings": 0,
-    "created_at": "2025-06-16T20:25:43.000Z",
-    "code_updated_at": "2025-11-14T13:59:00.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1484665,
-        "name": "yanisCC",
-        "created_at": "2025-06-16T20:11:38.000Z",
-        "url": "https://greasyfork.org/users/1484665-yaniscc"
-      }
-    ],
-    "name": "[MWI] Realtime Import Of Battle Simulation",
-    "description": "Battle simulation imports the realtime configuration of the current character.",
-    "url": "https://greasyfork.org/scripts/539672-mwi-realtime-import-of-battle-simulation",
-    "code_url": "https://update.greasyfork.org/scripts/539672/%5B%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B%5D%E6%88%98%E6%96%97%E6%A8%A1%E6%8B%9F%E5%AE%9E%E6%97%B6%E5%AF%BC%E5%85%A5.user.js",
-    "code_size": 47510,
-    "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
-    "version": "0.3.6",
     "locale": "en",
     "deleted": false
   },
@@ -2076,6 +2044,38 @@
     "code_size": 495813,
     "license": "ISC License",
     "version": "1.0.0-2025-10-24_265c3c0",
+    "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 539672,
+    "daily_installs": 0,
+    "total_installs": 1159,
+    "fan_score": "5.5",
+    "good_ratings": 0,
+    "ok_ratings": 1,
+    "bad_ratings": 0,
+    "created_at": "2025-06-16T20:25:43.000Z",
+    "code_updated_at": "2025-11-14T13:59:00.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1484665,
+        "name": "yanisCC",
+        "created_at": "2025-06-16T20:11:38.000Z",
+        "url": "https://greasyfork.org/users/1484665-yaniscc"
+      }
+    ],
+    "name": "[MWI] Realtime Import Of Battle Simulation",
+    "description": "Battle simulation imports the realtime configuration of the current character.",
+    "url": "https://greasyfork.org/scripts/539672-mwi-realtime-import-of-battle-simulation",
+    "code_url": "https://update.greasyfork.org/scripts/539672/%5B%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B%5D%E6%88%98%E6%96%97%E6%A8%A1%E6%8B%9F%E5%AE%9E%E6%97%B6%E5%AF%BC%E5%85%A5.user.js",
+    "code_size": 47510,
+    "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
+    "version": "0.3.6",
     "locale": "en",
     "deleted": false
   },
