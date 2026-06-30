@@ -1,8 +1,8 @@
 [
   {
     "id": 566829,
-    "daily_installs": 11,
-    "total_installs": 2242,
+    "daily_installs": 12,
+    "total_installs": 2243,
     "fan_score": "34.2",
     "good_ratings": 2,
     "ok_ratings": 0,
@@ -33,8 +33,8 @@
   },
   {
     "id": 494467,
-    "daily_installs": 10,
-    "total_installs": 12798,
+    "daily_installs": 11,
+    "total_installs": 12800,
     "fan_score": "63.0",
     "good_ratings": 21,
     "ok_ratings": 9,
@@ -64,41 +64,9 @@
     "deleted": false
   },
   {
-    "id": 499963,
-    "daily_installs": 8,
-    "total_installs": 6385,
-    "fan_score": "67.2",
-    "good_ratings": 14,
-    "ok_ratings": 4,
-    "bad_ratings": 0,
-    "created_at": "2024-07-08T00:48:21.000Z",
-    "code_updated_at": "2026-05-16T01:24:27.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1313709,
-        "name": "Truth_Light",
-        "created_at": "2024-06-07T02:52:25.000Z",
-        "url": "https://greasyfork.org/users/1313709-truth-light"
-      }
-    ],
-    "name": "[银河奶牛]食用工具",
-    "description": "开箱记录、箱子期望、离线统计、公会钉钉、食物警察、掉落追踪、强化统计、地牢计算",
-    "url": "https://greasyfork.org/scripts/499963-%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B-%E9%A3%9F%E7%94%A8%E5%B7%A5%E5%85%B7",
-    "code_url": "https://update.greasyfork.org/scripts/499963/%5B%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B%5D%E9%A3%9F%E7%94%A8%E5%B7%A5%E5%85%B7.user.js",
-    "code_size": 276838,
-    "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
-    "version": "0.508",
-    "locale": "zh-CN",
-    "deleted": false
-  },
-  {
     "id": 567386,
-    "daily_installs": 8,
-    "total_installs": 2136,
+    "daily_installs": 10,
+    "total_installs": 2139,
     "fan_score": "64.6",
     "good_ratings": 7,
     "ok_ratings": 0,
@@ -124,6 +92,38 @@
     "code_size": 383490,
     "license": "MIT License",
     "version": "2.2.1",
+    "locale": "zh-CN",
+    "deleted": false
+  },
+  {
+    "id": 499963,
+    "daily_installs": 9,
+    "total_installs": 6387,
+    "fan_score": "67.2",
+    "good_ratings": 14,
+    "ok_ratings": 4,
+    "bad_ratings": 0,
+    "created_at": "2024-07-08T00:48:21.000Z",
+    "code_updated_at": "2026-05-16T01:24:27.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1313709,
+        "name": "Truth_Light",
+        "created_at": "2024-06-07T02:52:25.000Z",
+        "url": "https://greasyfork.org/users/1313709-truth-light"
+      }
+    ],
+    "name": "[银河奶牛]食用工具",
+    "description": "开箱记录、箱子期望、离线统计、公会钉钉、食物警察、掉落追踪、强化统计、地牢计算",
+    "url": "https://greasyfork.org/scripts/499963-%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B-%E9%A3%9F%E7%94%A8%E5%B7%A5%E5%85%B7",
+    "code_url": "https://update.greasyfork.org/scripts/499963/%5B%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B%5D%E9%A3%9F%E7%94%A8%E5%B7%A5%E5%85%B7.user.js",
+    "code_size": 276838,
+    "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
+    "version": "0.508",
     "locale": "zh-CN",
     "deleted": false
   },
@@ -162,7 +162,7 @@
   {
     "id": 535181,
     "daily_installs": 3,
-    "total_installs": 1239,
+    "total_installs": 1240,
     "fan_score": "43.8",
     "good_ratings": 3,
     "ok_ratings": 0,
@@ -288,38 +288,6 @@
     "deleted": false
   },
   {
-    "id": 538797,
-    "daily_installs": 2,
-    "total_installs": 1525,
-    "fan_score": "86.7",
-    "good_ratings": 31,
-    "ok_ratings": 1,
-    "bad_ratings": 0,
-    "created_at": "2025-06-08T09:00:47.000Z",
-    "code_updated_at": "2025-12-16T10:33:55.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1478363,
-        "name": "CYR2077",
-        "created_at": "2025-06-03T11:30:56.000Z",
-        "url": "https://greasyfork.org/users/1478363-cyr2077"
-      }
-    ],
-    "name": "[银河奶牛] 生产采集增强 / MWI Production & Gathering Enhanced",
-    "description": "计算生产、强化、房屋所需材料并一键购买；显示今日资产增量，统计30天总资产生成走势图；计算生产与炼金实时利润；按照目标材料数量进行采集；快速切换角色；自动收集市场订单；功能支持自定义开关。",
-    "url": "https://greasyfork.org/scripts/538797-%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B-%E7%94%9F%E4%BA%A7%E9%87%87%E9%9B%86%E5%A2%9E%E5%BC%BA-mwi-production-gathering-enhanced",
-    "code_url": "https://update.greasyfork.org/scripts/538797/%5B%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B%5D%20%E7%94%9F%E4%BA%A7%E9%87%87%E9%9B%86%E5%A2%9E%E5%BC%BA%20%20MWI%20Production%20%20Gathering%20Enhanced.user.js",
-    "code_size": 368830,
-    "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
-    "version": "3.6.8",
-    "locale": "zh-CN",
-    "deleted": false
-  },
-  {
     "id": 539672,
     "daily_installs": 2,
     "total_installs": 1163,
@@ -348,70 +316,6 @@
     "code_size": 47510,
     "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
     "version": "0.3.6",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 498209,
-    "daily_installs": 1,
-    "total_installs": 370,
-    "fan_score": "0.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 1,
-    "created_at": "2024-06-18T00:59:55.000Z",
-    "code_updated_at": "2024-07-09T10:56:30.000Z",
-    "namespace": "destiny",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1313709,
-        "name": "Truth_Light",
-        "created_at": "2024-06-07T02:52:25.000Z",
-        "url": "https://greasyfork.org/users/1313709-truth-light"
-      }
-    ],
-    "name": "[银河奶牛]DPS显示 - DPS Display for Milky Way",
-    "description": "显示DPS，魔改自ponchain Ched佬的代码",
-    "url": "https://greasyfork.org/scripts/498209-%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B-dps%E6%98%BE%E7%A4%BA-dps-display-for-milky-way",
-    "code_url": "https://update.greasyfork.org/scripts/498209/%5B%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B%5DDPS%E6%98%BE%E7%A4%BA%20-%20DPS%20Display%20for%20Milky%20Way.user.js",
-    "code_size": 4268,
-    "license": "Truth_Light",
-    "version": "1.03",
-    "locale": "zh-CN",
-    "deleted": false
-  },
-  {
-    "id": 501447,
-    "daily_installs": 1,
-    "total_installs": 227,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2024-07-22T05:32:02.000Z",
-    "code_updated_at": "2024-07-25T18:03:29.000Z",
-    "namespace": "TheVoid...",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1338004,
-        "name": "TheVoid",
-        "created_at": "2024-07-22T05:28:58.000Z",
-        "url": "https://greasyfork.org/users/1338004-thevoid"
-      }
-    ],
-    "name": "MilkyWayIdleCombatSim",
-    "description": "Milky Way Idle Combat Simulator",
-    "url": "https://greasyfork.org/scripts/501447-milkywayidlecombatsim",
-    "code_url": "https://update.greasyfork.org/scripts/501447/MilkyWayIdleCombatSim.user.js",
-    "code_size": 128258,
-    "license": null,
-    "version": "0.0.4",
     "locale": "en",
     "deleted": false
   },
@@ -448,67 +352,35 @@
     "deleted": false
   },
   {
-    "id": 535848,
+    "id": 538797,
     "daily_installs": 1,
-    "total_installs": 74,
-    "fan_score": "9.5",
-    "good_ratings": 0,
-    "ok_ratings": 2,
+    "total_installs": 1525,
+    "fan_score": "86.7",
+    "good_ratings": 31,
+    "ok_ratings": 1,
     "bad_ratings": 0,
-    "created_at": "2025-05-13T02:57:01.000Z",
-    "code_updated_at": "2025-05-15T14:04:05.000Z",
+    "created_at": "2025-06-08T09:00:47.000Z",
+    "code_updated_at": "2025-12-16T10:33:55.000Z",
     "namespace": "http://tampermonkey.net/",
     "support_url": null,
     "contribution_url": null,
     "contribution_amount": null,
     "users": [
       {
-        "id": 1080349,
-        "name": "Volta-XTY",
-        "created_at": "2023-05-17T05:40:16.000Z",
-        "url": "https://greasyfork.org/users/1080349-volta-xty"
+        "id": 1478363,
+        "name": "CYR2077",
+        "created_at": "2025-06-03T11:30:56.000Z",
+        "url": "https://greasyfork.org/users/1478363-cyr2077"
       }
     ],
-    "name": "Better MWI Chat",
-    "description": "Make Chat Great Again!",
-    "url": "https://greasyfork.org/scripts/535848-better-mwi-chat",
-    "code_url": "https://update.greasyfork.org/scripts/535848/Better%20MWI%20Chat.user.js",
-    "code_size": 16332,
-    "license": null,
-    "version": "1.3.3",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 540440,
-    "daily_installs": 1,
-    "total_installs": 477,
-    "fan_score": "56.6",
-    "good_ratings": 5,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2025-06-22T21:12:02.000Z",
-    "code_updated_at": "2025-10-15T20:06:07.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1484691,
-        "name": "byteArray567",
-        "created_at": "2025-06-16T23:34:12.000Z",
-        "url": "https://greasyfork.org/users/1484691-bytearray567"
-      }
-    ],
-    "name": "MWITools - Extended",
-    "description": "Extention for MWITools.",
-    "url": "https://greasyfork.org/scripts/540440-mwitools-extended",
-    "code_url": "https://update.greasyfork.org/scripts/540440/MWITools%20-%20Extended.user.js",
-    "code_size": 579495,
+    "name": "[银河奶牛] 生产采集增强 / MWI Production & Gathering Enhanced",
+    "description": "计算生产、强化、房屋所需材料并一键购买；显示今日资产增量，统计30天总资产生成走势图；计算生产与炼金实时利润；按照目标材料数量进行采集；快速切换角色；自动收集市场订单；功能支持自定义开关。",
+    "url": "https://greasyfork.org/scripts/538797-%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B-%E7%94%9F%E4%BA%A7%E9%87%87%E9%9B%86%E5%A2%9E%E5%BC%BA-mwi-production-gathering-enhanced",
+    "code_url": "https://update.greasyfork.org/scripts/538797/%5B%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B%5D%20%E7%94%9F%E4%BA%A7%E9%87%87%E9%9B%86%E5%A2%9E%E5%BC%BA%20%20MWI%20Production%20%20Gathering%20Enhanced.user.js",
+    "code_size": 368830,
     "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
-    "version": "23.3.9.3",
-    "locale": "en",
+    "version": "3.6.8",
+    "locale": "zh-CN",
     "deleted": false
   },
   {
@@ -608,6 +480,70 @@
     "deleted": false
   },
   {
+    "id": 498209,
+    "daily_installs": 1,
+    "total_installs": 370,
+    "fan_score": "0.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 1,
+    "created_at": "2024-06-18T00:59:55.000Z",
+    "code_updated_at": "2024-07-09T10:56:30.000Z",
+    "namespace": "destiny",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1313709,
+        "name": "Truth_Light",
+        "created_at": "2024-06-07T02:52:25.000Z",
+        "url": "https://greasyfork.org/users/1313709-truth-light"
+      }
+    ],
+    "name": "[银河奶牛]DPS显示 - DPS Display for Milky Way",
+    "description": "显示DPS，魔改自ponchain Ched佬的代码",
+    "url": "https://greasyfork.org/scripts/498209-%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B-dps%E6%98%BE%E7%A4%BA-dps-display-for-milky-way",
+    "code_url": "https://update.greasyfork.org/scripts/498209/%5B%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B%5DDPS%E6%98%BE%E7%A4%BA%20-%20DPS%20Display%20for%20Milky%20Way.user.js",
+    "code_size": 4268,
+    "license": "Truth_Light",
+    "version": "1.03",
+    "locale": "zh-CN",
+    "deleted": false
+  },
+  {
+    "id": 501447,
+    "daily_installs": 1,
+    "total_installs": 227,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2024-07-22T05:32:02.000Z",
+    "code_updated_at": "2024-07-25T18:03:29.000Z",
+    "namespace": "TheVoid...",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1338004,
+        "name": "TheVoid",
+        "created_at": "2024-07-22T05:28:58.000Z",
+        "url": "https://greasyfork.org/users/1338004-thevoid"
+      }
+    ],
+    "name": "MilkyWayIdleCombatSim",
+    "description": "Milky Way Idle Combat Simulator",
+    "url": "https://greasyfork.org/scripts/501447-milkywayidlecombatsim",
+    "code_url": "https://update.greasyfork.org/scripts/501447/MilkyWayIdleCombatSim.user.js",
+    "code_size": 128258,
+    "license": null,
+    "version": "0.0.4",
+    "locale": "en",
+    "deleted": false
+  },
+  {
     "id": 580553,
     "daily_installs": 1,
     "total_installs": 22,
@@ -700,262 +636,6 @@
     "code_size": 34527,
     "license": "MIT License",
     "version": "2.3.1",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 449785,
-    "daily_installs": 0,
-    "total_installs": 18,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2022-08-18T16:40:12.000Z",
-    "code_updated_at": "2022-08-18T19:28:19.000Z",
-    "namespace": "SobieskiCodes",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 940827,
-        "name": "SobieskiCodes",
-        "created_at": "2022-07-28T20:41:11.000Z",
-        "url": "https://greasyfork.org/users/940827-sobieskicodes"
-      }
-    ],
-    "name": "NoCheapskates",
-    "description": "[12:34:09 AM] TheMainLogic: someone make a script where i cant see bid offers of 1 and 2 coins please",
-    "url": "https://greasyfork.org/scripts/449785-nocheapskates",
-    "code_url": "https://update.greasyfork.org/scripts/449785/NoCheapskates.user.js",
-    "code_size": 3917,
-    "license": null,
-    "version": "0.3",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 498153,
-    "daily_installs": 0,
-    "total_installs": 61,
-    "fan_score": "34.2",
-    "good_ratings": 2,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2024-06-17T09:51:04.000Z",
-    "code_updated_at": "2024-06-17T14:47:17.000Z",
-    "namespace": "destiny",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1319436,
-        "name": "ponchain",
-        "created_at": "2024-06-17T07:58:00.000Z",
-        "url": "https://greasyfork.org/users/1319436-ponchain"
-      }
-    ],
-    "name": "MWI_DamageTracker",
-    "description": "MWI伤害统计",
-    "url": "https://greasyfork.org/scripts/498153-mwi-damagetracker",
-    "code_url": "https://update.greasyfork.org/scripts/498153/MWI_DamageTracker.user.js",
-    "code_size": 4332,
-    "license": "MIT License",
-    "version": "0.0.5",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 498970,
-    "daily_installs": 0,
-    "total_installs": 179,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2024-06-26T13:09:52.000Z",
-    "code_updated_at": "2024-06-26T13:09:52.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1323125,
-        "name": "Fitzmaz",
-        "created_at": "2024-06-24T10:26:21.000Z",
-        "url": "https://greasyfork.org/users/1323125-fitzmaz"
-      }
-    ],
-    "name": "MWI Market Price History Viewer",
-    "description": "This script integrates historical price charts of items directly into the market pages of MWI.",
-    "url": "https://greasyfork.org/scripts/498970-mwi-market-price-history-viewer",
-    "code_url": "https://update.greasyfork.org/scripts/498970/MWI%20Market%20Price%20History%20Viewer.user.js",
-    "code_size": 12755,
-    "license": "MIT License",
-    "version": "0.3",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 500750,
-    "daily_installs": 0,
-    "total_installs": 160,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2024-07-15T20:31:32.000Z",
-    "code_updated_at": "2024-09-22T13:31:17.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1313709,
-        "name": "Truth_Light",
-        "created_at": "2024-06-07T02:52:25.000Z",
-        "url": "https://greasyfork.org/users/1313709-truth-light"
-      }
-    ],
-    "name": "[Mwi]Guild Details Display",
-    "description": "Display more detailed data on the guild page.",
-    "url": "https://greasyfork.org/scripts/500750-mwi-guild-details-display",
-    "code_url": "https://update.greasyfork.org/scripts/500750/%5BMwi%5DGuild%20Details%20Display.user.js",
-    "code_size": 13971,
-    "license": null,
-    "version": "1.05",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 501826,
-    "daily_installs": 0,
-    "total_installs": 40,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2024-07-26T07:26:49.000Z",
-    "code_updated_at": "2024-07-26T08:22:24.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1340025,
-        "name": "MangoFlavor",
-        "created_at": "2024-07-26T07:05:42.000Z",
-        "url": "https://greasyfork.org/users/1340025-mangoflavor"
-      }
-    ],
-    "name": "MW emoji",
-    "description": "Add emojis to the game chat",
-    "url": "https://greasyfork.org/scripts/501826-mw-emoji",
-    "code_url": "https://update.greasyfork.org/scripts/501826/MW%20emoji.user.js",
-    "code_size": 6984,
-    "license": "MIT License",
-    "version": "2024-07-25",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 502083,
-    "daily_installs": 0,
-    "total_installs": 84,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2024-07-29T13:26:03.000Z",
-    "code_updated_at": "2024-08-16T14:51:40.000Z",
-    "namespace": "https://github.com/tobytorn",
-    "support_url": "https://github.com/tobytorn/mwi-loadout-manager",
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1055710,
-        "name": "tobytorn",
-        "created_at": "2023-04-08T03:02:24.000Z",
-        "url": "https://greasyfork.org/users/1055710-tobytorn"
-      }
-    ],
-    "name": "MWI Loadout Manager",
-    "description": "Setup loadout according to Combat Simulator export files",
-    "url": "https://greasyfork.org/scripts/502083-mwi-loadout-manager",
-    "code_url": "https://update.greasyfork.org/scripts/502083/MWI%20Loadout%20Manager.user.js",
-    "code_size": 45945,
-    "license": "MIT License",
-    "version": "1.0.1",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 506960,
-    "daily_installs": 0,
-    "total_installs": 475,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2024-09-05T12:41:59.000Z",
-    "code_updated_at": "2024-11-23T14:24:39.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1313709,
-        "name": "Truth_Light",
-        "created_at": "2024-06-07T02:52:25.000Z",
-        "url": "https://greasyfork.org/users/1313709-truth-light"
-      }
-    ],
-    "name": "[MWI]Enhancement Tool",
-    "description": "Track the number of enhancement successes and failures",
-    "url": "https://greasyfork.org/scripts/506960-mwi-enhancement-tool",
-    "code_url": "https://update.greasyfork.org/scripts/506960/%5BMWI%5DEnhancement%20Tool.user.js",
-    "code_size": 13183,
-    "license": "Truth_Light",
-    "version": "1.10",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 507230,
-    "daily_installs": 0,
-    "total_installs": 22,
-    "fan_score": "0.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 1,
-    "created_at": "2024-09-07T02:32:45.000Z",
-    "code_updated_at": "2025-11-07T04:14:02.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1354753,
-        "name": "xiaoshui05",
-        "created_at": "2024-08-20T00:06:36.000Z",
-        "url": "https://greasyfork.org/users/1354753-xiaoshui05"
-      }
-    ],
-    "name": "MWIFavorites",
-    "description": "收藏和数量跟踪 (支持中英文双语)",
-    "url": "https://greasyfork.org/scripts/507230-mwifavorites",
-    "code_url": "https://update.greasyfork.org/scripts/507230/MWIFavorites.user.js",
-    "code_size": 132283,
-    "license": null,
-    "version": "1.1.8",
     "locale": "en",
     "deleted": false
   },
@@ -1792,6 +1472,38 @@
     "deleted": false
   },
   {
+    "id": 535848,
+    "daily_installs": 0,
+    "total_installs": 74,
+    "fan_score": "9.5",
+    "good_ratings": 0,
+    "ok_ratings": 2,
+    "bad_ratings": 0,
+    "created_at": "2025-05-13T02:57:01.000Z",
+    "code_updated_at": "2025-05-15T14:04:05.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1080349,
+        "name": "Volta-XTY",
+        "created_at": "2023-05-17T05:40:16.000Z",
+        "url": "https://greasyfork.org/users/1080349-volta-xty"
+      }
+    ],
+    "name": "Better MWI Chat",
+    "description": "Make Chat Great Again!",
+    "url": "https://greasyfork.org/scripts/535848-better-mwi-chat",
+    "code_url": "https://update.greasyfork.org/scripts/535848/Better%20MWI%20Chat.user.js",
+    "code_size": 16332,
+    "license": null,
+    "version": "1.3.3",
+    "locale": "en",
+    "deleted": false
+  },
+  {
     "id": 535877,
     "daily_installs": 0,
     "total_installs": 33,
@@ -2140,6 +1852,38 @@
     "code_size": 140030,
     "license": "MIT License",
     "version": "1.12.1",
+    "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 540440,
+    "daily_installs": 0,
+    "total_installs": 477,
+    "fan_score": "56.6",
+    "good_ratings": 5,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2025-06-22T21:12:02.000Z",
+    "code_updated_at": "2025-10-15T20:06:07.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1484691,
+        "name": "byteArray567",
+        "created_at": "2025-06-16T23:34:12.000Z",
+        "url": "https://greasyfork.org/users/1484691-bytearray567"
+      }
+    ],
+    "name": "MWITools - Extended",
+    "description": "Extention for MWITools.",
+    "url": "https://greasyfork.org/scripts/540440-mwitools-extended",
+    "code_url": "https://update.greasyfork.org/scripts/540440/MWITools%20-%20Extended.user.js",
+    "code_size": 579495,
+    "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
+    "version": "23.3.9.3",
     "locale": "en",
     "deleted": false
   },
@@ -2784,166 +2528,6 @@
     "deleted": false
   },
   {
-    "id": 553378,
-    "daily_installs": 0,
-    "total_installs": 46,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2025-10-22T13:57:55.000Z",
-    "code_updated_at": "2026-06-11T04:57:04.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1441824,
-        "name": "Bong MM",
-        "created_at": "2025-03-03T10:00:43.000Z",
-        "url": "https://greasyfork.org/users/1441824-bong-mm"
-      }
-    ],
-    "name": "[银河奶牛]自动填充强化数据",
-    "description": "从本地自动填充强化数据",
-    "url": "https://greasyfork.org/scripts/553378-%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B-%E8%87%AA%E5%8A%A8%E5%A1%AB%E5%85%85%E5%BC%BA%E5%8C%96%E6%95%B0%E6%8D%AE",
-    "code_url": "https://update.greasyfork.org/scripts/553378/%5B%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B%5D%E8%87%AA%E5%8A%A8%E5%A1%AB%E5%85%85%E5%BC%BA%E5%8C%96%E6%95%B0%E6%8D%AE.user.js",
-    "code_size": 68435,
-    "license": "MIT License",
-    "version": "1.4.3",
-    "locale": "zh-CN",
-    "deleted": false
-  },
-  {
-    "id": 553755,
-    "daily_installs": 0,
-    "total_installs": 16,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2025-10-26T11:26:54.000Z",
-    "code_updated_at": "2026-02-26T03:26:24.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1468994,
-        "name": "frotty",
-        "created_at": "2025-05-12T06:06:47.000Z",
-        "url": "https://greasyfork.org/users/1468994-frotty"
-      }
-    ],
-    "name": "Hidey Way Idle",
-    "description": "Toggle visibility of various page elements in Milky Way Idle and draggable nav bar",
-    "url": "https://greasyfork.org/scripts/553755-hidey-way-idle",
-    "code_url": "https://update.greasyfork.org/scripts/553755/Hidey%20Way%20Idle.user.js",
-    "code_size": 61702,
-    "license": null,
-    "version": "2.60",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 554655,
-    "daily_installs": 0,
-    "total_installs": 4,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2025-11-03T16:19:54.000Z",
-    "code_updated_at": "2025-11-06T17:23:13.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1533735,
-        "name": "WekizZ",
-        "created_at": "2025-11-03T16:10:06.000Z",
-        "url": "https://greasyfork.org/users/1533735-wekizz"
-      }
-    ],
-    "name": "WWW Guild Panel Sorter",
-    "description": "Adds sorting functionality and activity highlighting to MWI Guild Panel",
-    "url": "https://greasyfork.org/scripts/554655-www-guild-panel-sorter",
-    "code_url": "https://update.greasyfork.org/scripts/554655/WWW%20Guild%20Panel%20Sorter.user.js",
-    "code_size": 10244,
-    "license": "MIT License",
-    "version": "1.4",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 554704,
-    "daily_installs": 0,
-    "total_installs": 20,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2025-11-04T05:12:37.000Z",
-    "code_updated_at": "2025-11-11T05:05:03.000Z",
-    "namespace": "http://tampermonkey.net/",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1533857,
-        "name": "Defenestration",
-        "created_at": "2025-11-04T05:04:31.000Z",
-        "url": "https://greasyfork.org/users/1533857-defenestration"
-      }
-    ],
-    "name": "MWI - Real life networth",
-    "description": "Shows you how much your networth is valued in your local currency using live Cowbell rates and real exchange conversions from USD to your locale currency.",
-    "url": "https://greasyfork.org/scripts/554704-mwi-real-life-networth",
-    "code_url": "https://update.greasyfork.org/scripts/554704/MWI%20-%20Real%20life%20networth.user.js",
-    "code_size": 7055,
-    "license": "MIT License",
-    "version": "2.2",
-    "locale": "en",
-    "deleted": false
-  },
-  {
-    "id": 555252,
-    "daily_installs": 0,
-    "total_installs": 11,
-    "fan_score": "5.0",
-    "good_ratings": 0,
-    "ok_ratings": 0,
-    "bad_ratings": 0,
-    "created_at": "2025-11-09T01:27:30.000Z",
-    "code_updated_at": "2025-11-12T13:11:39.000Z",
-    "namespace": "ignantgaming.mwi",
-    "support_url": null,
-    "contribution_url": null,
-    "contribution_amount": null,
-    "users": [
-      {
-        "id": 1535785,
-        "name": "IgnantGaming",
-        "created_at": "2025-11-09T01:23:40.000Z",
-        "url": "https://greasyfork.org/users/1535785-ignantgaming"
-      }
-    ],
-    "name": "MWI → XP Planner",
-    "description": "Save combat-skill snapshots with tags; open them on your GitHub planner.",
-    "url": "https://greasyfork.org/scripts/555252-mwi-xp-planner",
-    "code_url": "https://update.greasyfork.org/scripts/555252/MWI%20%E2%86%92%20XP%20Planner.user.js",
-    "code_size": 34296,
-    "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
-    "version": "1.2.0",
-    "locale": "en",
-    "deleted": false
-  },
-  {
     "id": 555866,
     "daily_installs": 0,
     "total_installs": 24,
@@ -3200,6 +2784,38 @@
     "deleted": false
   },
   {
+    "id": 558938,
+    "daily_installs": 0,
+    "total_installs": 7,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2025-12-14T19:16:12.000Z",
+    "code_updated_at": "2025-12-20T03:46:11.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1468994,
+        "name": "frotty",
+        "created_at": "2025-05-12T06:06:47.000Z",
+        "url": "https://greasyfork.org/users/1468994-frotty"
+      }
+    ],
+    "name": "Scaley Way Idle",
+    "description": "Change the scale of CombatUnit divs with a draggable control panel",
+    "url": "https://greasyfork.org/scripts/558938-scaley-way-idle",
+    "code_url": "https://update.greasyfork.org/scripts/558938/Scaley%20Way%20Idle.user.js",
+    "code_size": 16449,
+    "license": null,
+    "version": "1.23",
+    "locale": "en",
+    "deleted": false
+  },
+  {
     "id": 559617,
     "daily_installs": 0,
     "total_installs": 16,
@@ -3296,6 +2912,38 @@
     "deleted": false
   },
   {
+    "id": 563424,
+    "daily_installs": 0,
+    "total_installs": 14,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2026-01-21T02:37:36.000Z",
+    "code_updated_at": "2026-03-15T16:29:32.000Z",
+    "namespace": "tampermonkey.net",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1562932,
+        "name": "KelleNPT",
+        "created_at": "2026-01-21T02:33:09.000Z",
+        "url": "https://greasyfork.org/users/1562932-kellenpt"
+      }
+    ],
+    "name": "MilkyWayIdle Fullscreen IDE Chat",
+    "description": "Fullscreen chat overlay to focus on game chat. Useful for general users, but especially for admins, moderators, and the game owner.",
+    "url": "https://greasyfork.org/scripts/563424-milkywayidle-fullscreen-ide-chat",
+    "code_url": "https://update.greasyfork.org/scripts/563424/MilkyWayIdle%20Fullscreen%20IDE%20Chat.user.js",
+    "code_size": 76119,
+    "license": "MIT License",
+    "version": "0.1.5",
+    "locale": "en",
+    "deleted": false
+  },
+  {
     "id": 563561,
     "daily_installs": 0,
     "total_installs": 1,
@@ -3324,6 +2972,70 @@
     "code_size": 54854,
     "license": "MIT License",
     "version": "4.4.0",
+    "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 563790,
+    "daily_installs": 0,
+    "total_installs": 3,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2026-01-23T18:07:37.000Z",
+    "code_updated_at": "2026-01-23T19:34:12.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1563895,
+        "name": "Damodredd",
+        "created_at": "2026-01-23T18:05:32.000Z",
+        "url": "https://greasyfork.org/users/1563895-damodredd"
+      }
+    ],
+    "name": "HP Zero Alarm",
+    "description": "Alert when HP reaches zero in Milky Way Idle combat",
+    "url": "https://greasyfork.org/scripts/563790-hp-zero-alarm",
+    "code_url": "https://update.greasyfork.org/scripts/563790/HP%20Zero%20Alarm.user.js",
+    "code_size": 11782,
+    "license": "MIT License",
+    "version": "1.1",
+    "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 563875,
+    "daily_installs": 0,
+    "total_installs": 1,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2026-01-24T08:33:30.000Z",
+    "code_updated_at": "2026-01-24T08:33:30.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1564064,
+        "name": "hsin75",
+        "created_at": "2026-01-24T08:31:51.000Z",
+        "url": "https://greasyfork.org/users/1564064-hsin75"
+      }
+    ],
+    "name": "MWI Guild xp extractor",
+    "description": "Extracts out the guild xp for each member for the guild xp sheet",
+    "url": "https://greasyfork.org/scripts/563875-mwi-guild-xp-extractor",
+    "code_url": "https://update.greasyfork.org/scripts/563875/MWI%20Guild%20xp%20extractor.user.js",
+    "code_size": 6273,
+    "license": "MIT License",
+    "version": "2026-01-24",
     "locale": "en",
     "deleted": false
   },
@@ -3388,6 +3100,70 @@
     "code_size": 58839,
     "license": "MIT License",
     "version": "1.21",
+    "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 565475,
+    "daily_installs": 0,
+    "total_installs": 17,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2026-02-07T08:19:30.000Z",
+    "code_updated_at": "2026-02-07T08:19:30.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1533735,
+        "name": "WekizZ",
+        "created_at": "2025-11-03T16:10:06.000Z",
+        "url": "https://greasyfork.org/users/1533735-wekizz"
+      }
+    ],
+    "name": "WWW Auto Return to Tasks",
+    "description": "Automatically returns to the Tasks panel in Milky Way Idle after starting a task or closing detail windows. Makes task management more efficient.",
+    "url": "https://greasyfork.org/scripts/565475-www-auto-return-to-tasks",
+    "code_url": "https://update.greasyfork.org/scripts/565475/WWW%20Auto%20Return%20to%20Tasks.user.js",
+    "code_size": 3819,
+    "license": "MIT License",
+    "version": "1.1",
+    "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 565871,
+    "daily_installs": 0,
+    "total_installs": 0,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2026-02-10T18:52:44.000Z",
+    "code_updated_at": "2026-02-11T10:30:45.000Z",
+    "namespace": "https://www.milkywayidle.com/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1569548,
+        "name": "SilkyPanda",
+        "created_at": "2026-02-10T18:49:44.000Z",
+        "url": "https://greasyfork.org/users/1569548-silkypanda"
+      }
+    ],
+    "name": "MilkyWayIdle Chat History Extender",
+    "description": "Makes The Chat History Longer",
+    "url": "https://greasyfork.org/scripts/565871-milkywayidle-chat-history-extender",
+    "code_url": "https://update.greasyfork.org/scripts/565871/MilkyWayIdle%20Chat%20History%20Extender.user.js",
+    "code_size": 8674,
+    "license": "MIT License",
+    "version": "2.0",
     "locale": "en",
     "deleted": false
   },
@@ -3712,6 +3488,70 @@
     "deleted": false
   },
   {
+    "id": 507230,
+    "daily_installs": 0,
+    "total_installs": 22,
+    "fan_score": "0.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 1,
+    "created_at": "2024-09-07T02:32:45.000Z",
+    "code_updated_at": "2025-11-07T04:14:02.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1354753,
+        "name": "xiaoshui05",
+        "created_at": "2024-08-20T00:06:36.000Z",
+        "url": "https://greasyfork.org/users/1354753-xiaoshui05"
+      }
+    ],
+    "name": "MWIFavorites",
+    "description": "收藏和数量跟踪 (支持中英文双语)",
+    "url": "https://greasyfork.org/scripts/507230-mwifavorites",
+    "code_url": "https://update.greasyfork.org/scripts/507230/MWIFavorites.user.js",
+    "code_size": 132283,
+    "license": null,
+    "version": "1.1.8",
+    "locale": "en",
+    "deleted": false
+  },
+  {
+    "id": 575998,
+    "daily_installs": 0,
+    "total_installs": 8,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2026-04-30T04:48:19.000Z",
+    "code_updated_at": "2026-05-13T07:25:34.000Z",
+    "namespace": "http://tampermonkey.net/",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1460501,
+        "name": "syabusyabukun",
+        "created_at": "2025-04-21T11:12:05.000Z",
+        "url": "https://greasyfork.org/users/1460501-syabusyabukun"
+      }
+    ],
+    "name": "MWI Tooltip Float Window",
+    "description": "Displays mouseover-only tooltips (likely bloated by various extensions) in a draggable float window that stays visible at your preferred position.",
+    "url": "https://greasyfork.org/scripts/575998-mwi-tooltip-float-window",
+    "code_url": "https://update.greasyfork.org/scripts/575998/MWI%20Tooltip%20Float%20Window.user.js",
+    "code_size": 14675,
+    "license": "MIT License",
+    "version": "8.0",
+    "locale": "en",
+    "deleted": false
+  },
+  {
     "id": 573278,
     "daily_installs": 0,
     "total_installs": 2,
@@ -3776,34 +3616,66 @@
     "deleted": false
   },
   {
-    "id": 575998,
+    "id": 553378,
     "daily_installs": 0,
-    "total_installs": 8,
+    "total_installs": 46,
     "fan_score": "5.0",
     "good_ratings": 0,
     "ok_ratings": 0,
     "bad_ratings": 0,
-    "created_at": "2026-04-30T04:48:19.000Z",
-    "code_updated_at": "2026-05-13T07:25:34.000Z",
+    "created_at": "2025-10-22T13:57:55.000Z",
+    "code_updated_at": "2026-06-11T04:57:04.000Z",
     "namespace": "http://tampermonkey.net/",
     "support_url": null,
     "contribution_url": null,
     "contribution_amount": null,
     "users": [
       {
-        "id": 1460501,
-        "name": "syabusyabukun",
-        "created_at": "2025-04-21T11:12:05.000Z",
-        "url": "https://greasyfork.org/users/1460501-syabusyabukun"
+        "id": 1441824,
+        "name": "Bong MM",
+        "created_at": "2025-03-03T10:00:43.000Z",
+        "url": "https://greasyfork.org/users/1441824-bong-mm"
       }
     ],
-    "name": "MWI Tooltip Float Window",
-    "description": "Displays mouseover-only tooltips (likely bloated by various extensions) in a draggable float window that stays visible at your preferred position.",
-    "url": "https://greasyfork.org/scripts/575998-mwi-tooltip-float-window",
-    "code_url": "https://update.greasyfork.org/scripts/575998/MWI%20Tooltip%20Float%20Window.user.js",
-    "code_size": 14675,
+    "name": "[银河奶牛]自动填充强化数据",
+    "description": "从本地自动填充强化数据",
+    "url": "https://greasyfork.org/scripts/553378-%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B-%E8%87%AA%E5%8A%A8%E5%A1%AB%E5%85%85%E5%BC%BA%E5%8C%96%E6%95%B0%E6%8D%AE",
+    "code_url": "https://update.greasyfork.org/scripts/553378/%5B%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B%5D%E8%87%AA%E5%8A%A8%E5%A1%AB%E5%85%85%E5%BC%BA%E5%8C%96%E6%95%B0%E6%8D%AE.user.js",
+    "code_size": 68435,
     "license": "MIT License",
-    "version": "8.0",
+    "version": "1.4.3",
+    "locale": "zh-CN",
+    "deleted": false
+  },
+  {
+    "id": 555252,
+    "daily_installs": 0,
+    "total_installs": 11,
+    "fan_score": "5.0",
+    "good_ratings": 0,
+    "ok_ratings": 0,
+    "bad_ratings": 0,
+    "created_at": "2025-11-09T01:27:30.000Z",
+    "code_updated_at": "2025-11-12T13:11:39.000Z",
+    "namespace": "ignantgaming.mwi",
+    "support_url": null,
+    "contribution_url": null,
+    "contribution_amount": null,
+    "users": [
+      {
+        "id": 1535785,
+        "name": "IgnantGaming",
+        "created_at": "2025-11-09T01:23:40.000Z",
+        "url": "https://greasyfork.org/users/1535785-ignantgaming"
+      }
+    ],
+    "name": "MWI → XP Planner",
+    "description": "Save combat-skill snapshots with tags; open them on your GitHub planner.",
+    "url": "https://greasyfork.org/scripts/555252-mwi-xp-planner",
+    "code_url": "https://update.greasyfork.org/scripts/555252/MWI%20%E2%86%92%20XP%20Planner.user.js",
+    "code_size": 34296,
+    "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
+    "version": "1.2.0",
     "locale": "en",
     "deleted": false
   }
